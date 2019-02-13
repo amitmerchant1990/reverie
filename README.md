@@ -8,6 +8,8 @@ Reverie is a Jekyll theme which is simple and opinionated. It's actually a fork 
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
+![](/images/reverie-demo.png)
+
 ## Features
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
