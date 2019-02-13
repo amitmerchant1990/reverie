@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introducing Reverie - An elegant Jekyll theme
+title: Introducing Reverie - A ridiculously elegant Jekyll theme
 categories: [Miscellaneous, Jekyll]
 ---
 
-Reverie is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
@@ -31,7 +31,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 
 ### Step 1) Fork Reverie to your User Repository
 
-Fork this repo, then rename the repository to `yourgithubusername.github.io`.
+Fork [this repo](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
