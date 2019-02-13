@@ -17,6 +17,8 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
 - Markdown blogging
+- Elegant typography
+  - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
 - Syntax highlighting using Pygments
     - Dracula syntax theme included
 - Disqus commenting
