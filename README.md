@@ -6,6 +6,8 @@
 
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and [personal touches](https://github.com/amitmerchant1990/amitmerchant1990.github.io) which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
+> [Theme demo](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/)
+
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
 ![](/images/reverie-demo.png)
