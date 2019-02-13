@@ -20,7 +20,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - Elegant typography
   - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
 - Syntax highlighting using Pygments
-    - Dracula syntax theme included
+    - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
 - Google Analytics integration
 - Categorize posts out-of-the box
