@@ -8,6 +8,8 @@ Reverie is a Jekyll theme which is simple and opinionated. It's actually a fork 
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
+![](/images/reverie-demo.png)
+
 ## Features
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
@@ -15,6 +17,8 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
 - Markdown blogging
+- Elegant typography
+  - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
 - Syntax highlighting using Pygments
     - Dracula syntax theme included
 - Disqus commenting
@@ -33,7 +37,7 @@ Your Jekyll blog will often be viewable immediately at <https://yourgithubuserna
 
 ### Step 2) Customize and view your site
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
 Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
 
@@ -45,7 +49,7 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 ## Using Categories in Reverie
 
-You can categorize your content based on categories in Reverie. For this, you just need to add categories in front matter like below:
+You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
 
 For adding single category:
 
