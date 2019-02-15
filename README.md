@@ -75,6 +75,11 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>.
 
+## The name?
+
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
+
+
 ## License
 
 MIT
