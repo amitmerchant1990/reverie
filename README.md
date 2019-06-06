@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Markdownify" width="200">
+  <img src="/images/reverie-text.png" alt="Reverie" width="200">
   <br>
 </h1>
 
