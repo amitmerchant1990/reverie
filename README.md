@@ -35,7 +35,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 Fork this repo, then rename the repository to `yourgithubusername.github.io`.
 
-Alternatively, you can use [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) if you want to create a repo with clean commit history.
+Alternatively, you can use [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repo with clean commit history which will use Reverie as a template.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
