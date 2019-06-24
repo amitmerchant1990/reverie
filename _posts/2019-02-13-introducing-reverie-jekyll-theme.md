@@ -10,7 +10,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 
 ![](/images/reverie-demo.png)
 
-## Features
+## Features overview
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme (Theme Demo)
@@ -23,15 +23,19 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
     - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
 - Google Analytics integration
+- Fuzzy search across blog posts
 - Categorize posts out-of-the box
 - A home widget to show recent GitHub commit
 - RSS Feed
+- In-built sitemap
 
 ## Using Reverie on GitHub Pages
 
 ### Step 1) Fork Reverie to your User Repository
 
-Fork [this repo](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+
+Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
@@ -71,7 +75,7 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 
 ## Sitemap
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>.
+The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/sitemap).
 
 ## License
 
