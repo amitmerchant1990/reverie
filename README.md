@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Markdownify" width="200">
+  <img src="/images/reverie-text.png" alt="Reverie" width="200">
   <br>
 </h1>
 
@@ -8,7 +8,7 @@ Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and o
 
 > [Theme demo](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
 
 ![](/images/reverie-demo.png)
 
@@ -34,6 +34,8 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 ### Step 1) Fork Reverie to your User Repository
 
 Fork this repo, then rename the repository to `yourgithubusername.github.io`.
+
+Alternatively, you can use [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repo with clean commit history which will use Reverie as a template.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
