@@ -29,6 +29,10 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - RSS Feed
 - In-built sitemap
 
+<div style="text-align: center;">
+  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7DK2QJ&placement=notepadjsorg" id="_carbonads_js"></script>
+</div>
+
 ## Using Reverie on GitHub Pages
 
 ### Step 1) Fork Reverie to your User Repository
