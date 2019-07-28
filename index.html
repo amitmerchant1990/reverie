@@ -21,30 +21,3 @@ layout: default
     </article>
   {% endfor %}
 </div>
-
-<script>
-    /*var xmlhttp = new XMLHttpRequest();
-    var userMetaURL = "https://api.github.com/users/yourusername/events";
-    xmlhttp.onreadystatechange = function () {
-      if (this.readyState == 4 && this.status == 200) {
-        var userMeta = JSON.parse(this.responseText);
-
-        for(let i = 0; i < userMeta.length; i++){
-          if(userMeta[i].type == 'PushEvent'){
-            var commitURL = userMeta[i].payload.commits[0].url.replace('api.', '').replace('repos/', '').replace('commits', 'commit');
-            var projectURL = userMeta[i].repo.url.replace('api.', '').replace('repos/', '');
-            var commitMessage = userMeta[i].payload.commits[0].message;
-            var projectName = userMeta[i].repo.name;
-            var commitDate = new Date(userMeta[i].created_at).toDateString();
-
-            var ghLatestActivity = '<a class="chip yellow lighten-2">Latest commit</a>"' + '<a class="text-link" href="' + commitURL + '"' + '>' + commitMessage + '</a>' + '" at ' + '<a class="text-link" href="' + projectURL + '"' + '>' + projectName + '</a>' + ' on ' + commitDate + '.';
-
-            document.getElementById("gh-latest").innerHTML = ghLatestActivity;
-            break;
-          }
-        }
-      }
-    };
-    xmlhttp.open("GET", userMetaURL, true);
-    xmlhttp.send();*/
-  </script>
