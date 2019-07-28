@@ -27,7 +27,6 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - Fuzzy search across blog posts
 - Pagination of posts works out-of-the-box.
 - Categorize posts out-of-the box
-- A home widget to show recent GitHub commit
 - RSS Feed
 - In-built sitemap
 

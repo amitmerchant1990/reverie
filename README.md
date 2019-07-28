@@ -29,7 +29,6 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Fuzzy search across blog posts
 - Pagination of posts works out-of-the-box.
 - Categorize posts out-of-the box
-- A home widget to show recent GitHub commit
 - RSS Feed
 - In-built sitemap
 
@@ -75,7 +74,7 @@ The contegorized content can be shown over this URL: <https://yourgithubusername
 
 ## Pagination
 
-Pagination of posts in Reverie works out-of-the-box. You only need to speficy number of posts you want on a single page in `_config.yml` and reverie will take care of the rest.
+Pagination of posts in Reverie works out-of-the-box. You only need to specify number of posts you want on a single page in `_config.yml` and Reverie will take care of the rest.
 
 ```yml
 paginate: 6
