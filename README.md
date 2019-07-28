@@ -18,6 +18,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Fully responsive and mobile optimized base theme
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
+- All the SEO goodies comes in-built
 - Markdown blogging
 - Elegant typography
   - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
@@ -26,6 +27,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Disqus commenting
 - Google Analytics integration
 - Fuzzy search across blog posts
+- Pagination of posts works out-of-the-box.
 - Categorize posts out-of-the box
 - A home widget to show recent GitHub commit
 - RSS Feed
@@ -70,6 +72,14 @@ categories: [PHP, Laravel]
 ```
 
 The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+
+## Pagination
+
+Pagination of posts in Reverie works out-of-the-box. You only need to speficy number of posts you want on a single page in `_config.yml` and reverie will take care of the rest.
+
+```yml
+paginate: 6
+```
 
 ## RSS
 

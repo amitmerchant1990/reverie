@@ -690,6 +690,26 @@ Modules - reusable parts of our design
   color: #fff;
 }
 
+.pagination a, .pagination span {
+  padding: 7px 18px;
+  border: 1px solid #eee;
+  margin-left: -2px;
+  margin-right: -2px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+.pagination a {    
+  &:hover {
+      background-color: #f1f1f1;
+      color: #333;
+  }
+}
+
+.pagination {
+  text-align: center;
+}
+
 @media only screen and (min-width: 320px) and (max-width: 759px) {
   #carbonads {
     float: none;

@@ -13,9 +13,10 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 ## Features overview
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme (Theme Demo)
+- Fully responsive and mobile optimized base theme
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
+- All the SEO goodies comes in-built
 - Markdown blogging
 - Elegant typography
   - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
@@ -24,6 +25,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - Disqus commenting
 - Google Analytics integration
 - Fuzzy search across blog posts
+- Pagination of posts works out-of-the-box.
 - Categorize posts out-of-the box
 - A home widget to show recent GitHub commit
 - RSS Feed
