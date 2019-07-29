@@ -12,7 +12,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 ![](/images/reverie-demo.png)
 
-|  Responsiveness            |  Search | Categroes |
+|  Responsiveness            |  Search | Categories |
 |---------------------|----------------------|----------------------|
 |![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
 
