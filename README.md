@@ -20,8 +20,6 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Free hosting on your GitHub Pages user site
 - All the SEO goodies comes in-built
 - Markdown blogging
-- Elegant typography
-  - Futura PT fonts (The same fonts which has been used on <https://pixar.com>)
 - Syntax highlighting using Pygments
     - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting

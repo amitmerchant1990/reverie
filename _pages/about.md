@@ -11,15 +11,17 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 ## Features
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme (Theme Demo)
+- Fully responsive and mobile optimized base theme
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
+- All the SEO goodies comes in-built
 - Markdown blogging
 - Syntax highlighting using Pygments
-    - Dracula syntax theme included
+    - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
 - Google Analytics integration
+- Fuzzy search across blog posts
+- Pagination of posts works out-of-the-box.
 - Categorize posts out-of-the box
-- A home widget to show recent GitHub commit
 - RSS Feed
-- SEO friendly
+- In-built sitemap
