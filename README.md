@@ -34,6 +34,9 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - RSS Feed
 - In-built sitemap
 
+> <p><i>Like this theme?</i> Become a patreon to support my opensource work <p>
+> <a href="https://www.patreon.com/amitmerchant"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+
 ## Using Reverie on GitHub Pages
 
 ### Step 1) Fork Reverie to your User Repository
