@@ -29,7 +29,7 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - In-built sitemap
 
 <div style="text-align: center;">
-  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7DK2QJ&placement=notepadjsorg" id="_carbonads_js"></script>
+ <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
 </div>
 
 ## Using Reverie on GitHub Pages
