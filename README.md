@@ -2,7 +2,7 @@
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
   <br>
-  <p align="center"
+  <p align="center">
   <a href="https://ko-fi.com/Y8Y2QC9Y"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="200"/></a>
   </p>
 </h1>
