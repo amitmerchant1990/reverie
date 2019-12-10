@@ -29,6 +29,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Free hosting on your GitHub Pages user site
 - All the SEO goodies comes in-built
 - Markdown blogging
+- Supports [Pullquotes](https://en.wikipedia.org/wiki/Pull_quote)
 - Syntax highlighting using Pygments
     - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
