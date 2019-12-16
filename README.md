@@ -27,7 +27,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Fully responsive and mobile optimized theme
 - Sass/Coffeescript support using Jekyll 2.0
 - Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
+- All the SEO goodies come built-in
 - Markdown blogging
 - Supports [Pullquotes](https://en.wikipedia.org/wiki/Pull_quote)
 - Syntax highlighting using Pygments
@@ -39,9 +39,9 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Blog with pagination
 - Categorize posts out-of-the box
 - RSS Feed
-- In-built sitemap
+- Built-in sitemap
 
-> <p><i>Like this theme?</i> Become a patreon to support my opensource work <p>
+> <p><i>Like this theme?</i> Become a patreon to support my open source work <p>
 > <a href="https://www.patreon.com/amitmerchant"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ## Using Reverie on GitHub Pages
@@ -50,15 +50,15 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 Fork this repository, then rename the repository to `yourgithubusername.github.io`.
 
-Alternatively, you can use [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+Alternatively, you can click the [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2.
+Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2).
 
 ### 2. Customize and view your site
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with Jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
 
 ### 3. Publish your first blog post
 
@@ -86,7 +86,7 @@ The categorized content can be shown over this URL: <https://yourgithubusername.
 
 ## Pagination
 
-Pagination of posts in Reverie works out-of-the-box. You only need to specify number of posts you want on a single page in `_config.yml` and Reverie will take care of the rest.
+Pagination of posts in Reverie works out-of-the-box. You only need to specify the number of posts you want on a single page in `_config.yml` and Reverie will take care of the rest.
 
 ```yml
 paginate: 6
