@@ -5,17 +5,12 @@
     {% seo title=false %}
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="/reverie/images/favicon-32x32.png">
-    <script type="text/javascript">
-      var host = "www.amitmerchant.com";
-      if ((host == window.location.host) && (window.location.protocol != "https:"))
-          window.location.protocol = "https";
-    </script>
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
   </head>
 
   <body>
@@ -33,6 +28,7 @@
 
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
+              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
               <a href="{{ site.baseurl }}/search">Search</a>
               <a href="{{ site.baseurl }}/about">About</a>
             </nav>

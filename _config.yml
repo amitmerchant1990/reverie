@@ -12,7 +12,7 @@ author: Amit Merchant
 description: An elegant Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /reverie/images/reverie.png
+avatar: /images/reverie.png
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-4
+google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
