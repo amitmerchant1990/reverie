@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo %}
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% seo title=false %}
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
@@ -19,7 +19,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" /></a>
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
