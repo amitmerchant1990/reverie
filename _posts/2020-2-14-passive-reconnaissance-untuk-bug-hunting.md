@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Passive Reconnaissance untuk Bug Hunting
+title: Passive Reconnaissance untuk Bug Hunting
 categories: [Web Security]
 author: Novran Faathir
 ---
