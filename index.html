@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1 style="border:none;text-align:center;">{{ post.title }}</h1>
+        <h1 style="border:none;padding-bottom:none;">{{ post.title }}</h1>
 
         <div>
           <p class="post_date" style="text-align:left">by {{ post.author }} · {{ post.date | date: "%Y-%m-%d" }}</p>
