@@ -11,7 +11,7 @@ Passive Reconnaissance adalah sebuah metode pengintaian untuk mengumpulkan infor
 
 Ok! kita mulai saja, hal apa saja yang dapat kita lakukan.
 
-
+---------
 # Mencari IP address dibalik Cloudflare menggunakan Historical DNS
 Pada saat mencari IP address dibalik Cloudflare, biasanya saya menggunakan mesin dari:
 - <https://www.virustotal.com/gui/domain/target.com/relations>
@@ -20,7 +20,7 @@ Pada saat mencari IP address dibalik Cloudflare, biasanya saya menggunakan mesin
 
 ![VirusTotal show-case](/images/passive-recon-cloudflare-virustotal.jpg "VirusTotal show-case")
 
-
+---------
 # Mencari Endpoint sebuah website
 Dalam Bug Hunting mencari Endpoint adalah hal terpenting untuk menemukan kerentanan pada aplikasi.
 
@@ -44,7 +44,7 @@ site:target.com/*/*/*
 **Pencarian endpoint website menggunakan web.archive.org:**
 - <http://web.archive.org/cdx/search/cdx?url=target.com/*&output=text&fl=original&collapse=urlkey>
 
-
+---------
 # Mencari "parameter name" pada sebuah URL
 Pencarian "parameter name" pada URL digunakan untuk mencari celah Injection seperti SQL Injection, Reflected XSS, dan lain-lain.
 
@@ -73,7 +73,7 @@ root@linux:~# curl -s http://target.com/?field-keywords=TESTXSS%22F | grep 'TEST
 <a href="http://target.com/?field-keywords=TESTXSS"F">TEST</a>
 ```
 
-
+---------
 # Mencari Port yang terbuka
 Untuk menemukan port yang terbuka saya lebih sering menggunakan Shodan.
 
@@ -85,7 +85,7 @@ Untuk menemukan port yang terbuka saya lebih sering menggunakan Shodan.
 
 Untuk alternatifnya kalian dapat menggunakan mesin milik <https://censys.io/>.
 
-
+---------
 # Mencari Subdomain
 Mungkin ini sudah sangat familiar untuk kalangan Bug Bounty Hunter
 
@@ -105,7 +105,7 @@ Supaya lebih cepat saat pencarian Subdomain, kalian dapat menggunakan tools di b
 - <https://github.com/Screetsec/Sudomy>
 - <https://github.com/aboul3la/Sublist3r>
 
-
+---------
 ## Summary
 Passive Reconnaissance tentunya lebih unggul untuk hal "kecepatan" namun kurang dalam hal "ketepatan" dibandingkan dengan Active Reconnaissance karena sewaktu-waktu aplikasi dapat berubah. Pada artikel ini saya hanya menggunakan beberapa mesin saja untuk dijadikan contoh, kalian dapat mengeksplor lebih lanjut dan temukan mesin-mesin kalian.
 
