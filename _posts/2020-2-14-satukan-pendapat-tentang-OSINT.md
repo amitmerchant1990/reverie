@@ -5,7 +5,8 @@ categories: [OSINT]
 author: Novran Faathir
 ---
 
-# TL;DR
+TL;DR
+
 Beberapa orang memandang bahwa OSINT serta merta hanya untuk melakukan mata-mata kepada seseorang, sampai pernah ada beberapa orang menyuruh saya berhenti untuk riset OSINT, mungkin asumsi saya karena menjadi penguntit itu kurang beretika dan terlalu berbahaya.
 
 **Benarkah begitu?**
