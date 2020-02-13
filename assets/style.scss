@@ -56,8 +56,6 @@ h1 {
   a {
     color: inherit;
   }
-  border-bottom: 1px solid #0288d1;
-  margin-top: 35px;
 }
 
 h2 {
@@ -452,6 +450,9 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+  border-bottom: 2px solid #0288d1;
+  margin-top: 40px;
+  padding-bottom: 5px;
 }
 
 .page h1{
@@ -460,6 +461,9 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+  border-bottom: 2px solid #0288d1;
+  margin-top: 40px;
+  padding-bottom: 5px;
 }
 
 .author_title{
