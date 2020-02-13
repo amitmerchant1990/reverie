@@ -5,7 +5,7 @@ categories: [Web Security]
 author: Novran Faathir
 ---
 
-Passive Reconnaissance adalah sebuah metode pengintaian untuk mengumpulkan informasi (Information Gathering) tanpa melakukan enumerasi secara langsung kepada target, namun kita akan memanfaatkan sebuah third-party (contohnya: seperti search engine atau mesin yang menyimpan sebuah histori target), tentunya kita akan memanfaatkan OSINT (Open Source Intelligent) untuk melakukan Passive Reconnaissance.
+Passive Reconnaissance adalah sebuah metode pengintaian untuk mengumpulkan informasi (Information Gathering) tanpa melakukan enumerasi secara langsung kepada target, namun kita akan memanfaatkan sebuah third-party (contohnya: seperti search engine atau mesin yang menyimpan sebuah histori target), dengan kata lain kita akan memanfaatkan OSINT (Open Source Intelligent) untuk melakukan Passive Reconnaissance.
 
 `Kalau bahasa simplenya seperti dukun, mencari informasi tanpa menyentuh (secara langsung) :D`
 
@@ -87,7 +87,7 @@ Untuk alternatifnya kalian dapat menggunakan mesin milik <https://censys.io/>.
 
 
 # Mencari Subdomain
-Mungkin ini sudah sangat familiar untuk kalangan Bug Bounty Hunter
+Mungkin ini sudah sangat familiar untuk kalangan Bug Bounty Hunter.
 
 Mencari Subdomain menggunakan Google Dork:
 ```
