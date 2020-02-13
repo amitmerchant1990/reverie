@@ -1,4 +1,9 @@
-Mari satukan pendapat tentang OSINT
+---
+layout: post
+title: Mari satukan pendapat tentang OSINT
+categories: [OSINT]
+author: Novran Faathir
+---
 
 # TL;DR
 Beberapa orang memandang bahwa OSINT serta merta hanya untuk melakukan mata-mata kepada seseorang, sampai pernah ada beberapa orang menyuruh saya berhenti untuk riset OSINT, mungkin asumsi saya karena menjadi penguntit itu kurang beretika dan terlalu berbahaya.
