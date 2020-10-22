@@ -1,11 +1,11 @@
-<h1 align="center">
+<div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
-  <br>
+  <br>  
   <p align="center">
-  <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
+    <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
   </p>
-</h1>
+</div>
 
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
