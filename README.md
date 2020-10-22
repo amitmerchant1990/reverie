@@ -3,7 +3,7 @@
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
   <br>
   <p align="center">
-  <a href="https://ko-fi.com/Y8Y2QC9Y"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="200"/></a>
+  <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
   </p>
 </h1>
 
@@ -41,8 +41,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - RSS Feed
 - Built-in sitemap
 
-> <p><i>Like this theme?</i> Become a patreon to support my open source work <p>
-> <a href="https://www.patreon.com/amitmerchant"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+> <p><i>Like this theme?</i> If so, consider donating a small amount that will help my maintaining this project further.<p>
+> You can support me via <a href="https://paypal.me/AmitMerchant">Paypal</a>.
 
 ## Using Reverie on GitHub Pages
 
