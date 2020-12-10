@@ -50,6 +50,8 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 ## Using Reverie on GitHub Pages
 
+Setting up Reverie on GitHub Pages is as simple as it gets!
+
 ### 1. Fork Reverie to your User Repository
 
 Fork this repository, then rename the repository to `yourgithubusername.github.io`.
