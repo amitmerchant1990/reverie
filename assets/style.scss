@@ -20,6 +20,17 @@ html {
   height: 100%;
 }
 
+// Poor man's dark mode
+// dev.to/pqina/poor-man-s-dark-mode-using-css-filter221n
+
+.dark-mode img {
+  filter: hue-rotate(180deg) invert(100%);
+}
+
+.dark-mode {
+  filter: invert(100%) hue-rotate(180deg);
+}
+
 body {
   background: #fff;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
