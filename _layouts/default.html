@@ -8,6 +8,8 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/style.js"></script>
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
@@ -15,23 +17,33 @@
 
   <body>
     <div id="bar"></div>
+
+    <div class="top-right-corner">
+      <div style="padding-right:1rem;margin-top:-.3rem;">toggle dark mode</div>
+      <div class="switch">
+        <span class="btn-toggle"></span>
+      </div>
+    </div>
+
     <div class="wrapper-container">
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
+
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
-
+            
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
               <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
               <a href="{{ site.baseurl }}/search">Search</a>
               <a href="{{ site.baseurl }}/about">About</a>
             </nav>
+
           </header>
         </div>
       </div>
