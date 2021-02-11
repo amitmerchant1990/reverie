@@ -24,11 +24,18 @@ html {
 // dev.to/pqina/poor-man-s-dark-mode-using-css-filter221n
 
 .dark-mode img {
-  filter: hue-rotate(180deg) invert(100%);
+  filter: invert(100%);
 }
 
 .dark-mode {
-  filter: invert(100%) hue-rotate(180deg);
+  filter: invert(100%);
+}
+
+// Firefox workaround
+@supports (-moz-appearance:none) {
+  .dark-mode body {
+    background: #000000;
+  }
 }
 
 // Toggle
