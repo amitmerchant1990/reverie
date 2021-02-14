@@ -41,22 +41,17 @@ html {
 // Toggle
 // https://codepen.io/coralcat/pen/qBayzVX
 .switch {
-    display: flex;
+    display: inline-flex;
     border-radius: 50px;
     height: 1.5rem;
     width: 3rem;
-    padding: .26rem;
+    padding: .25rem;
     background-color: black;
     transition: background-color .2s;
     cursor: pointer;
-}
-
-.top-right-corner {
-  display: flex;
-  position: relative;
-  margin: 0;
-  vertical-align: top;
-  padding: 1rem;
+    vertical-align: -.1rem;
+    position: relative;
+    left: 20px;
 }
 
 .btn-toggle {
@@ -64,11 +59,14 @@ html {
     height: 1rem;
     border-radius: 20px;
     background-color: white;
-    transition: transform .1s;
+    transition: transform .5s;
 }
 
 .dark-mode .btn-toggle {
-    transform: translateX(1.5rem);
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: inset .3rem .3rem 0 0 white;
+    transform: translateX(1.5rem) rotate(270deg);
 }
 
 body {

@@ -6,6 +6,7 @@
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     
@@ -17,13 +18,6 @@
 
   <body>
     <div id="bar"></div>
-
-    <div class="top-right-corner">
-      <div style="padding-right:1rem;margin-top:-.3rem;">toggle dark mode</div>
-      <div class="switch">
-        <span class="btn-toggle"></span>
-      </div>
-    </div>
 
     <div class="wrapper-container">
       <div class="wrapper-masthead">
@@ -42,6 +36,11 @@
               <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
               <a href="{{ site.baseurl }}/search">Search</a>
               <a href="{{ site.baseurl }}/about">About</a>
+              
+              <div class="switch">
+                <span class="btn-toggle"></span>
+              </div>
+
             </nav>
 
           </header>
