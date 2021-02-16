@@ -20,6 +20,55 @@ html {
   height: 100%;
 }
 
+// Poor man's dark mode
+// dev.to/pqina/poor-man-s-dark-mode-using-css-filter221n
+
+.dark-mode img {
+  filter: invert(100%);
+}
+
+.dark-mode {
+  filter: invert(100%);
+}
+
+// Firefox workaround
+@supports (-moz-appearance:none) {
+  .dark-mode body {
+    background: #000000;
+  }
+}
+
+// Toggle
+// https://codepen.io/coralcat/pen/qBayzVX
+.switch {
+    display: inline-flex;
+    border-radius: 50px;
+    height: 1.5rem;
+    width: 3rem;
+    padding: .25rem;
+    background-color: black;
+    transition: background-color .2s;
+    cursor: pointer;
+    vertical-align: -.1rem;
+    position: relative;
+    left: 20px;
+}
+
+.btn-toggle {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 20px;
+    background-color: white;
+    transition: transform .5s;
+}
+
+.dark-mode .btn-toggle {
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: inset .3rem .3rem 0 0 white;
+    transform: translateX(1.5rem) rotate(270deg);
+}
+
 body {
   background: #fff;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
