@@ -39,6 +39,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Disqus commenting
 - Social media icons
 - Google Analytics integration
+- Supports [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
 - Fuzzy search across blog posts
 - Blog with pagination
 - Categorize posts out-of-the box
