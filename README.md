@@ -23,6 +23,20 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 |---------------------|----------------------|----------------------|
 |![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
 
+# Table of Contents
+  - [Features overview](#features-overview)
+  - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
+    - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
+    - [2. Customize and view your site](#2-customize-and-view-your-site)
+    - [3. Publish your first blog post](#3-publish-your-first-blog-post)
+  - [Using Categories in Reverie](#using-categories-in-reverie)
+  - [Pagination](#pagination)
+  - [RSS](#rss)
+  - [Sitemap](#sitemap)
+  - [Emailware](#emailware)
+  - [The name?](#the-name)
+  - [License](#license)
+
 ## Features overview
 
 - Clean and minimal design
@@ -39,6 +53,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Disqus commenting
 - Social media icons
 - Google Analytics integration
+- Supports [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
 - Fuzzy search across blog posts
 - Blog with pagination
 - Categorize posts out-of-the box
