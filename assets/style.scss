@@ -156,6 +156,26 @@ table tr td :last-child {
   color: #222;
 }
 
+span[data-pullquote] {
+  display: block;
+
+  @include mobile {
+    display: none;
+  }
+}
+
+span[data-pullquote]:before {
+  content: attr(data-pullquote);
+  float: right;
+  width: 200px;
+  margin: 0 0 0.5em 30px;
+  padding: 0 -5% 0 0;
+  font-size: 1.3em;
+  font-style: italic;
+  color: green;
+  text-align: center;
+}
+
 a {
   color: $blue;
   text-decoration: none;
@@ -292,6 +312,11 @@ p > img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  text-align: left;
+
+  @include mobile {
+    text-align: center;
+  }
 }
 
 .site-description {
