@@ -9,10 +9,10 @@ name: Hello, World!
 author: Nicole Ramirez
 
 # Short bio or description (displayed in the header)
-description: 
+description: Seems like I have to have a description
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/nicole-photo.jpg
+avatar: https://nxrmrz.github.io/images/nicole-photo.jpg
 
 #
 # Flags below are optional
