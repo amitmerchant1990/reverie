@@ -4,7 +4,7 @@ title: Classifier Diagnostics
 usemathjax: true
 categories: [classification, python]
 ---
-**TL;DR:** In applied machine learning, models are often optimised for their accuracy in predicting a target. When the target is quantitative, measures like the R^2 value and the Root Mean Squared Error (RMSE) etc., help in quantifying this accuracy. When the target is qualitative, metrics like Accuracy, Precision, Recall and several others are used. We term these measures _classification metrics_ for the sake of this blog post.
+**TL;DR:** In applied machine learning, models are often optimised for their accuracy in predicting a target. When the target is quantitative, measures like the $$R^2$$ value and the Root Mean Squared Error (RMSE) etc., help in quantifying this accuracy. When the target is qualitative, metrics like Accuracy, Precision, Recall and several others are used. We term these measures _classification metrics_ for the sake of this blog post.
 
 In this post, I explain classification metrics and provide python code to calculate them. I also produce a report including them that can be easily saved to a file for later use. 
 
@@ -66,7 +66,7 @@ $$
 Weighted Precision= \frac{(Precision_{class1} \times c_1) + (Precision_{class2} \times c_2)}{c_1 + c_2}
 $$
 
-where $c_1$ and $c_2$ are the number of examples in classes $1$ and $2$
+where $$c_1$$ and $$c_2$$ are the number of examples in classes $$1$$ and $$2$$
 
 Note that if we replace ```Precision``` above with ```F-1 score``` or ```Recall```, the formulas would still work!
 
