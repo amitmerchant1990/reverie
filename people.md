@@ -19,7 +19,7 @@ Contact: editors at aclrollingreview.org
 ## Technical Staff
 
 * Nils Dycke, TU Darmstadt
-* Kushal Arora, McGill
+* Kushal Arora, McGill University and Mila
 
 ## Action Editors
 
