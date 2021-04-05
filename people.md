@@ -16,6 +16,8 @@ Contact: editors at aclrollingreview.org
 
 * Graham Neubig, CMU
 
+Contact: cto at aclrollingreview.org
+
 ## Technical Staff
 
 * Nils Dycke, TU Darmstadt
