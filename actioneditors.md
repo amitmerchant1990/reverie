@@ -17,7 +17,9 @@ Each month, starting around 24 days after the submission deadline, the action ed
 
 Each month, between 30 and 35 days after the submission deadline, the action editor will read the reviews, discuss with the reviewers if necessary, and:
 * Summarize the review results in a meta-review.
-* Perform a compliance check, checking several boxes confirming “the paper satisfies the formatting requirements (e.g. abiding by the page limit),” “the paper is written in comprehensible English (or any language accepted by *ACL publications),” “the paper is compliant with the ACL ethical code,” “the paper is topically within the scope of at least one *ACL venue.” In the very rare case (e.g. 2-4% of submitted papers?) that a paper does not satisfy these minimal criteria, it will not be allowed to proceed to the next step and may face a moratorium on resubmission for a certain period of time.
+* Perform a compliance check, checking the paper meetings formatting and other requirements.
+
+So, action editors will want to be especially available from the 10th to the 20th of each month.
 
 ## What is the time commitment for action editors?
 An initial term of one year, renewable. If an action editor will be unavailable in any given month, they should notify the editors in chief.
