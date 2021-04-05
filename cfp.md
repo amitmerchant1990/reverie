@@ -56,7 +56,7 @@ Short paper submissions must describe original and unpublished work. Please note
  
 ### Anonymity Period
  
-ACL has policies for submission, review and citation designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if it has been anonymous for at least a month before the first submission, and it must remain anonymous while it is under review.
+ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if it has been anonymous for at least a month before the first submission, and it must remain anonymous while it is under review.
  
 * Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review.
 * Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper,  we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
@@ -84,7 +84,7 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to a submission, and authors are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
 
-For more information, see the ACL Policies for Submission, Review, and Citation.
+For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
 ### Multiple Submission Policy
 
@@ -93,7 +93,7 @@ In addition, we will not consider any paper that overlaps significantly in conte
 
 ### Ethics Policy
 
-Authors are required to honour the ethical code set out in the ACL Code of Ethics.
+Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
 The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that authors include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by the Ethics Advisory Committee (EAC).
 
@@ -105,9 +105,9 @@ ARR will provide a submission checklist that authors will be asked to answer dur
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the ACL Author Guidelines. Here are the Abstract Submission Form and the Full Paper Submission Form for your reference.
+Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Here are the Abstract Submission Form and the Full Paper Submission Form for your reference.
  
-Paper submissions must use the official ACL style templates, which are available as an Overleaf template and also downloadable directly  (Latex and Word). Please follow the paper formatting guidelines general to "*ACL" conferences available here.
+Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb) and also downloadable directly  (Latex and Word). Please follow the paper formatting guidelines general to "*ACL" conferences available here.
 Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Submissions which include appendices in the main papers will be rejected without review.
  
 Coming soon! is the current version of the Review Form. The review form will be re-assessed and updated periodically.
