@@ -13,7 +13,7 @@ ACL Rolling Review offers the following:
 
 # Call for Papers
 
-[Call For Papers](https://aclrollingreview.org/cfp.md)
+[Call For Papers](https://aclrollingreview.org/cfp)
 
 # Submission Site
 
