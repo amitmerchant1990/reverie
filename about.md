@@ -8,9 +8,9 @@ ACL Rolling Review is an initiative of the [ACL](https://aclweb.org).
 
 Please see the [ACL Rolling Review Proposal](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal) for more information.
 
-## Acknowledgments
+<sub>## Acknowledgments</sub>
 
-Template from [Amit Merchant](https://github.com/amitmerchant1990/reverie)
+<sub>Template from [Amit Merchant](https://github.com/amitmerchant1990/reverie)</sub>
 
-Logo from [Ozan Irsoy](https://github.com/oir)
+<sub>Logo from [Ozan Irsoy](https://github.com/oir)</sub>
 
