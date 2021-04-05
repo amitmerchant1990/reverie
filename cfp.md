@@ -107,7 +107,7 @@ ARR will provide a submission checklist that authors will be asked to answer dur
 
 Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Here are the Abstract Submission Form and the Full Paper Submission Form for your reference.
  
-Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb) and also downloadable directly  (Latex and Word). Please follow the paper formatting guidelines general to "*ACL" conferences available here.
+Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb) and also [downloadable directly](https://aclrollingreview.org/files/arr-templates.zip)  (Latex and Word). Please follow the paper formatting guidelines general to "*ACL" conferences available here.
 Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Submissions which include appendices in the main papers will be rejected without review.
  
 Coming soon! is the current version of the Review Form. The review form will be re-assessed and updated periodically.
