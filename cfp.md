@@ -73,7 +73,7 @@ Papers may be accompanied by a resource (software and/or data) described in the 
 
 ### Authorship
 
-The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ARR will be notified of submissions, revisions and the final decision.
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ARR will be notified of submissions and reviews.
 
 ### Citation and Comparison
 
@@ -94,7 +94,7 @@ In addition, we will not consider any paper that overlaps significantly in conte
 
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that authors include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by the Ethics Advisory Committee (EAC).
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that authors include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
 Authors are encouraged to devote a section of their paper to concerns of the ethical impact of the work and to a discussion of broader impacts of the work.
 
