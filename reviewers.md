@@ -9,6 +9,14 @@ ACL Rolling Review offers:
 * manage your reviewing load month over month
 * advanced reviewer/paper matching
 
+## What are the responsibilities of a reviewer?
+Each month, around 7 days after the submission deadline, reviewers will receive up to 3 submissions to review. Reviewers should immediately check that they have no conflict of interest with their assigned submissions. Reviews should be completed by 30 days after the submission deadline.
+Each month, around 30 days after the submission deadline, the action editor will read the reviews and discuss with the reviewers if necessary. Reviewers should be responsive during this time.
+So, reviewers will want to be especially available from the 15th to the 22nd of each month.
+ 
+## What is the time commitment for reviewers?
+An initial term of one year, renewable. If a reviewer will be unavailable in any given month, they should notify the editors in chief.
+
 # Review Form
 
 Coming soon!
