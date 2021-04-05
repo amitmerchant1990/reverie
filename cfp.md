@@ -54,7 +54,7 @@ Short paper submissions must describe original and unpublished work. Please note
 * An interesting application nugget
 * Short papers may consist of up to four (4) pages of content, plus unlimited pages of references.
  
-### IMPORTANT: Anonymity Period
+### Anonymity Period
  
 ACL has policies for submission, review and citation designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if it has been anonymous for at least a month before the first submission, and it must remain anonymous while it is under review.
  
