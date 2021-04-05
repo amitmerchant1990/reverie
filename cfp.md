@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-permalink: /about
+title: "Call For Papers"
+permalink: /cfp
 ---
 
 ## CALL FOR PAPERS
