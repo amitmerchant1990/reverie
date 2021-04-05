@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Call For Papers"
+title: "CALL FOR PAPERS"
 permalink: /cfp
 ---
-
-## CALL FOR PAPERS
 
 ACL Rolling Review (ARR)  invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve efficiency and turnaround of ACL reviewing while keeping the diversity (topical, geographic and otherwise)  and editorial freedom that we value about our current organization of the reviewing process at ACL venues. ARR  will use Open Review as its platform (but reviews will not be open in ARR).
 The reviewing and acceptance of papers for publication will be done in two steps:
