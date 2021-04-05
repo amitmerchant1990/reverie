@@ -11,6 +11,10 @@ ACL Rolling Review offers the following:
 * one click to submit to a conference or workshop
 * optional anonymous preprint
 
+# Call for Papers
+
+[Call For Papers](https://aclrollingreview.org/cfp.md)
+
 # Submission Site
 
 Coming soon!
