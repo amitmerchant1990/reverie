@@ -17,7 +17,7 @@ Each month, starting around 24 days after the submission deadline, the action ed
 
 Each month, between 30 and 35 days after the submission deadline, the action editor will read the reviews, discuss with the reviewers if necessary, and:
 * Summarize the review results in a meta-review.
-* Perform a compliance check, checking the paper meetings formatting and other requirements.
+* Perform a compliance check, checking the paper meets formatting and other requirements.
 
 So, action editors will want to be especially available from the 10th to the 20th of each month.
 
