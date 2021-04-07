@@ -22,7 +22,7 @@ Each month, between 30 and 35 days after the submission deadline, the action edi
 So, action editors will want to be especially available from the 10th to the 20th of each month.
 
 ## What is the time commitment for action editors?
-An initial term of one year, renewable. If an action editor will be unavailable in any given month, they should notify the editors in chief.
+An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 30. If an action editor will be unavailable in any given month, they should notify the editors in chief.
 
 # Meta Review Form
 
@@ -37,7 +37,7 @@ Each month, around 30 days after the submission deadline, the action editor will
 So, reviewers will want to be especially available from the 15th to the 22nd of each month.
  
 ## What is the time commitment for reviewers?
-An initial term of one year, renewable. If a reviewer will be unavailable in any given month, they should notify the editors in chief.
+An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 18. If a reviewer will be unavailable in any given month, they should notify the editors in chief.
 
 # Review Form
 
