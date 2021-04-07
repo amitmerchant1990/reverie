@@ -4,8 +4,6 @@ title: "Review Form"
 permalink: /reviewform
 ---
 
-## Submission Review
-
 ### Paper Summary
 
 Describe what this paper is about. This should help action editors and area chairs to understand the topic of the work and highlight any possible misunderstandings.  
