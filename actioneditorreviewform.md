@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Action Editor Form"
+permalink: /actioneditorform
+---
+
 ### Paper Summary
 
 Describe what this paper is about. This should help SACs at publication venues understand what sessions the paper might fit in.
