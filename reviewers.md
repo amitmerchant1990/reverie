@@ -11,7 +11,7 @@ ACL Rolling Review offers:
 
 ## What are the responsibilities of an action editor?
 
-Each month, after the submission deadline, action editors will be automatically assigned up to 5 submissions. The action editor will first confirm they have no conflict of interest with each submission. Then, they will quickly check the submission for any major violations in formatting or other factors and desk reject the submission if it is in violation. The action editor will then be presented with a list of reviewers automatically suggested. The action editor will choose reviewers, using this automatic suggestion as a base. This will take place within 7 days of the paper submission deadline.
+Each month, after the submission deadline, action editors who are available that month will be automatically assigned up to 5 submissions. The action editor will first confirm they have no conflict of interest with each submission. Then, they will quickly check the submission for any major violations in formatting or other factors and desk reject the submission if it is in violation. The action editor will then be presented with a list of reviewers automatically suggested. The action editor will choose reviewers, using this automatic suggestion as a base. This will take place within 7 days of the paper submission deadline.
 
 Each month, starting around 24 days after the submission deadline, the action editor will remind any reviewer who has not yet completed their review.
 
@@ -22,7 +22,7 @@ Each month, between 30 and 35 days after the submission deadline, the action edi
 So, action editors will want to be especially available from the 10th to the 20th of each month.
 
 ## What is the time commitment for action editors?
-An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 30. If an action editor will be unavailable in any given month, they should notify the editors in chief.
+An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 30. When an action editor wishes to be unavailable for a month, they should notify the editors in chief.
 
 # Meta Review Form
 
@@ -30,14 +30,14 @@ Coming soon!
 
 
 ## What are the responsibilities of a reviewer?
-Each month, around 7 days after the submission deadline, reviewers will receive up to 3 submissions to review. Reviewers should immediately check that they have no conflict of interest with their assigned submissions. Reviews should be completed by 30 days after the submission deadline.
+Each month, around 7 days after the submission deadline, reviewers who are available that month will receive up to 3 submissions to review. Reviewers should immediately check that they have no conflict of interest with their assigned submissions. Reviews should be completed by 30 days after the submission deadline.
 
 Each month, around 30 days after the submission deadline, the action editor will read the reviews and discuss with the reviewers if necessary. Reviewers should be responsive during this time.
 
 So, reviewers will want to be especially available from the 15th to the 22nd of each month.
  
 ## What is the time commitment for reviewers?
-An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 18. If a reviewer will be unavailable in any given month, they should notify the editors in chief.
+An initial term of one year, renewable. We hope to keep the total load in terms of papers per year at less than 18. When a reviewer wishes to be unavailable for a month, they should notify the editors in chief.
 
 # Review Form
 
