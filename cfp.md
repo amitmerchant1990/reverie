@@ -110,7 +110,7 @@ Submission is electronic, using the OpenReview.net platform. All long, short and
 Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and also [downloadable directly](https://github.com/acl-org/ACLPUB/tree/master/templates)  (Latex and Word). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html).
 Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. 
  
-[https://aclrollingreview.org/reviewform](Here) is the current version of the review form, and [https://aclrollingreview.org/actioneditorform](here) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
+[Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and [here](https://aclrollingreview.org/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
  
 ### Optional Supplementary Materials: Appendices, Software and Data
 
