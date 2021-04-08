@@ -68,9 +68,9 @@ ACL has [policies for submission, review and citation](https://www.aclweb.org/ad
 
 Papers must not include authors' names and affiliations. Furthermore, self-references that reveal the authors’ identities, e.g., "We previously showed (Smith, 1991) ..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ..." Papers that do not conform to these requirements will be rejected without review.
 
-Papers should not refer, for further detail, to documents that are not available to the reviewers. For example, do not omit or redact important citation information to preserve anonymity. Instead, use third person or named reference to this work, as described above ("Smith showed" rather than "we showed").
+Papers should not refer, for further detail, to documents that are not available to the reviewers.
 
-Papers may be accompanied by a resource (software and/or data) described in the paper, but these resources should be anonymized as well.
+Supplementary materials should also be anonymized.
 
 ### Authorship
 
@@ -101,23 +101,19 @@ Authors are encouraged to devote a section of their paper to concerns of the eth
 
 ### Submission Criteria
 
-ARR will provide a submission checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve the quality of their papers. The author instruction on the checklist will be available here.
+ARR will provide a submission checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve the quality of their papers. The author instruction on the checklist will be available Coming soon.
 
 ### Paper Submission and Templates
 
 Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Here (Coming Soon!) is the Paper Submission Form for your reference.
  
 Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and also [downloadable directly](https://github.com/acl-org/ACLPUB/tree/master/templates)  (Latex and Word). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html).
-Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Submissions which include appendices in the main papers will be rejected without review.
+Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. 
  
-Coming soon! is the current version of the Review Form. The review form will be re-assessed and updated periodically.
+[https://aclrollingreview.org/reviewform](Here) is the current version of the review form, and [https://aclrollingreview.org/actioneditorform](here) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
  
 ### Optional Supplementary Materials: Appendices, Software and Data
 
 ARR encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. Supplementary materials may include appendices, software or data. For example, pre processing  decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. However, the paper submissions need to remain fully self-contained. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in appendices. Reviewers are not required to consider material in appendices.
 
 Appendices should come after the references in the submitted pdf, but do not count towards the page limit. Software should be submitted as a single .tgz or .zip archive, and data as a separate single .tgz or .zip archive. Supplementary materials must be fully anonymized to preserve the two-way anonymized reviewing policy.
-
-Note: The supplementary material does not count towards the page limit and should not be included in the paper,  but must be submitted separately using the appropriate field on the submission website. The appendix may consist of up to four (4) pages.
-
- 
