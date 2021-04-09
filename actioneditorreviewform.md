@@ -7,11 +7,12 @@ permalink: /actioneditorform
 ### Paper Summary
 
 Describe what this paper is about. This should help SACs at publication venues understand what sessions the paper might fit in.
-### Summary of Reasons to Publish
 
-What are the major reasons to publish this paper at a *ACL venue? This should help SACs at publication venues understand why they might want to accept the paper.
+### Summary of Strengths
 
-### Summary of Suggested Revisions
+What are the major strengths of this paper? This should help SACs at publication venues understand why they might want to accept the paper.
+
+### Summary of Weaknesses
 
 What revisions could the authors make to the research and the paper that would improve it? This should help authors understand the reviews in context, and help them plan any future resubmission.
 
