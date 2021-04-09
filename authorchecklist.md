@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Author Checklist"
-permalink: /about/authorchecklist
+permalink: /authorchecklist
 ---
 
 Coming Soon!
