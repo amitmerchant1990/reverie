@@ -6,7 +6,7 @@ permalink: /cfp
 
 ACL Rolling Review (ARR)  invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve efficiency and turnaround of ACL reviewing while keeping the diversity (topical, geographic and otherwise)  and editorial freedom that we value about our current organization of the reviewing process at ACL venues. ARR  will use Open Review as its platform (but reviews will not be open in ARR).
 The reviewing and acceptance of papers for publication will be done in two steps:
-* Step 1 -- Centralized Rolling Review: Authors submit papers to a unified review pool with deadline on the 15th of each month. Review is handled by an action editor, and revision and resubmission of papers is allowed.
+* Step 1 -- Centralized Rolling Review: Authors submit papers to a [unified review pool](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/May) with deadline on the 15th of each month. Review is handled by an action editor, and revision and resubmission of papers is allowed.
 * Step 2 -- Submission to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to submit to a
 publication venue comes around, authors may submit already reviewed papers with reviews to the publication venue, through the OpenReview website. Program chairs (possibly with the help of senior area chairs) will then accept a subset of submitted papers for presentation.
  
@@ -101,7 +101,7 @@ Authors are encouraged to devote a section of their paper to concerns of the eth
 
 ### Submission Criteria
 
-ARR will provide a submission checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve the quality of their papers. The author instruction on the checklist will be available Coming soon.
+ARR will provide a submission checklist that authors will be asked to answer during paper submission. The checklist is intended as a reminder to help authors improve the quality of their papers. The author instruction on the checklist will be available Coming Soon.
 
 ### Paper Submission and Templates
 
