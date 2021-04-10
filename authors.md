@@ -17,4 +17,4 @@ ACL Rolling Review offers the following:
 
 # Submission Site
 
-Coming soon!
+[5/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/May)
