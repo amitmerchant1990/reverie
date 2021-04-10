@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Submission Form Fields"
+permalink: /submissionform
+---
 
 | Field | Description |
 |-------|--------|
