@@ -26,8 +26,7 @@ An initial term of one year, renewable. We will have a centralized system that k
 
 # Meta Review Form
 
-Coming soon!
-
+[Meta review form](https://aclrollingreview.org/actioneditorform)
 
 ## What are the responsibilities of a reviewer?
 Each month, around 7 days after the submission deadline, reviewers who are available that month will receive submissions to review. Reviewers should immediately check that they have no conflict of interest with their assigned submissions. Reviews should be completed by 30 days after the submission deadline.
@@ -41,7 +40,7 @@ An initial term of one year, renewable. We will eventually have a centralized sy
 
 # Review Form
 
-Coming soon!
+[Review form](https://aclrollingreview.org/reviewform)
 
 # Reviewer Interest Survey
 
