@@ -101,5 +101,3 @@ If the authors state (in anonymous fashion) that their software will be availabl
 Independent of your judgement of the quality of the work, please review the [ACL code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics) and list any ethical concerns related to this paper. 
 
 Any entry means that the paper will be referred to the Ethics Committee for further ethics review. 
-
-)
