@@ -8,13 +8,13 @@ permalink: /reviewform
 
 Describe what this paper is about. This should help action editors and area chairs to understand the topic of the work and highlight any possible misunderstandings.  
 
-### Reasons to Publish
+### Summary of Strengths
 
 What are the major reasons to publish this paper at a selective *ACL venue? These could include novel and useful methodology, insightful empirical results or theoretical analysis, clear organization of related literature, or any other reason why interested readers of *ACL papers may find the paper useful.
 
-### Concerns
+### Summary of Weaknesses
 
-What are the concerns that you have about the paper that would cause you to favor prioritizing other high-quality papers that are also under consideration for publication? These could include concerns about correctness of the results or argumentation, limited perceived impact of the methods or findings (note that impact can be significant both in broad or in narrow sub-fields), lack of clarity in exposition, or any other reason why interested readers of *ACL papers may gain less from this paper than they would from other papers under consideration. Where possible, please number your concerns so authors may respond to them individually.
+What are the concerns that you have about the paper that would cause you to recommend against acceptance at *ACL venues? These could include concerns about correctness of the results or argumentation, limited perceived impact of the methods or findings (note that impact can be significant both in broad or in narrow sub-fields), lack of clarity in exposition, or any other reason why interested readers of *ACL papers may gain less from this paper than they would from other papers under consideration. Where possible, please number your concerns so authors may respond to them individually.
 
 ### Comments/Suggestions/Typos 
 
@@ -98,7 +98,8 @@ If the authors state (in anonymous fashion) that their software will be availabl
 
 ### Ethical Concerns
 
-Independent of your judgement of the quality of the work, please review the ACL code of ethics and list any ethical concerns related to this paper. 
+Independent of your judgement of the quality of the work, please review the [ACL code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics) and list any ethical concerns related to this paper. 
 
 Any entry means that the paper will be referred to the Ethics Committee for further ethics review. 
 
+)
