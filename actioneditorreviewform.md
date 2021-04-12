@@ -6,7 +6,7 @@ permalink: /actioneditorform
 
 ### Paper Summary
 
-Describe what this paper is about. This should help SACs at publication venues understand what sessions the paper might fit in.
+Describe what this paper is about. This should help SACs at publication venues understand the sessions into which the paper might fit.
 
 ### Summary of Strengths
 
