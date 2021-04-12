@@ -17,6 +17,7 @@ Relevant topics for ARR include, but are not limited to, the following areas (in
 * Dialogue and Interactive Systems
 * Discourse and Pragmatics
 * Ethics and NLP
+* Generation
 * Information Extraction
 * Information Retrieval and Text Mining
 * Interpretability and Analysis of Models for NLP
