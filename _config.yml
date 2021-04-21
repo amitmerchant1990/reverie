@@ -25,7 +25,7 @@ footer-links:
   facebook:
   flickr:
   github: nxrmrz
-  instagram: nxrmrz
+  instagram:
   linkedin: nicole-ramirez-b11b54105
   pinterest:
   rss:
@@ -98,4 +98,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
