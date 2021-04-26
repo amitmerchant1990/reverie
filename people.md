@@ -54,6 +54,7 @@ Contact: cto at aclrollingreview.org
 * Noah Smith, University of Washington / Allen Institute for Artificial Intelligence
 * Luca Soldaini, Amazon
 * Veselin Stoyanov, Facebook AI
+* Kristina Toutanova, Microsoft
 * Emily Tucker Prud'hommeaux, Boston College
 * Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
 * Marilyn Walker, University of California Santa Cruz
