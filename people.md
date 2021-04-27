@@ -36,9 +36,11 @@ Contact: cto at aclrollingreview.org
 * Leon Derczynski, IT University of Copenhagen
 * Barry Devereux, Queen's University Belfast
 * Mona T. Diab, George Washington University
+* Kevin Duh, Johns Hopkins University
 * Matthias Gallé, Naver Labs Europe
 * James Henderson, Idiap Research Institute
 * Kentaro Inui, Tohoku University
+* Alon Jacovi, Bar Ilan University
 * Katharina Kann, University of Colorado, Boulder
 * Grzegorz Kondrak, University of Alberta
 * Jonathan K Kummerfeld, University of Michigan
@@ -49,6 +51,7 @@ Contact: cto at aclrollingreview.org
 * Vukosi Miravata, University of Pretoria
 * Philippe Muller, IRIT, University of Toulouse
 * Vincent Ng, University of Texas at Dallas
+* Benoît Sagot, INRIA
 * Nathan Schneider, Georgetown University
 * Hinrich Schütze, University of Munich
 * Noah Smith, University of Washington / Allen Institute for Artificial Intelligence
