@@ -32,6 +32,7 @@ Contact: cto at aclrollingreview.org
 * Luciana Benotti, University of Cordoba
 * Steven Bethard, University of Arizona
 * Samuel R. Bowman, New York University
+* Leonid Boytsov, Bosch Center for AI
 * Xavier Carreras, Spanish National Research Council
 * Dipanjan Das, Google
 * Leon Derczynski, IT University of Copenhagen
@@ -52,6 +53,7 @@ Contact: cto at aclrollingreview.org
 * Vukosi Miravata, University of Pretoria
 * Philippe Muller, IRIT, University of Toulouse
 * Vincent Ng, University of Texas at Dallas
+* Daniel Preotiuc-Pietro, Bloomberg
 * Benoît Sagot, INRIA
 * Nathan Schneider, Georgetown University
 * Hinrich Schütze, University of Munich
