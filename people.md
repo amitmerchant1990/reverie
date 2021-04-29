@@ -20,8 +20,9 @@ Contact: cto at aclrollingreview.org
 
 ## Technical Staff
 
+* Kushal Arora, McGill University and MILA
 * Nils Dycke, TU Darmstadt
-* Kushal Arora, McGill University and Mila
+* Pengfei Liu, Carnegie Mellon University
 
 ## Action Editors
 
