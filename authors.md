@@ -15,6 +15,10 @@ ACL Rolling Review offers the following:
 
 [Call For Papers](https://aclrollingreview.org/cfp)
 
+# Author Checklist
+
+[Checklist](https://aclrollingreview.org/authorchecklist)
+
 # Submission Site
 
 [Submission Form Fields](https://aclrollingreview.org/submissionform)
