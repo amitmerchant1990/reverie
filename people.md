@@ -27,6 +27,7 @@ Contact: cto at aclrollingreview.org
 ## Action Editors
 
 * Nikolaos Aletras, University of Sheffield
+* Malihe Alikhani, University of Pittsburgh
 * Isabelle Augenstein, University of Copenhagen
 * Miguel Ballesteros, Amazon
 * Luciana Benotti, University of Cordoba
@@ -41,11 +42,14 @@ Contact: cto at aclrollingreview.org
 * Kevin Duh, Johns Hopkins University
 * Matthias Gallé, Naver Labs Europe
 * James Henderson, Idiap Research Institute
+* Nishikawa Hitoshi, astamuse
 * Kentaro Inui, Tohoku University
+* Cassandra Jacobs, University at Buffalo
 * Alon Jacovi, Bar Ilan University
 * Katharina Kann, University of Colorado, Boulder
 * Grzegorz Kondrak, University of Alberta
 * Jonathan K Kummerfeld, University of Michigan
+* Constantine Lignos, Brandeis
 * Dekang Lin, Google
 * Yang Liu, Microsoft
 * Yuji Matsumoto, RIKEN
@@ -53,6 +57,7 @@ Contact: cto at aclrollingreview.org
 * Vukosi Miravata, University of Pretoria
 * Philippe Muller, IRIT, University of Toulouse
 * Vincent Ng, University of Texas at Dallas
+* Marius Pasca, Google
 * Daniel Preotiuc-Pietro, Bloomberg
 * Benoît Sagot, INRIA
 * Nathan Schneider, Georgetown University
