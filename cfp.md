@@ -102,7 +102,7 @@ Authors are encouraged to devote a section of their paper to concerns of the eth
 
 ### Submission Criteria
 
-ARR provides a [submission checklist](https://www.aclrollingreview.org/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
+ARR provides a [submission checklist](https://aclrollingreview.org/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
 
 ### Paper Submission and Templates
 
