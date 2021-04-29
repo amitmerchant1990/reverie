@@ -11,9 +11,9 @@ The template both exemplifies and contains paper format guidelines. These are al
 For ARR submissions, references and appendices should be included in the pdf for the paper, but do not count towards the page limit.
 
 Some key items for first time authors:
-- [ ] Use the template
-- [ ] Respect the page limit for the paper type
-- [ ] Ensure the submission is anonymized
+- Use the template
+- Respect the page limit for the paper type
+- Ensure the submission is anonymized
 
 ## Anonymization and Citation
 
@@ -25,29 +25,28 @@ The below reproducibility checklist is provided to help authors improve the repr
 
 The paper should include:
 - For all reported experimental results:
-
-- [ ] A clear description of the mathematical setting, algorithm, and/or model
-- [ ] A link to (anonymized, for submission) downloadable source code, with specification of all dependencies, including external libraries
-- [ ] A description of the computing infrastructure used
-- [ ] The average runtime for each model or algorithm, or estimated energy cost
-- [ ] The number of parameters in each model
-- [ ] Corresponding validation performance for each reported test result
-- [ ] A clear definition of the specific evaluation measure or statistics used to report results
+  - A clear description of the mathematical setting, algorithm, and/or model
+  - A link to (anonymized, for submission) downloadable source code, with specification of all dependencies, including external libraries
+  - A description of the computing infrastructure used
+  - The average runtime for each model or algorithm, or estimated energy cost
+  - The number of parameters in each model
+  - Corresponding validation performance for each reported test result
+  - A clear definition of the specific evaluation measure or statistics used to report results
 
 - For all results involving multiple experiments, such as hyperparameter search:
-- [ ] The exact number of training and evaluation runs
-- [ ] The bounds for each hyperparameter
-- [ ] The hyperparameter configurations for best-performing models
-- [ ] The method of choosing hyperparameter values (e.g., manual tuning, uniform sampling, etc.) and the criterion used to select among them (e.g., accuracy)
-- [ ] Summary statistics of the results (e.g., mean, variance, error bars, etc.)
+  - The exact number of training and evaluation runs
+  - The bounds for each hyperparameter
+  - The hyperparameter configurations for best-performing models
+  - The method of choosing hyperparameter values (e.g., manual tuning, uniform sampling, etc.) and the criterion used to select among them (e.g., accuracy)
+  - Summary statistics of the results (e.g., mean, variance, error bars, etc.)
 
 - For all datasets used:
-- [ ] Relevant statistics such as number of examples and label distributions
-- [ ] Details of train/validation/test splits
-- [ ] An explanation of any data that were excluded, and all pre-processing steps
-- [ ] For natural language data, the name of the language(s)
-- [ ] A link to a downloadable version of the dataset or simulation environment
-- [ ] For new data collected, a complete description of the data collection process, such as ownership / licensing, informed consent, instructions to annotators and methods for quality control
+  - Relevant statistics such as number of examples and label distributions
+  - Details of train/validation/test splits
+  - An explanation of any data that were excluded, and all pre-processing steps
+  - For natural language data, the name of the language(s)
+  - A link to a downloadable version of the dataset or simulation environment
+  - For new data collected, a complete description of the data collection process, such as ownership / licensing, informed consent, instructions to annotators and methods for quality control
 
 ## Ethics
 
