@@ -54,7 +54,7 @@ Contact: cto at aclrollingreview.org
 * Yang Liu, Microsoft
 * Yuji Matsumoto, RIKEN
 * Ivan Vladimir Meza Ruiz, Universidad Nacional Autónoma de México
-* Vukosi Miravata, University of Pretoria
+* Vukosi Miravate, University of Pretoria
 * Philippe Muller, IRIT, University of Toulouse
 * Vincent Ng, University of Texas at Dallas
 * Marius Pasca, Google
