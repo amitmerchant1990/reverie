@@ -17,6 +17,7 @@ Within each month, on:
 - days 7-30 - reviewing
 - days 30-35 - meta reviewing
 - day 35 - reviews to authors
+
 Note that this is a new initiative, so we may revise the timelines as we get more experience.
 
 Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
