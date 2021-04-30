@@ -35,6 +35,7 @@ Contact: cto at aclrollingreview.org
 * Samuel R. Bowman, New York University
 * Leonid Boytsov, Bosch Center for AI
 * Xavier Carreras, Spanish National Research Council
+* Walter Daelemans, University of Antwerp
 * Dipanjan Das, Google
 * Leon Derczynski, IT University of Copenhagen
 * Barry Devereux, Queen's University Belfast
@@ -43,11 +44,13 @@ Contact: cto at aclrollingreview.org
 * Matthias Gallé, Naver Labs Europe
 * James Henderson, Idiap Research Institute
 * Nishikawa Hitoshi, astamuse
+* Julia Hockenmaier, University of Illinois at Urbana-Champaign
 * Kentaro Inui, Tohoku University
 * Cassandra Jacobs, University at Buffalo
 * Alon Jacovi, Bar Ilan University
 * Katharina Kann, University of Colorado, Boulder
 * Grzegorz Kondrak, University of Alberta
+* Anna Korhonen, Cambridge University
 * Jonathan K Kummerfeld, University of Michigan
 * Constantine Lignos, Brandeis
 * Dekang Lin, Google
@@ -59,6 +62,7 @@ Contact: cto at aclrollingreview.org
 * Vincent Ng, University of Texas at Dallas
 * Marius Pasca, Google
 * Daniel Preotiuc-Pietro, Bloomberg
+* Anna Rogers, University of Copenhagen
 * Benoît Sagot, INRIA
 * Nathan Schneider, Georgetown University
 * Hinrich Schütze, University of Munich
