@@ -8,7 +8,7 @@ permalink: /dates
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 20, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
 | June 15, 2021 11:59pm AOE |  July 20, 2021 | |
-| July 15, 2021 11:59pm AOE | August 15, 2021 | |
+| July 15, 2021 11:59pm AOE | August 20, 2021 | |
 
 Within each month, on:
 - day 0 - submission deadline
