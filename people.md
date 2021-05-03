@@ -81,6 +81,7 @@ Contact: cto at aclrollingreview.org
 * Zeerak Waseem, University of Sheffield
 * Taro Watanabe, Nara Institute of Science and Technology
 * Bonnie Webber, University of Edinburgh
+* David Yarowsky, Johns Hopkins University
 * Luke Zettlemoyer, University of Washington
 
 <sub><b>Acknowledgments</b></sub>
