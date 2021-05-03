@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dates"
+title: "Dates and Participating Venues"
 permalink: /dates
 ---
 
