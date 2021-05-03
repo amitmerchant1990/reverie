@@ -82,3 +82,10 @@ Contact: cto at aclrollingreview.org
 * Taro Watanabe, Nara Institute of Science and Technology
 * Bonnie Webber, University of Edinburgh
 * Luke Zettlemoyer, University of Washington
+
+<sub><b>Acknowledgments</b></sub>
+
+<sub>Template from [Amit Merchant](https://github.com/amitmerchant1990/reverie)</sub>
+
+<sub>Logo from [Ozan Irsoy](https://github.com/oir)</sub>
+
