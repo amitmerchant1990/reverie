@@ -8,7 +8,7 @@ permalink: /dates
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 20, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
 | June 15, 2021 11:59pm AOE |  July 20, 2021 | [INLG 2021](https://inlg2021.github.io/pages/calls.html) |
-| July 15, 2021 11:59pm AOE | August 20, 2021 | [BlackboxNLP 2021](https://blackboxnlp.github.io/), [CRAC 2021](https://sites.google.com/view/crac2021/), [Eval4NLP 2021](https://eval4nlp.github.io/), [FEVER 2021](https://fever.ai/workshop.html), [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0), [SustaiNLP](https://sites.google.com/view/sustainlp2021) |
+| July 15, 2021 11:59pm AOE | August 20, 2021 | [BlackboxNLP 2021](https://blackboxnlp.github.io/), [CRAC 2021](https://sites.google.com/view/crac2021/), [Eval4NLP 2021](https://eval4nlp.github.io/), [FEVER 2021](https://fever.ai/workshop.html), [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021) |
 | August 15, 2021 11:50pm AOE | September 20, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/), [NLP Insights 2021](https://insights-workshop.github.io/) |
 
 Within each month, on:
