@@ -24,6 +24,10 @@ Contact: cto at aclrollingreview.org
 * Nils Dycke, TU Darmstadt
 * Pengfei Liu, Carnegie Mellon University
 
+## Publicity and Web
+
+* Stephen Mayhew, Duolingo
+
 ## Action Editors
 
 * Nikolaos Aletras, University of Sheffield
