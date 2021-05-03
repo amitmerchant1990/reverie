@@ -8,8 +8,8 @@ permalink: /dates
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 20, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
 | June 15, 2021 11:59pm AOE |  July 20, 2021 | [INLG 2021](https://inlg2021.github.io/pages/calls.html) |
-| July 15, 2021 11:59pm AOE | August 20, 2021 | [FEVER 2021](https://fever.ai/workshop.html) and most other participating EMNLP 2021 workshops |
-| August 15, 2021 11:50pm AOE | September 20, 2021 | |
+| July 15, 2021 11:59pm AOE | August 20, 2021 | [BlackboxNLP 2021](https://blackboxnlp.github.io/), [CRAC 2021](https://sites.google.com/view/crac2021/), [Eval4NLP 2021](https://eval4nlp.github.io/), [FEVER 2021](https://fever.ai/workshop.html), [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0), [SustaiNLP](https://sites.google.com/view/sustainlp2021) |
+| August 15, 2021 11:50pm AOE | September 20, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/), [NLP Insights 2021](https://insights-workshop.github.io/) |
 
 Within each month, on:
 - day 0 - submission deadline
@@ -24,4 +24,3 @@ Note that this is a new initiative, so we may revise the timelines as we get mor
 Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
 - revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
 - submit their paper *and reviews* to a publication venue
-
