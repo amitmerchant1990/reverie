@@ -7,7 +7,7 @@ permalink: /dates
 | Submission deadline | Target reviews release date | Last deadline for |
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 20, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
-| June 15, 2021 11:59pm AOE |  July 20, 2021 | |
+| June 15, 2021 11:59pm AOE |  July 20, 2021 | [INLG 2021](https://inlg2021.github.io/pages/calls.html) |
 | July 15, 2021 11:59pm AOE | August 20, 2021 | [FEVER 2021](https://fever.ai/workshop.html) and most other participating EMNLP 2021 workshops |
 | August 15, 2021 11:50pm AOE | September 20, 2021 | |
 
