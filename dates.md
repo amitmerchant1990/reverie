@@ -11,6 +11,8 @@ permalink: /dates
 | July 15, 2021 11:59pm AOE | August 20, 2021 | [BlackboxNLP 2021](https://blackboxnlp.github.io/), [CRAC 2021](https://sites.google.com/view/crac2021/), [Eval4NLP 2021](https://eval4nlp.github.io/), [FEVER 2021](https://fever.ai/workshop.html), [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0), [MRQA 2021](https://mrqa.github.io/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021) |
 | August 15, 2021 11:50pm AOE | September 20, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/), [NLP Insights 2021](https://insights-workshop.github.io/) |
 
+AOE: anywhere on earth.
+
 Within each month, on:
 - day 0 - submission deadline
 - days 1-4 - action editor assignment
