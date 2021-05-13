@@ -21,7 +21,7 @@ Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL
 
 ## Reproducibility
 
-The below reproducibility checklist is provided to help authors improve the reproducibility of their work; submissions are not required to meet all criteria listed and the list of criteria is not exhaustive. This checklist is based on the one from ACL-IJCNLP 2021, which in turn is based on previous versions from NAACL-HLT 2021 and previous versions from Dodge et al and Joelle Pineau.
+The below reproducibility checklist is provided to help authors improve the reproducibility of their work; submissions are not required to meet all criteria listed and the list of criteria is not exhaustive. This checklist is based on the one from ACL-IJCNLP 2021, which in turn is based on previous versions from NAACL-HLT 2021 and previous versions from [Dodge and Smith](https://2020.emnlp.org/blog/2020-05-20-reproducibility) and [Pineau](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 The paper should include:
 - For all reported experimental results:
