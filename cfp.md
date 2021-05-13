@@ -16,6 +16,7 @@ Relevant topics for ARR include, but are not limited to, the following areas (in
 * Computational Social Science and Cultural Analytics
 * Dialogue and Interactive Systems
 * Discourse and Pragmatics
+* Efficient Methods for NLP
 * Ethics and NLP
 * Generation
 * Information Extraction
