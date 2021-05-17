@@ -38,6 +38,8 @@ So, reviewers will want to be especially available from the 15th to the 22nd of 
 ## What is the time commitment for reviewers?
 An initial term of one year, renewable. We will eventually have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to review many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, reviewers will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of reviewers to indicate that they are on vacation or otherwise unavailable.
 
+Reviewers may choose to mark themselves as unavailable for some period. For now, please email [the editors](https://aclrollingreview.org/about/people#Editors%20in%20Chief).
+
 # Review Form
 
 [Review form](https://aclrollingreview.org/reviewform)
