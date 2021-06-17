@@ -33,6 +33,7 @@ Contact: cto at aclrollingreview.org
 * Nikolaos Aletras, University of Sheffield
 * Malihe Alikhani, University of Pittsburgh
 * Isabelle Augenstein, University of Copenhagen
+* Timothy Baldwin, The University of Melbourne
 * Miguel Ballesteros, Amazon
 * Luciana Benotti, University of Cordoba
 * Steven Bethard, University of Arizona
@@ -45,6 +46,7 @@ Contact: cto at aclrollingreview.org
 * Barry Devereux, Queen's University Belfast
 * Mona T. Diab, George Washington University
 * Kevin Duh, Johns Hopkins University
+* Katrin Erk, University of Texas, Austin
 * Matthias Gallé, Naver Labs Europe
 * James Henderson, Idiap Research Institute
 * Nishikawa Hitoshi, astamuse
@@ -62,17 +64,21 @@ Contact: cto at aclrollingreview.org
 * Yuji Matsumoto, RIKEN
 * Ivan Vladimir Meza Ruiz, Universidad Nacional Autónoma de México
 * Vukosi Miravate, University of Pretoria
+* Alessandro Moschitti, University of Trento
 * Philippe Muller, IRIT, University of Toulouse
 * Vincent Ng, University of Texas at Dallas
 * Marius Pasca, Google
 * Daniel Preotiuc-Pietro, Bloomberg
+* Emily Prud'hommeaux, Boston College
 * Anna Rogers, University of Copenhagen
 * Benoît Sagot, INRIA
 * Nathan Schneider, Georgetown University
 * Hinrich Schütze, University of Munich
 * Noah Smith, University of Washington / Allen Institute for Artificial Intelligence
 * Luca Soldaini, Amazon
+* Pontus Stenetorp, University College London
 * Veselin Stoyanov, Facebook AI
+* Emma Strubell, CMU
 * Kristina Toutanova, Microsoft
 * Emily Tucker Prud'hommeaux, Boston College
 * Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
