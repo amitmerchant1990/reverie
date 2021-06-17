@@ -58,7 +58,9 @@ Short paper submissions must describe original and unpublished work. Please note
  
 ### Anonymity Period
  
-ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if it has been anonymous for at least a month before the first submission, and it must remain anonymous while it is under review.
+ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission.
+
+So, if you submit to the June deadline and get reviews in July, then on July 21st your paper is no longer under review. If you then post a deanonymized preprint on July 22nd, you can't resubmit to ARR or to a conference in the August round but you can in September. 
  
 * Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review.
 * Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper,  we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
@@ -99,7 +101,7 @@ Authors are required to honour the ethical code set out in the [ACL Code of Ethi
 
 The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that authors include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
-Authors are encouraged to devote a section of their paper to concerns of the ethical impact of the work and to a discussion of broader impacts of the work.
+Authors are encouraged to devote a section of their paper to concerns of the ethical impact of the work and to a discussion of broader impacts of the work. This discussion may extend into a 5th page (short papers) or 9th page (long papers).
 
 ### Submission Criteria
 
