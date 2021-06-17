@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Marketing Ploys
-categories: [Science, Research Integrity]
+categories: [Science, Marketing, Metrics, Research Integrity]
 excerpt: Would cutting the meter in half double your height? Would stretching the second make you faster than Usain Bolt? If you ask marketing people, the answer is yes.
 ---
 
