@@ -4,7 +4,7 @@ title: Hello World!
 categories: [Miscellaneous, Jekyll]
 ---
 
-[Hello World!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) This is my first post on this blog, which will cover any topic of science, history of science or research integrity that catches my interest. While I like and try to be as active on Twitter as time permits, I sometimes find myself wanting to expand an argument, providing additional background or reasoning. As I am not a fan of creating long and clumsy Twitter threads, I am creating this blog. I plan to publish one major blogpost at the end of every month, with minor updates every week.
+Hello World! This is my first post on this blog, which will cover any topic of science, history of science or research integrity that catches my interest. While I like and try to be as active on Twitter as time permits, I sometimes find myself wanting to expand an argument, providing additional background or reasoning. As I am not a fan of creating long and clumsy Twitter threads, I am creating this blog. I plan to publish one major blogpost at the end of every month, with minor updates every week.
 
 The blog is hosted on GitHub Pages and based on the [Reverie](https://github.com/amitmerchant1990/reverie) [Jekyll](https://jekyllrb.com/) theme, which itself is a fork of [jekyll-now](https://github.com/barryclark/jekyll-now).
 
