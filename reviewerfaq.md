@@ -6,6 +6,15 @@ permalink: /reviewerfaq
 
 This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process.
 
+## Timeline
+
+### What is the timeline?
+- Days 1-7: AEs are assigned end AEs assign reviewers/desk reject, no notifications go out
+- Day 7: Notifications to reviewers go out (automatically)
+- Day 30: Reviews are submitted
+- Day 35: Meta-Review submitted
+- Day 35: Reviews released to authors
+
 ## Communication
 
 ### Who contacts reviewers to kick off reviewing?
