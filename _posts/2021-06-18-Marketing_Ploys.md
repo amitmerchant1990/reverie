@@ -2,7 +2,7 @@
 layout: post
 title:  Marketing Ploys
 categories: [Science, Research Integrity]
-excerpt: This is a bit like a weather report for the Netherlands only mentioning temperatures in Charleston. Sure, it is nice to know if Charlestonian are cosy, but it doesn’t tell me if I should wear Moon Boots or sandals tomorrow.
+excerpt: Would cutting the meter in half double your height? Would stretching the second make you faster than Usain Bolt? If you ask marketing people, the answer is yes.
 ---
 
 Would cutting the meter in half double your height? Would stretching the second make you faster than Usain Bolt? If you ask marketing people, the answer is yes. 
