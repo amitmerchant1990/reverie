@@ -49,6 +49,7 @@ Contact: cto at aclrollingreview.org
 * Mona T. Diab, George Washington University
 * Kevin Duh, Johns Hopkins University
 * Katrin Erk, University of Texas, Austin
+* Yang Feng, Chinese Academy of Sciences
 * Matthias Gallé, Naver Labs Europe
 * James Henderson, Idiap Research Institute
 * Nishikawa Hitoshi, astamuse
@@ -60,6 +61,7 @@ Contact: cto at aclrollingreview.org
 * Grzegorz Kondrak, University of Alberta
 * Anna Korhonen, Cambridge University
 * Jonathan K Kummerfeld, University of Michigan
+* Sujian Li, Peking University
 * Constantine Lignos, Brandeis
 * Dekang Lin, Google
 * Yang Liu, Microsoft
