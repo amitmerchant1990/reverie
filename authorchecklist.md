@@ -48,6 +48,8 @@ The paper should include:
   - A link to a downloadable version of the dataset or simulation environment
   - For new data collected, a complete description of the data collection process, such as ownership / licensing, informed consent, instructions to annotators and methods for quality control
 
+Authors are encouraged to include [data sheets](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf) and [model cards](https://dl.acm.org/doi/abs/10.1145/3287560.3287596) in supplemental material, as appropriate.
+
 ## Ethics
 
 Authors are encouraged to include in the paper a statement of [ethical considerations](https://www.aclweb.org/adminwiki/index.php?title=ACL_Resolutions#March_5.2C_2020), including those related to collection and annotation of data and considerations of bias, potential for misuse or harm to vulnerable populations relating to any research results.
