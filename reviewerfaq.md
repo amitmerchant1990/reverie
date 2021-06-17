@@ -19,7 +19,7 @@ at the top of the paper forum. Click on it to open a message form.
 In OpenReview, you should see a button labeled "Official Comment" at the top of the paper forum. Click on it to open a message form. 
 For messaging exclusively the action editors, please select only "area chairs" in the "Readers" field of the form.
 
-### How do I communicate to the action editors that I am unavailable in a given month?
+### How do I communicate to the editors in chief that I am unavailable in a given month?
 We hope that in Q3 2021 OpenReview will roll out their v2 API, and we hope that API will allow us to create a button or other functionality whereby
 you can move yourself from "reviewers unavailable" to "action editor available" and back. For now, if you are unavailable in a month, email editors@aclrollingreview.org.
 
@@ -59,7 +59,7 @@ No, we are managing a two-way anonymized process up through action editors. It i
 
 ### How do I assign and unassign reviewers?
 On the “Assigned papers” tab, click on “Show reviewers” for a particular paper.  You can then search for reviewers for assigning that paper to a new reviewer.  
-Below, each reviewer name, there is an “unassign” link that can be used to unassign a reviewer for that particular paper.
+Below each reviewer name, there is an “unassign” link that can be used to unassign a reviewer for that particular paper.
 If you want to add a reviewer who is not in the system, please email the action editors.
 This doc from UAI may help: https://auai.org/uai2017/openreview/reviewing.pdf
 
