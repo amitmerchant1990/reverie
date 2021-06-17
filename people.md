@@ -23,6 +23,8 @@ Contact: cto at aclrollingreview.org
 * Kushal Arora, McGill University and MILA
 * Nils Dycke, TU Darmstadt
 * Pengfei Liu, Carnegie Mellon University
+* Yoshitomo Matsubara, UC Irvine
+* Sebastin Santy, MSR India
 
 ## Publicity and Web
 
