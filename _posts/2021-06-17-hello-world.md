@@ -1,5 +1,5 @@
 ---
-layout: post_no_comment
+layout: post
 title: Hello World!
 categories: [Science, GitHub Pages, Jekyll]
 ---
