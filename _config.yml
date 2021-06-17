@@ -9,7 +9,7 @@ name: Loose Leaves
 author: Magnus Palmblad
 
 # Short bio or description (displayed in the header)
-description: Personal blog on science, its history, ethics and communcation
+description: Personal blog on science, its history and research integrity
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/16084125?s=60&v=4
@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin: magnuspalmblad
   pinterest:
-  rss: rss
+  rss:
   twitter: MagnusPalmblad
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
