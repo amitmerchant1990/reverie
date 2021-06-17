@@ -9,3 +9,4 @@ categories: [Science, GitHub Pages, Jekyll]
 For those interested in the technical details, I can tell you that the blog is hosted on [GitHub Pages](https://pages.github.com/) and based on the [Reverie](https://github.com/amitmerchant1990/reverie) [Jekyll](https://jekyllrb.com/) theme, which itself is a fork of [jekyll-now](https://github.com/barryclark/jekyll-now).
 &nbsp;  
 &nbsp;  
+&nbsp;  
