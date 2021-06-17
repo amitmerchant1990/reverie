@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: false
 title: Hello World!
 categories: [Science, Jekyll]
 ---
