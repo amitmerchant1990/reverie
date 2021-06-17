@@ -34,6 +34,15 @@ Treat it as a long paper submission.
 ### Can the ethics statement extend into a 5th/9th page?
 Yes. 
 
+### What is the compliance checklist?
+- Is the content of this paper appropriate to a *ACL venue?
+- Is the paper in English?
+- Does this paper use the ARR template?
+- Does this paper adhere to length constraints for the paper type (long: 8, short: 4, in both cases exclusive of references and appendices)?
+- Is the submission (including paper and any supplemental materials) anonymized?
+- Is this paper already published elsewhere?
+
+
 ### How do I actually desk reject a submission?
 In OpenReview, you should see a button labeled "Desk Reject".
 
