@@ -72,10 +72,13 @@ Below each reviewer name, there is an “unassign” link that can be used to un
 If you want to add a reviewer who is not in the system, please email the action editors.
 This doc from UAI may help: https://auai.org/uai2017/openreview/reviewing.pdf
 
-### Meta Reviewing
+### Meta-Reviewing
 
-### How do I enter a metatreview?
+### How do I enter a meta-review?
 Click on the button in the system.
+
+### Why can I not press the "meta-review" button?
+The meta-review button may not be clickable if not all reviews are submitted yet. In this case, please try to encourage the reviewers to submit their reviews, or recruit a new emergency reviewer.
 
 ### How do I flag a submission for ethics review?
 Please email the action editors.
