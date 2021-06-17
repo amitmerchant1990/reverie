@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://magnuspalmblad.github.io
-enforce_ssl: https://magnuspalmblad.github.io
+url: http://magnuspalmblad.github.io
+enforce_ssl: http://magnuspalmblad.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
