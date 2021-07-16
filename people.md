@@ -10,13 +10,13 @@ permalink: /about/people
 * Sebastian Riedel, Facebook AI and University College London
 * Amanda Stent, Bloomberg
 
-Contact: editors at aclrollingreview.org
+Contact: `editors at aclrollingreview.org`
 
 ## CTO
 
 * Graham Neubig, CMU
 
-Contact: cto at aclrollingreview.org
+Contact: `cto at aclrollingreview.org`
 
 ## Technical Staff
 
