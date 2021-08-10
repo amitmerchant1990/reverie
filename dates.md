@@ -4,13 +4,27 @@ title: "Dates and Participating Venues"
 permalink: /dates
 ---
 
-| Submission deadline | Target reviews release date | Last deadline for |
+| Submission deadline | Target reviews release date | Last deadline for (Review Submission Deadline) |
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 20, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
 | June 15, 2021 11:59pm AOE |  July 20, 2021 | [INLG 2021](https://inlg2021.github.io/pages/calls.html) |
-| July 15, 2021 11:59pm AOE | August 20, 2021 | [BlackboxNLP 2021](https://blackboxnlp.github.io/), [CRAC 2021](https://sites.google.com/view/crac2021/), [Eval4NLP 2021](https://eval4nlp.github.io/), [FEVER 2021](https://fever.ai/workshop.html), [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0), [MRQA 2021](https://mrqa.github.io/), [NLLP 2021](https://nllpw.org/), [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021), [WMT 2021](http://statmt.org/wmt21/), [NLP Insights 2021](https://insights-workshop.github.io/) |
+| July 15, 2021 11:59pm AOE | August 20, 2021 | <ul>
+  <li>[BlackboxNLP 2021](https://blackboxnlp.github.io/) (Aug 27, 2021)</li>
+  <li>[CRAC 2021](https://sites.google.com/view/crac2021/) (TBD)</li>
+  <li>[Eval4NLP 2021](https://eval4nlp.github.io/) (Aug 24, 2021) </li>
+  <li>[FEVER 2021](https://fever.ai/workshop.html) (Sep 5, 2021)</li>
+  <li>[MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0) (TBD)</li>
+  <li>[MRQA 2021](https://mrqa.github.io/) (Sep 3, 2021)</li>
+  <li>[NLLP 2021](https://nllpw.org/) (Sep 3, 2021)</li>
+  <li>[SustaiNLP 2021](https://sites.google.com/view/sustainlp2021) (Sep 5)</li>
+  <li>[WMT 2021](http://statmt.org/wmt21/) (TBD)</li>
+  <li>[NLP Insights 2021](https://insights-workshop.github.io/) (Aug 22, 2021)</li>
+</ul> |
 | August 15, 2021 11:50pm AOE | September 20, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) |
 | September 15, 2021 11:50pm AOE | October 20, 2021 | |
+| October 15, 2021 11:50pm AOE | November 20, 2021 | |
+| November 15, 2021 11:50pm AOE | December 20, 2021 | |
+| December 15, 2021 11:50pm AOE | January 20, 2022 | |
 
 AOE: anywhere on earth.
 
