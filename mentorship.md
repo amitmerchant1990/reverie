@@ -23,9 +23,11 @@ https://forms.office.com/r/5xyiutt16z
 Note that we cannot guarantee a place for everyone as the number of mentors is limited.
 
 ## Mentors
-We are looking for current ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please fill out the form below:
+We are looking for ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please fill out the form below:
 
 https://forms.office.com/r/jxn5eYV2ZW 
+
+If you are not yet an ARR reviewer/action editor, please indicate your interest in becoming one using the form on the bottom of https://aclrollingreview.org/reviewers. Feel free to fill out the mentor application form afterwards, but note that we can't accept you as mentor before we accept you as reviewer/action editor.    
 
 ## Material for Mentors and Mentees
 We ask mentees to go through the material below (in full). While we expect mentors to have sufficient review experience, it might still be good for them to review the material too in order to help with communicating what good and bad reviews are. 
