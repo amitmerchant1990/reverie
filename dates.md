@@ -19,11 +19,11 @@ AOE: anywhere on earth.
 
 Within each month, on:
 - day 0 - submission deadline
-- days 1-4 - action editor assignment
-- days 5-7 - desk rejects and reviewer assignment
-- days 7-30 - reviewing
-- days 30-35 - meta reviewing
-- day 35 - reviews to authors
+- days 1 to 4 - action editor assignment
+- days 5 to 7 - desk rejects and reviewer assignment
+- day 7 to 1 month  - reviewing
+- 1 month to 1 month + 5 days - meta reviewing
+- 1 month + 5 days - reviews to authors
 
 Note that this is a new initiative, so we may revise the timelines as we get more experience.
 
