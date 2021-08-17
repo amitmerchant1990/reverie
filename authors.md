@@ -36,6 +36,8 @@ Please note that it is possible to publish a preprint anonymously as part of the
 
 [Submission Form Fields](https://aclrollingreview.org/submissionform)
 
-[7/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/July)
+[9/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September)
 
-[May Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/May)
+[August Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/August)
+
+[Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAZTm0F9URTY1VzhKWlZCTlVJTlU4VUZRVUpGTlpITy4u)
