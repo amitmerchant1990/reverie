@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Research Integrity
+categories: [Science, Research Integrity]
+excerpt: It may have been the former professional ice hockey player and philanthropist Mats Sundin who in an interview first opened my eyes to the many analogies between professional sports and academic research, including of course the competitive personalities of elite athletes and researchers. There are also - unfortunately - many parallels between cheating in sports and scientific research. However, this is also where the stories diverge.
+---
+
 It may have been the former professional ice hockey player and philanthropist [Mats Sundin](https://nyheter.ki.se/mats-sundin-ger-miljondonation-till-medicinsk-forskning) who in an interview first opened my eyes to the many analogies between professional sports and academic research, including of course the competitive personalities of elite athletes and researchers. There are also - unfortunately - many parallels between cheating in sports and scientific research. However, this is also where the stories diverge.
 
 The analogies between sports and academia break down with research institutions, publishers and funding organizations having done little to deal with research misconduct, routinely ignoring appeals for retractions and allowing cheaters to replace fabricated results with better fabricated ones, as reported by [Retraction Watch](https://retractionwatch.com/), [Microbiome Digest](https://microbiomedigest.com/) and others. This is the equivalent of allowing athletes to submit another doping test weeks or months after the positive test and letting them keep any medals won while doped.
@@ -7,3 +14,6 @@ But the differences do not end there. In sports, the consequences of getting cau
 As in sports, we are unlikely to make progress as long as we only punish the people directly committing the research fraud, and not the investigators, institutions, publishers and funders who benefit by the work, in crass economic terms or as less tangible prestige. At the very least, failure to properly respond and investigate research misconduct should have negative consequences also for investigators, departments and institutions, rather than allowing the same to keep reaping the benefits from fabricated research as long as the papers or awards are not retracted.
 
 So, what’s the solution? Funding agencies could note which universities deal properly with research misconduct allegations and which do not, and take this into account when awarding grants. Researchers at institutions found to systematically ignore or suppress accusations of research misconduct could be banned from applying for research funding for a time. This is a form of collective punishment, but it is not entirely unfair, as all researchers at the institution benefited from its reputation, however attained. It is also important that grants and awards, as far as possible, can and are retracted in case of misconduct in the work on which the grants or awards were based. This is common for titles and medals in sports, but unheard of in science. The very possibility of these consequences will make institutions take research integrity much more seriously, hire and fund good research integrity officers, and elevate the ultimate responsibility for research integrity from the individual researcher to the institution.
+&nbsp;
+&nbsp;
+&nbsp;
