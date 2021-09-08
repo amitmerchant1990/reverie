@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Research Integrity
-categories: [Science, Research Integrity]
+title:  Research Integrity and Sports
+categories: [Science, Research Integrity, Sports]
 excerpt: It may have been the former professional ice hockey player and philanthropist Mats Sundin who in an interview first opened my eyes to the many analogies between professional sports and academic research, including of course the competitive personalities of elite athletes and researchers. There are also - unfortunately - many parallels between cheating in sports and scientific research. However, this is also where the stories diverge.
 ---
 
