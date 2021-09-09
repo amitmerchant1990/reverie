@@ -19,6 +19,14 @@ ACL Rolling Review offers the following:
 
 [Checklist](https://aclrollingreview.org/authorchecklist)
 
+# Frequently Asked Questions for Authors
+
+Q: Does ARR import reviews from other publication venues?
+A: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
+
+Q: What should I do if my reviews are unfair or extremely low quality?
+A: If you feel that you need a new reviewer or action editor for your paper, there is a place in the review form (starting September 2021) indicating such. This option should only be used in extreme cases, but these requests will be considered seriously and either accepted or denied based on their appropriateness.
+
 # Anonymity Requirement
 
 ACL Rolling Review follows the [ACL Policies](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation)
