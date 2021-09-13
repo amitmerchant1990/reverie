@@ -4,7 +4,7 @@ title: "FAQ For Reviewers and Action Editors"
 permalink: /reviewerfaq
 ---
 
-This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process.
+This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
 
 ## Timeline
 
