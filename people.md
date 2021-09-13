@@ -4,34 +4,37 @@ title: "People"
 permalink: /about/people
 ---
 
+## Support
+
+If you want general support regarding ARR, please contact `support at aclrollingreview.org`
+
 ## Editors in Chief
 
 * Pascale Fung, Hong Kong University of Science and Technology
+* Goran Glavaš, University of Mannheim
 * Sebastian Riedel, Facebook AI and University College London
 * Amanda Stent, Bloomberg
 
 Contact: `editors at aclrollingreview.org`
 
-## CTO
-
-* Graham Neubig, CMU
-
-Contact: `cto at aclrollingreview.org`
-
 ## Technical Staff
 
+* Graham Neubig, CMU (Chief Technical Officer)
 * Kushal Arora, McGill University and MILA
 * Nils Dycke, TU Darmstadt
 * Pengfei Liu, Carnegie Mellon University
 * Yoshitomo Matsubara, UC Irvine
 * Sebastin Santy, MSR India
 
+Contact: `tech at aclrollingreview.org`
+
+## Communications Team
+
+* Stephen Mayhew, Duolingo (Communications Team Chair)
+* Shubhra Kanti Karmaker (Santu), Auburn University
+* Graham Neubig, CMU
 
 Contact: `support at aclrollingreview.org`
-
-## Publicity and Web
-
-* Stephen Mayhew, Duolingo
 
 ## Action Editors
 
