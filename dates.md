@@ -12,7 +12,7 @@ permalink: /dates
 | August 15, 2021 11:50pm AOE | September 20, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) (Sep 22, 2021) |
 | September 15, 2021 11:50pm AOE | October 20, 2021 | |
 | October 15, 2021 11:50pm AOE | November 20, 2021 | |
-| November 15, 2021 11:50pm AOE | December 20, 2021 | [ACL 2022](https://www.2022.aclweb.org/) (TBD) |
+| November 15, 2021 11:50pm AOE | December 20, 2021 | [ACL 2022](https://www.2022.aclweb.org/) (Jan 7, 2022) |
 | December 15, 2021 11:50pm AOE | January 20, 2022 | |
 
 AOE: anywhere on earth.
