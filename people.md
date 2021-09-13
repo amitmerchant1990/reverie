@@ -26,6 +26,9 @@ Contact: `cto at aclrollingreview.org`
 * Yoshitomo Matsubara, UC Irvine
 * Sebastin Santy, MSR India
 
+
+Contact: `support at aclrollingreview.org`
+
 ## Publicity and Web
 
 * Stephen Mayhew, Duolingo
