@@ -31,6 +31,9 @@ ACL Rolling Review offers the following:
 **Q**: I want to submit my paper to ACL ARR on the 15th of September and I'd like to submit it for the ACL 2022 conference, but I can't find where should I specify the venue that I'm interested in submitting it to. How do I select the venue?<br>
 **A**: *After* you receive your reviews (i.e. in late October), you will indicate your interest in submitting to ACL through the [Paper+Review Submission Form](https://airtable.com/shrVEN1Tlr8VAEegG). There is nothing that you need to do in September.
 
+**Q**: If I submit early, can I update my submission before the deadline?<br>
+**A**: Yes.
+
 **Q**: I have further questions about ARR submission, where do I contact?<br>
 **A**: Please contact: `support@aclrollingreview.org`
 
