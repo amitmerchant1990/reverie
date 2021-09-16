@@ -24,7 +24,7 @@ Contact: `editors at aclrollingreview.org`
 * Nils Dycke, TU Darmstadt
 * Pengfei Liu, Carnegie Mellon University
 * Yoshitomo Matsubara, UC Irvine
-* Sebastin Santy, MSR India
+* Sebastin Santy, University of Washington
 
 Contact: `tech at aclrollingreview.org`
 
