@@ -58,7 +58,7 @@ Contact: `support at aclrollingreview.org`
 * Aoife Cahill, Educational Testing Service
 * Xavier Carreras, Spanish National Research Council
 * Daniel Cer, Google
-* Snigdha Chaturvedi, University of North Carolina, Chapel Hill
+* Snigdha Chaturvedi, University of North Carolina at Chapel Hill
 * Boxing Chen, Alibaba Group
 * Pu-Jen Cheng, National Taiwan University
 * Colin Cherry, Google
@@ -67,13 +67,13 @@ Contact: `support at aclrollingreview.org`
 * Jeff Dalton, University of Glasgow
 * Dipanjan Das, Google
 * Pascal Denis, INRIA
-* Leon Derczynski, IT University
+* Leon Derczynski, IT University of Copenhagen
 * Barry Devereux, Queen's University Belfast
 * Mona T. Diab, George Washington University
 * A. S. Dogruoz, Ghent University
 * Kevin Duh, Johns Hopkins University
-* Greg Durrett, University of Texas, Austin
-* Katrin Erk, University of Texas, Austin
+* Greg Durrett, University of Texas at Austin
+* Katrin Erk, University of Texas at Austin
 * Yang Feng, Institute of Computing Technology, Chinese Academy of Sciences
 * Yansong Feng, Peking University
 * Annemarie Friedrich, Bosch Center for Artificial Intelligence
@@ -81,10 +81,10 @@ Contact: `support at aclrollingreview.org`
 * Alborz Geramifard, Massachusetts Institute of Technology
 * Jiatao Gu, Facebook AI Research
 * James Henderson, Idiap Research Institute
-* Julia Hockenmaier, University of Illinois, Urbana Champaign
-* Kentaro Inui, Tohoku University, Japan
+* Julia Hockenmaier, University of Illinois at Urbana Champaign
+* Kentaro Inui, Tohoku University
 * Ozan Irsoy, Bloomberg
-* Cassandra L Jacobs, State University of New York, Buffalo
+* Cassandra Jacobs, State University of New York at Buffalo
 * Alon Jacovi, Bar Ilan University
 * Shafiq Joty, SalesForce.com and Nanyang Technological University
 * Katharina Kann, University of Colorado, Boulder
@@ -120,7 +120,7 @@ Contact: `support at aclrollingreview.org`
 * Tristan Naumann, Massachusetts Institute of Technology
 * Vincent Ng, University of Texas at Dallas
 * Jan Niehues, Maastricht University
-* Hitoshi Nishikawa, Tokyo Institute of Technology
+* Hitoshi Nishikawa, astamuse
 * Kemal Oflazer, Carnegie Mellon University
 * Alice Oh, Korea Advanced Institute of Science and Technology
 * Miles Osborne, Epistemic.ai
@@ -138,11 +138,11 @@ Contact: `support at aclrollingreview.org`
 * Colin Raffel, Hugging Face and University of North Carolina, Chapel Hill
 * Sebastian Riedel, Facebook and University College London
 * Anna Rogers, University of Copenhagen
-* Ivan Vladimir Meza Ruiz, UNAM
+* Ivan Vladimir Meza Ruiz, Universidad Nacional Autónoma de México
 * Benoît Sagot, INRIA
 * Carolina Scarton, University of Sheffield
 * Nathan Schneider, Georgetown University
-* Hinrich Schuetze, Center for Information and Language Processing
+* Hinrich Schütze, University of Munich
 * Diarmuid O Seaghdha, Apple
 * Rico Sennrich, University of Zurich and University of Edinburgh
 * Gabriel Skantze, KTH Royal Institute of Technology, Stockholm, Sweden
@@ -152,6 +152,7 @@ Contact: `support at aclrollingreview.org`
 * Gabriel Stanovsky, University of Washington and Allen Institute for Artificial Intelligence
 * Pontus Stenetorp, University College London
 * Amanda Stent, Colby College
+* Veselin Stoyanov, Facebook AI
 * Emma Strubell, Carnegie Mellon University and Google
 * Jinsong Su, Xiamen University
 * Jun Suzuki, Tohoku University
@@ -159,11 +160,11 @@ Contact: `support at aclrollingreview.org`
 * Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
 * Kewei Tu, ShanghaiTech University
 * Ivan Vulić, PolyAI Limited and University of Cambridge
-* Marilyn Walker, University of California, Santa Cruz
+* Marilyn Walker, University of California at Santa Cruz
 * Xiaojun Wan, Peking University
 * Zeerak Waseem, University of Sheffield
-* Taro Watanabe, Nara Institute of Science and Technology, Japan
-* Bonnie L. Webber, Edinburgh University, University of Edinburgh
+* Taro Watanabe, Nara Institute of Science and Technology
+* Bonnie L. Webber, University of Edinburgh
 * Zhongyu Wei, Fudan University
 * Michael White, Ohio State University and Facebook
 * Deyi Xiong, Tianjin University
