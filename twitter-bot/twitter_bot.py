@@ -1,14 +1,14 @@
 import argparse
 import openreview
 import tweepy
-
+import os
 
 # API Key for Arr Preprints Bot
+# Contact Stephen Mayhew (twitter: @mayhewsw) for the secrets
 CONSUMER_KEY = "wjHFvsbNqcPjM8xh0VphoIfal"
-CONSUMER_SECRET = "SzF9qg2Vo4034XEXxhn2ltQdtDjL06MOOwHYvcEYVFN1LosCOL"
+CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
 ACCESS_TOKEN= "1395450619608113156-RxA4yS5IpHjAwEoiV87O8U8JeMmkQi"
-ACCESS_TOKEN_SECRET = "fal6wyg6o17w2j1r0jVH0buOReity4BXEDp1zc372cjQw"
-
+ACCESS_TOKEN_SECRET = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
 
 def post_links(api: tweepy.API, year: int, month: str, dryrun: bool = False) -> None:
     """
