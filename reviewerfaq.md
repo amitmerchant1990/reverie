@@ -83,5 +83,8 @@ The meta-review button may not be clickable if not all reviews are submitted yet
 ### How do I flag a submission for ethics review?
 Please email the action editors.
 
+### How do I view/reassign reviewers?
+Go to the area chair console (e.g. the following for [September](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September/Area_Chairs)) and click the link "Modify Reviewer Assignments" at the top of the page. From there you should be able to click on the "assignments" button for each of your papers, and get an ordered list of reviewers who you can assign.
+
 
 
