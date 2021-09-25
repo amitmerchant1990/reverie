@@ -66,11 +66,6 @@ We are working on this.
 ### Can we see author information?
 No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
 
-### How do I assign and unassign reviewers?
-On the “Assigned papers” tab, click on “Show reviewers” for a particular paper.  You can then search for reviewers for assigning that paper to a new reviewer.  
-Below each reviewer name, there is an “unassign” link that can be used to unassign a reviewer for that particular paper.
-If you want to add a reviewer who is not in the system, please email the action editors.
-This doc from UAI may help: https://auai.org/uai2017/openreview/reviewing.pdf
 
 ### Meta-Reviewing
 
@@ -85,6 +80,7 @@ Please email the action editors.
 
 ### How do I view/reassign reviewers?
 Go to the area chair console (e.g. the following for [September](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September/Area_Chairs)) and click the link "Modify Reviewer Assignments" at the top of the page. From there you should be able to click on the "assignments" button for each of your papers, and get an ordered list of reviewers who you can assign.
+
 
 
 
