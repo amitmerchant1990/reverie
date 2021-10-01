@@ -32,7 +32,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -295,7 +295,6 @@ p > img {
 }
 
 .site-info {
-  float: left;
 
   @include mobile {
     float: none;
@@ -330,7 +329,8 @@ p > img {
 }
 
 nav {
-  float: right;
+  width: 800px;
+  margin: 0 auto;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;

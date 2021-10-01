@@ -81,6 +81,32 @@ Please email the action editors.
 ### How do I view/reassign reviewers?
 Go to the area chair console (e.g. the following for [September](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September/Area_Chairs)) and click the link "Modify Reviewer Assignments" at the top of the page. From there you should be able to click on the "assignments" button for each of your papers, and get an ordered list of reviewers who you can assign.
 
+### Why was I assigned to be a reviewer for a paper where I'm an action editor?	
+This was a bug in our assignment in the September iteration. Apologies, and we'll fix this in October. For the time being, please unassign yourself and assign someone else.
 
+## Other Questions
 
+### Does automatic review assignment check if the reviewer is an action editor?	
+We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable.
 
+### Is the list of ARR action editors published somewhere?	
+Yes, see [here](https://aclrollingreview.org/about/people).
+
+### Should I assign and invite someone else to review a declined paper?	
+Yes, and you can do this by clicking through to "Modify Reviewer Assignments" from the Area Chair Console.
+
+### I got 4 papers. Should I expect this load in the future?
+The average monthly load for reviewers should be much closer to 2, but in certain periods (close to large conferences),
+it's possible that the load is higher.
+
+### Am I expected to accept all invitations? or should I select a subset that I am most interested in?	
+You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months.
+
+### Why did I get an invitation to review something when the deadline is already past?
+It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is no strict deadline, but the sooner you could provide the review, the better.
+
+### If I submit a paper before the 10/15 deadline and submit the revised version before the 12/15 deadline, does the revised version influence the ACL decision, and if so, how? 	
+The important thing to notice is that ARR doesn't provide accept/reject decisions. You only get the reviews. If you get your reviews by the time of the commitment date of a venue, you can then commit to that venue if you'd like. If you submit a revision to ARR at Dec 15, 2021, it is highly unlikely that you'll get the reviews for the revision by Jan 7, 2022, which is the ACL 22 commitment deadline -- so in that case you'll only have the option of committing your first version (presumably submitted to ARR in October) with the first set of reviews.
+
+### I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"	
+This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated, We hope that will solve the problem.
