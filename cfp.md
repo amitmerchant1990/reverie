@@ -58,15 +58,22 @@ Short paper submissions must describe original and unpublished work. Please note
  
 ### Anonymity Period
  
-ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission.
+ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
+
+The "notification (or withdrawal)" phrase used in the ACL guidelines refers to notification of acceptance/rejection from a *ACL conference (or workshop). This means that ARR submissions must remain anonymized until a conference or workshop has accepted or rejected, or until the submission is withdrawn.
 
 So, if you submit to the June deadline and get reviews in July, then on July 21st your paper is no longer under review. If you then post a deanonymized preprint on July 22nd, you can't resubmit to ARR or to a conference in the August round but you can in September. 
- 
-* Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review.
+
+If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one step process in OpenReview. Once a submission is withdrawn, it is removed from that month's reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
+
+Further info:
+
+* Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review. It will be publicized on Twitter by [a bot](https://twitter.com/ArrPreprints).
 * Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper,  we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
 * If the authors have posted a non-anonymized version of their paper online before the start of the anonymity period, they may submit an anonymized version to ARR. The submitted version must not refer to the non-anonymized version, and the authors must inform the editors in chief that a non-anonymized version exists.
 * Authors may not update the non-anonymized version during the anonymity period, and we ask authors not to advertise it on social media or take other actions that would further compromise two-way anonymized reviewing during the anonymity period.
 * Note that, while authors are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make two-way anonymized reviewing more difficult to maintain, and we therefore encourage authors to wait. Alternatively, authors may consider submitting your work to the Computational Linguistics journal, which does not require anonymization and has a track for “short” (i.e., conference-length) papers.
+
 
 ### Instructions for Two-Way Anonymized Review
 
