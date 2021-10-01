@@ -56,6 +56,6 @@ Please note that it is possible to publish a preprint anonymously as part of the
 
 [10/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
 
-[August Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/August)
+[September Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September)
 
 [Paper+Review Submission Form](https://airtable.com/shrVEN1Tlr8VAEegG)
