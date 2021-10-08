@@ -17,6 +17,10 @@ This FAQ is intended to help reviewers and action editors navigate OpenReview an
 
 ## Communication
 
+### How do I modify reviewer assignments?
+
+See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021.
+
 ### Who contacts reviewers to kick off reviewing?
 The editor-in-chief email all reviewers to kick off reviewing. 
 
