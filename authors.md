@@ -39,7 +39,11 @@ ACL Rolling Review offers the following:
 
 # Anonymity Requirement
 
-Please see the [Call for Papers](https://aclrollingreview.org/cfp)
+**Q**: When am I allowed to post an anonymous preprint?
+**A**: Please see the [Call for Papers](https://aclrollingreview.org/cfp) for a detailed policy?
+
+**Q**: Can a paper be submitted to a non-archival venue during the anonymity period given that the paper, if accepted will be presented at the workshop during the anonymity period?
+**A**: The ACL and ARR anonymity policies do not forbid you from talking in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
 
 # Submission Site
 
