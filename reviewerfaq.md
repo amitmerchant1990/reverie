@@ -19,7 +19,10 @@ This FAQ is intended to help reviewers and action editors navigate OpenReview an
 
 ### How do I modify reviewer assignments?
 
-See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021.
+At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
+which shows reviewer suggestions and tracks the status of invitations.
+See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021. 
+Once a reviewer has accepted the invitation they will be listed under the paper in the Area Chairs Console.
 
 ### Who contacts reviewers to kick off reviewing?
 The editor-in-chief email all reviewers to kick off reviewing. 
