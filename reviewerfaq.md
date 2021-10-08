@@ -29,7 +29,7 @@ Some suggestions are listed based on an automatic score, but this score may not 
 Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, click "Invite Assignment".
 You will receive an email notification when the reviewer accepts or declines the invitation.
 Once a reviewer has accepted the invitation they will be listed under the paper in the Area Chairs Console. 
-If someone declines, invite someone else until 3 reviewers are assigned.
+If someone declines, or does not respond to the invitation after a few days, invite someone else until 3 reviewers are assigned.
 
 ### Who contacts reviewers to kick off reviewing?
 The editor-in-chief email all reviewers to kick off reviewing. 
