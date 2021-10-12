@@ -29,7 +29,7 @@ Interested in reviewing for ACL Rolling Review?
 
 # FAQ
 
-This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
+This FAQ is intended to help reviewers navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
 
 ## Timeline
 
