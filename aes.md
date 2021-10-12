@@ -41,29 +41,55 @@ See the [dates and venues](/dates) page.
 
 ## Communication
 
-### How do I modify reviewer assignments?
+### How can I communicate with reviewers?
+You may communicate with reviewers using the discussion forum or by sending them email directly (reviewers and AEs are not blind to each-other).
 
-See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021.
+To send a note via the discussion forum In OpenReview, you can use a button labeled "Official Comment" at the top of the paper forum.
+Click on it to open a message form. You can select to exclusively message certain sub-groups, e.g. only reviewer 2.
 
 ### Who contacts reviewers to kick off reviewing?
-The editor-in-chief email all reviewers to kick off reviewing. 
+The editors-in-chief email all reviewers to kick off reviewing. 
 
-### How can I communicate with reviewers?
-You may communicate with reviewers using the discussion forum. In OpenReview, you should see a button labeled "Official Comment"
-at the top of the paper forum. Click on it to open a message form. You can also select to exclusively message certain sub-groups, e.g. only reviewer 2.  
+### How do I communicate to the editors in chief?
+Email `editors@aclrollingreview.org`.
 
-### How can I communicate with the action editor?
-In OpenReview, you should see a button labeled "Official Comment" at the top of the paper forum. Click on it to open a message form. 
-For messaging exclusively the action editors, please select only "area chairs" in the "Readers" field of the form.
+### What do I do if I'm unavailable in a particular month?
+For now, `editors@aclrollingreview.org`.
 
-### How do I communicate to the editors in chief that I am unavailable in a given month?
-We hope that in Q3 2021 OpenReview will roll out their v2 API, and we hope that API will allow us to create a button or other functionality whereby
-you can move yourself from "reviewers unavailable" to "action editor available" and back. For now, if you are unavailable in a month, email editors@aclrollingreview.org.
+## Reviewer Assignment
 
-## Desk Rejects
+### How do I modify reviewer assignments?
 
-### One of my assigned submissions uses a workshop / conference template rather than the ARR template. What should I do? 
-Please inform the action editors. After the trial period for ARR is over this will be a desk reject.
+At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
+which shows reviewer suggestions and tracks the status of invitations.
+See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021. 
+
+**It is important to select reviewers with expertise appropriate to the paper.** 
+Some suggestions are listed based on an automatic score, but this score may not always be reliable.
+
+Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, click "Invite Assignment".
+You will receive an email notification when the reviewer accepts or declines the invitation.
+Once a reviewer has accepted the invitation they will be listed under the paper in the Area Chairs Console. 
+If someone declines, or does not respond to the invitation after a few days, invite someone else until 3 reviewers are assigned.
+
+### Does automatic review assignment check if the reviewer is an action editor?	
+We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable. That being said, you should never be assigned as reviewer of a paper where you are action editor, so if this happens please contact us to notify us of the issue, then unassign yourself and assign a different reviewer.
+
+### Should I assign and invite someone else to review a paper where the reviewer has indicated that they are unavailable or unqualified?	
+Yes, and you can do this by clicking through to "Modify Reviewer Assignments" from the Area Chair Console.
+
+## Compliance and Desk Rejects
+
+### What is the compliance checklist?
+- Is the content of this paper appropriate to a \*ACL venue?
+- Is the paper in English?
+- Does this paper use the ARR template?
+- Does this paper adhere to length constraints for the paper type (long: 8, short: 4, in both cases exclusive of references and appendices)?
+- Is the submission (including paper and any supplemental materials) anonymized?
+- Is this paper not already published elsewhere?
+
+### One of my papers doesn't follow the compliance checklist, what should I do?
+The paper should be desk-rejected, please use the "desk reject" button in OpenReview. If you're not sure about the decision, please get in touch with the editors in chief. 
 
 ### One of my assigned submissions is more than four pages but less than eight pages in length. What should I do?
 Treat it as a long paper submission.
@@ -71,25 +97,16 @@ Treat it as a long paper submission.
 ### Can the ethics statement extend into a 5th/9th page?
 Yes. 
 
-### What is the compliance checklist?
-- Is the content of this paper appropriate to a *ACL venue?
-- Is the paper in English?
-- Does this paper use the ARR template?
-- Does this paper adhere to length constraints for the paper type (long: 8, short: 4, in both cases exclusive of references and appendices)?
-- Is the submission (including paper and any supplemental materials) anonymized?
-- Is this paper already published elsewhere?
-
-
 ### How do I actually desk reject a submission?
 In OpenReview, you should see a button labeled "Desk Reject".
 
-## Reviewer Assignments
+## Reviewer Assignment
 
 ### In what order are alternative reviewers for a submission displayed (eg alphabetical, by match score, random)?
-We are working on this.
+You can choose several orders. If you choose "affinity score" they will be sorted by the matching score given by an ML model (specifically, as of September this is the [SPECTRE-MFR model](https://github.com/openreview/openreview-expertise) provided by OpenReview).
 
 ### Can we see the number of submissions a reviewer is already assigned?
-We are working on this.
+Yes, look for the number next to "assignments" by their name. Please do consider this when making new assignments.
 
 ### Can we see author information?
 No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
@@ -98,43 +115,32 @@ No, we are managing a two-way anonymized process up through action editors. It i
 ### Meta-Reviewing
 
 ### How do I enter a meta-review?
-Click on the button in the system.
+Click on the "official meta-review" button in the system.
 
 ### Why can I not press the "meta-review" button?
 The meta-review button may not be clickable if not all reviews are submitted yet. In this case, please try to encourage the reviewers to submit their reviews, or recruit a new emergency reviewer.
 
 ### How do I flag a submission for ethics review?
-Please email the action editors.
-
-### How do I view/reassign reviewers?
-Go to the area chair console (e.g. the following for [September](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September/Area_Chairs)) and click the link "Modify Reviewer Assignments" at the top of the page. From there you should be able to click on the "assignments" button for each of your papers, and get an ordered list of reviewers who you can assign.
+Please email the editors-in-chief of ARR.
 
 ### Why was I assigned to be a reviewer for a paper where I'm an action editor?	
 This was a bug in our assignment in the September iteration. Apologies, and we'll fix this in October. For the time being, please unassign yourself and assign someone else.
 
 ## Other Questions
 
-### Does automatic review assignment check if the reviewer is an action editor?	
-We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable.
-
 ### Is the list of ARR action editors published somewhere?	
-Yes, see [here](https://aclrollingreview.org/about/people).
-
-### Should I assign and invite someone else to review a declined paper?	
-Yes, and you can do this by clicking through to "Modify Reviewer Assignments" from the Area Chair Console.
+Yes, see [here](/people).
 
 ### I got 4 papers. Should I expect this load in the future?
-The average monthly load for reviewers should be much closer to 2, but in certain periods (close to large conferences),
-it's possible that the load is higher.
+We aim for the average monthly load in any given month to be 1-2 papers, but in certain periods (close to large conferences), it's possible that the load may be higher, and in slow periods the load may be lower.
 
 ### Am I expected to accept all invitations? or should I select a subset that I am most interested in?	
 You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months.
 
 ### Why did I get an invitation to review something when the deadline is already past?
-It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is no strict deadline, but the sooner you could provide the review, the better.
-
-### If I submit a paper before the 10/15 deadline and submit the revised version before the 12/15 deadline, does the revised version influence the ACL decision, and if so, how? 	
-The important thing to notice is that ARR doesn't provide accept/reject decisions. You only get the reviews. If you get your reviews by the time of the commitment date of a venue, you can then commit to that venue if you'd like. If you submit a revision to ARR at Dec 15, 2021, it is highly unlikely that you'll get the reviews for the revision by Jan 7, 2022, which is the ACL 22 commitment deadline -- so in that case you'll only have the option of committing your first version (presumably submitted to ARR in October) with the first set of reviews.
+It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is not a strict deadline in this case, but the sooner you could provide the review, the better.
 
 ### I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"	
 This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated, We hope that will solve the problem.
+
+

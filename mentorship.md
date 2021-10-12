@@ -17,26 +17,25 @@ The program operates as follows:
 9) After the cycle, mentor and mentee decide if more mentorship is necessary or if the mentee can continue to review independently. 
 
 ## Mentees
-We are looking for researchers in the area of NLP that have experience with NLP paper authoring and/or reviewing (e.g. have an EMNLP or ACL paper, or reviewed for workshops), but don’t yet feel ready to review for *ACL conferences and ARR. If you fall into this category and are interested in becoming a review mentee at ARR, please fill out the form below:
+We are looking for researchers in the area of NLP that have experience with NLP paper authoring and/or reviewing (e.g. have an EMNLP or ACL paper, or reviewed for workshops), but don’t yet feel ready to review for \*ACL conferences and ARR. If you fall into this category and are interested in becoming a review mentee at ARR, please fill out [the mentee form](https://forms.office.com/r/5xyiutt16z).
 
-https://forms.office.com/r/5xyiutt16z 
+
 Note that we cannot guarantee a place for everyone as the number of mentors is limited.
 
 ## Mentors
-We are looking for ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please fill out the form below:
+We are looking for ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please fill out [the mentor form](https://forms.office.com/r/jxn5eYV2ZW).
 
-https://forms.office.com/r/jxn5eYV2ZW 
 
-If you are not yet an ARR reviewer/action editor, please indicate your interest in becoming one using the form on the bottom of https://aclrollingreview.org/reviewers. Feel free to fill out the mentor application form afterwards, but note that we can't accept you as mentor before we accept you as reviewer/action editor.    
+If you are not yet an ARR reviewer/action editor, please indicate your interest in becoming one using the form on the bottom of [the for reviewers page](/reviewers). Feel free to fill out the mentor application form afterwards, but note that we can't accept you as mentor before we accept you as reviewer/action editor.    
 
 ## Material for Mentors and Mentees
 We ask mentees to go through the material below (in full). While we expect mentors to have sufficient review experience, it might still be good for them to review the material too in order to help with communicating what good and bad reviews are. 
 
-* EMNLP 2017 review advice: How to write good review: https://2020.emnlp.org/blog/2020-05-17-write-good-reviews
-* ACL 2017 leaders view on reviewing:  https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ 
-* Two example good reviews from NAACL 2018 presented in their reviewing form: https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/ 
-* A podcast by Noah Smith about peer reviews: https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith 
-* Reject if not SOTA? https://hackingsemantics.xyz/2020/reviewing-models/ 
+[https://2020.emnlp.org/blog/2020-05-17-write-good-reviews](EMNLP 2017 review advice: How to write good review)
+[https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](ACL 2017 leaders view on reviewing)
+[https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/ ](Two example good reviews from NAACL 2018 presented in their reviewing form)
+[https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith ](A podcast by Noah Smith about peer reviews)
+[https://hackingsemantics.xyz/2020/reviewing-models/ ](Reject if not SOTA?)
 
 ## Other References
 * https://www.aclweb.org/adminwiki/index.php?title=2020Q1_Reports:_ACL_2020
