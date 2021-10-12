@@ -1,19 +1,43 @@
 ---
-permalink: /reviewerfaq
-redirect_to:
-  - /reviewers
+layout: page
+title: "For Action Editors"
+permalink: /aes
 ---
+
+# What is an Action Editor
+
+An action editor (AE) is a person who oversees a team of reviewers in reviewing the paper, and in the end provides a meta-review summarizing the review process.
+
+Each month, after the submission deadline, action editors who are available that month will be automatically assigned submissions. The action editor will first confirm they have no conflict of interest with each submission. Then, they will quickly check the submission for any major violations in formatting or other factors and desk reject the submission if it is in violation. The action editor will then be presented with a list of reviewers automatically suggested. The action editor will choose reviewers, using this automatic suggestion as a base. This will take place within 7 days of the paper submission deadline.
+
+Each month, starting around 24 days after the submission deadline, the action editor will remind any reviewer who has not yet completed their review.
+
+Each month, between 30 and 35 days after the submission deadline, the action editor will read the reviews, discuss with the reviewers if necessary, and:
+* Summarize the review results in a meta-review (see the [meta-review form](/actioneditorform) and [review form](/reviewform)).
+* Perform a compliance check, checking the paper meets formatting and other requirements.
+
+You can see more information about the reviewing schedule on the [Dates and Venues](/dates) page.
+
+# AE Time Commitment
+
+AEs serve for an initial term of one year, renewable. We will have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to handle many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, action editors will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of action editors to indicate that they are on vacation or otherwise unavailable.
+
+
+# Interest Survey
+
+Interested in reviewing for ACL Rolling Review?
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__u_t_RFUMFJRRTdPNlBDM0RLODYxSUo5MlBPTEI1VC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+# FAQ
 
 This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
 
 ## Timeline
 
 ### What is the timeline?
-- Days 1-7: AEs are assigned end AEs assign reviewers/desk reject, no notifications go out
-- Day 7: Notifications to reviewers go out (automatically)
-- Day 30: Reviews are submitted
-- Day 35: Meta-Review submitted
-- Day 35: Reviews released to authors
+
+See the [dates and venues](/dates) page.
 
 ## Communication
 
