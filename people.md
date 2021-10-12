@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-permalink: /about/people
+permalink: /people
 ---
 
 ## Support
@@ -19,11 +19,11 @@ Contact: `editors at aclrollingreview.org`
 
 ## Technical Staff
 
-- Graham Neubig, CMU (Chief Technical Officer)
-- Kushal Arora, McGill University and MILA
+- Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
 - Nils Dycke, TU Darmstadt
 - Pengfei Liu, Carnegie Mellon University
 - Yoshitomo Matsubara, UC Irvine
+- Dhruv Naik, Carnegie Mellon University
 - Sebastin Santy, University of Washington
 
 Contact: `tech at aclrollingreview.org`
@@ -32,7 +32,7 @@ Contact: `tech at aclrollingreview.org`
 
 - Stephen Mayhew, Duolingo (Communications Team Chair)
 - Shubhra Kanti Karmaker (Santu), Auburn University
-- Graham Neubig, CMU
+- Graham Neubig, Carnegie Mellon University
 
 Contact: `support at aclrollingreview.org`
 

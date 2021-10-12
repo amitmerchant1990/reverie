@@ -11,15 +11,11 @@ ACL Rolling Review offers the following:
 * one click to submit to a conference or workshop
 * optional anonymous preprint
 
-# Call for Papers
-
-[Call For Papers](https://aclrollingreview.org/cfp)
-
-# Author Checklist
-
-[Checklist](https://aclrollingreview.org/authorchecklist)
+If you would like to submit to ACL rolling review, please first see the [Call For Papers](/cfp) and [Author Checklist](/authorchecklist)
 
 # Frequently Asked Questions for Authors
+
+## Submission and Review
 
 **Q**: Does ARR import reviews from other publication venues? <br>
 **A**: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
@@ -37,17 +33,17 @@ ACL Rolling Review offers the following:
 **Q**: I have further questions about ARR submission, where do I contact?<br>
 **A**: Please contact: `support@aclrollingreview.org`
 
-# Anonymity Requirement
+## Anonymity Requirement
 
 **Q**: When am I allowed to post an anonymous preprint?
-**A**: Please see the [Call for Papers](https://aclrollingreview.org/cfp) for a detailed policy?
+**A**: Please see the [Call for Papers](/cfp) for a detailed policy.
 
 **Q**: Can a paper be submitted to a non-archival venue during the anonymity period given that the paper, if accepted will be presented at the workshop during the anonymity period?
 **A**: The ACL and ARR anonymity policies do not forbid you from talking in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
 
 # Submission Site
 
-[Submission Form Fields](https://aclrollingreview.org/submissionform)
+[Submission Form Fields](/submissionform)
 
 [10/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
 

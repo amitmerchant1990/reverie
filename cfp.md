@@ -112,16 +112,16 @@ Authors are encouraged to devote a section of their paper to concerns of the eth
 
 ### Submission Criteria
 
-ARR provides a [submission checklist](https://aclrollingreview.org/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
+ARR provides a [submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](https://aclrollingreview.org/submissionform) are the paper submission form fields for your reference.
+Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](/submissionform) are the paper submission form fields for your reference.
  
 Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and also [downloadable directly](https://github.com/acl-org/ACLPUB/tree/master/templates)  (Latex and Word). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html).
 Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. 
  
-[Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and [here](https://aclrollingreview.org/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
+[Here](/reviewform) is the current version of the review form, and [here](/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
  
 ### Optional Supplementary Materials: Appendices, Software and Data
 
