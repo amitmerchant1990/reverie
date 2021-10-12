@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "For Reviewers and Action Editors"
+title: "For Reviewers"
 permalink: /reviewers
 ---
 
