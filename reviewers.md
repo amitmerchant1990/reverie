@@ -15,7 +15,7 @@ Each month, around 30 days after the submission deadline, the action editor will
 
 So, reviewers will want to be especially available from the 15th to the 22nd of each month.
  
-# Reviewer Time Committment
+# Reviewer Time Commitment
 
 An initial term of one year, renewable. We will eventually have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to review many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, reviewers will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of reviewers to indicate that they are on vacation or otherwise unavailable.
 
@@ -80,5 +80,5 @@ You are free to decline to review papers, but keep in mind that ARR will be the 
 It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is no strict deadline, but the sooner you could provide the review, the better.
 
 ### I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"	
-This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated, We hope that will solve the problem.
+This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated. We hope that will solve the problem.
 

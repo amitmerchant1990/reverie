@@ -44,7 +44,7 @@ See the [dates and venues](/dates) page.
 ### How can I communicate with reviewers?
 You may communicate with reviewers using the discussion forum or by sending them email directly (reviewers and AEs are not blind to each-other).
 
-To send a note via the discussion forum In OpenReview, you can use a button labeled "Official Comment" at the top of the paper forum.
+To send a note via the discussion forum in OpenReview, you can use a button labeled "Official Comment" at the top of the paper forum.
 Click on it to open a message form. You can select to exclusively message certain sub-groups, e.g. only reviewer 2.
 
 ### Who contacts reviewers to kick off reviewing?
@@ -137,10 +137,10 @@ We aim for the average monthly load in any given month to be 1-2 papers, but in 
 ### Am I expected to accept all invitations? or should I select a subset that I am most interested in?	
 You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months.
 
-### Why did I get an invitation to review something when the deadline is already past?
-It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is not a strict deadline in this case, but the sooner you could provide the review, the better.
+### Why did I get an invitation to be AE of something later than the normal time?
+It is possible that an EICs may have sent an emergency action editor request for a paper where the original AE was not able to handle it or we could not get in contact. For these papers the deadlines for reviews and meta-reviews can be extended flexibly as necessary (although we obviously hope the paper can be done sooner rather than later).
 
 ### I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"	
-This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated, We hope that will solve the problem.
+This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated. We hope that will solve the problem.
 
 
