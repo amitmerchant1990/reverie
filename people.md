@@ -181,6 +181,7 @@ Contact: `support at aclrollingreview.org`
 - Yi Zhang, Amazon
 - Zhongyu Wei, Fudan University
 - Tanmoy Chakraborty, Indraprastha Institute of Information Technology, Delhi
+- Shubhra Kanti Karmaker ("Santu"), Auburn University, Alabama
 
 ## Reviewers
 
