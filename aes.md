@@ -58,28 +58,42 @@ For now, `editors@aclrollingreview.org`.
 
 ## Reviewer Assignment
 
-### How many reviewers per paper?
-There are 4 reviewers assigned per paper in the initial round, and we hope to get at least three reviews per paper before the AE writes the meta-review and the reviews are released to the authors. 
+### How do I check and modify reviewer assignments?
 
-### How do I modify reviewer assignments?
+At the beginning of the review period, from about the 17th of the month to the 22nd of the month, you will be asked to check and potentially modify the assignments of the reviewers to papers that you are in charge of.
 
+**Checking Initial Assignments (up to the 22nd):**
+When you get an email notifying you of being in charge of a paper, please log in to check the assignments.
 At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
 which shows reviewer suggestions and tracks the status of invitations.
 See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021. 
 
-**It is important to select reviewers with expertise appropriate to the paper.** 
-Some suggestions are listed based on an automatic score, but this score may not always be reliable.
+It is important to select reviewers with expertise appropriate to the paper.
+Some suggestions are listed based on an automatic score, but this score may not always be reliable, so feel free to make modifications if they are not reliable.
+Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, you can unassign one of the currrent reviewers and add a new reviewer.
 
-Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, click "Invite Assignment".
-You will receive an email notification when the reviewer accepts or declines the invitation.
-Once a reviewer has accepted the invitation they will be listed under the paper in the Area Chairs Console. 
-If someone declines, or does not respond to the invitation after a few days, invite someone else until 3 reviewers are assigned.
+Once you are happy with the assignment (even if you make no modifications), there is nothing more to do.
+A notification will be sent out on the 23rd of the month notifying your selected reviewers that they have been assigned papers and that they should commence reviewing.
+
+**Modifying Assignments (23rd and beyond):**
+At some point after reviewers have been assigned you may have to add new reviewers, either because a reviewer contacts you regarding not being a good match for the paper, or because they are unresponsive.
+If you need to do this, we would suggest you either think of reviewers who you think are appropriate, or use the reviewer browser and sorting by "Affinity Score" to find reviewers who are appropriate.
+Because the newly assigned reviewer will have a somewhat compressed reviewing timeline (since they were not assigned right at the beginning of the reviewing process), it would be good to reach out to them via email and confirm their availability before assigning them.
+
+### How many reviewers per paper?
+There are 4 reviewers assigned per paper in the initial round, and we hope to get at least three reviews per paper before the AE writes the meta-review and the reviews are released to the authors. 
 
 ### Does automatic review assignment check if the reviewer is an action editor?	
 We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable. That being said, you should never be assigned as reviewer of a paper where you are action editor, so if this happens please contact us to notify us of the issue, then unassign yourself and assign a different reviewer.
 
-### Should I assign and invite someone else to review a paper where the reviewer has indicated that they are unavailable or unqualified?	
-Yes, and you can do this by clicking through to "Modify Reviewer Assignments" from the Area Chair Console.
+### In what order are alternative reviewers for a submission displayed (eg alphabetical, by match score, random)?
+You can choose several orders. If you choose "affinity score" they will be sorted by the matching score given by an ML model (specifically, as of September this is the [SPECTRE-MFR model](https://github.com/openreview/openreview-expertise) provided by OpenReview).
+
+### Can we see the number of submissions a reviewer is already assigned?
+Yes, look for the number next to "assignments" by their name. Please do consider this when making new assignments.
+
+### Can we see author information?
+No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
 
 ## Compliance and Desk Rejects
 
@@ -103,19 +117,8 @@ Yes.
 ### How do I actually desk reject a submission?
 In OpenReview, you should see a button labeled "Desk Reject".
 
-## Reviewer Assignment
 
-### In what order are alternative reviewers for a submission displayed (eg alphabetical, by match score, random)?
-You can choose several orders. If you choose "affinity score" they will be sorted by the matching score given by an ML model (specifically, as of September this is the [SPECTRE-MFR model](https://github.com/openreview/openreview-expertise) provided by OpenReview).
-
-### Can we see the number of submissions a reviewer is already assigned?
-Yes, look for the number next to "assignments" by their name. Please do consider this when making new assignments.
-
-### Can we see author information?
-No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
-
-
-### Meta-Reviewing
+## Meta-Reviewing
 
 ### How do I enter a meta-review?
 Click on the "official meta-review" button in the system.
