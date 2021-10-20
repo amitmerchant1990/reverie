@@ -4,7 +4,7 @@ title: "Dates and Participating Venues"
 permalink: /dates
 ---
 
-# Reviewing Schedule
+## Reviewing Schedule
 
 ARR attempts to adhere to the following (tight) reviewing timeline. 
 
@@ -18,11 +18,13 @@ Within each month, on:
 
 The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
 
-# Submission to Conferences
+## Submission to Participating Venues
 
 Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
 - revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
 - submit their paper *and reviews* to a publication venue
+
+Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please contact the [ARR editors](/people).
 
 | Submission deadline | Earliest review release date | Last deadline for (Review Submission Deadline) |
 |---------------------|------------|-------------------|
