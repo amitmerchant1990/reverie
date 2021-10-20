@@ -4,6 +4,26 @@ title: "Dates and Participating Venues"
 permalink: /dates
 ---
 
+# Reviewing Schedule
+
+ARR attempts to adhere to the following (tight) reviewing timeline. 
+
+Within each month, on:
+- day 0 - submission deadline
+- days 1 to 4 - action editor assignment
+- days 5 to 7 - desk rejects and reviewer assignment
+- day 7 to 1 month  - reviewing
+- 1 month to 1 month + 5 days - meta reviewing
+- 1 month + 6 days - reviews to authors
+
+The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
+
+# Submission to Conferences
+
+Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
+- revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
+- submit their paper *and reviews* to a publication venue
+
 | Submission deadline | Earliest review release date | Last deadline for (Review Submission Deadline) |
 |---------------------|------------|-------------------|
 | May 15, 2021 11:59pm AOE |  June 21, 2021 | [EMNLP 2021](https://2021.emnlp.org/) |
@@ -16,17 +36,3 @@ permalink: /dates
 | December 15, 2021 11:50pm AOE | January 21, 2022 | |
 
 AOE: anywhere on earth.
-
-Within each month, on:
-- day 0 - submission deadline
-- days 1 to 4 - action editor assignment
-- days 5 to 7 - desk rejects and reviewer assignment
-- day 7 to 1 month  - reviewing
-- 1 month to 1 month + 5 days - meta reviewing
-- 1 month + 6 days - reviews to authors
-
-Note that this is a new initiative, so we may revise the timelines as we get more experience. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date.
-
-Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
-- revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
-- submit their paper *and reviews* to a publication venue
