@@ -39,13 +39,16 @@ See the [dates and venues](/dates) page.
 ## Communication
 
 ### Who contacts reviewers to kick off reviewing?
-The editor-in-chief emails all reviewers to kick off reviewing. 
+The editor-in-chief emails all reviewers to kick off reviewing, which will usually happen on or around the 23rd of the month. 
 
 ### How can I communicate with the action editor?
 You can either email the action editor directly or contact through OpenReview.
 
-To go through OpenReview, you should see a button labeled "Official Comment" at the top of the paper forum. Click on it to open a message form. 
+To communicate through OpenReview, you should see a button labeled "Official Comment" at the top of the paper forum. Click on it to open a message form. 
 For messaging exclusively the action editors, please select only "area chairs" in the "Readers" field of the form.
+
+To communicate through email, you can find the name of the action editor on the "Paper Assignments" page in OpenReview, and click on their name.
+Their email will be anonymized on the OpenReview page itself (for privacy reasons), but you can often find it by clicking on the "Homepage" link or otherwise searching for their contact information by following the links in the profile.
 
 ## Desk Rejects
 
