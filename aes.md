@@ -86,7 +86,8 @@ If you need to do this, we would suggest you either think of reviewers who you t
 Because the newly assigned reviewer will have a somewhat compressed reviewing timeline (since they were not assigned right at the beginning of the reviewing process), it would be good to reach out to them via email and confirm their availability before assigning them.
 
 ### How many reviewers per paper?
-There are 4 reviewers assigned per paper in the initial round, and we hope to get at least three reviews per paper before the AE writes the meta-review and the reviews are released to the authors. 
+Four reviewers should be assigned per paper at the beginning of the review process.
+Each paper must get at least three reviews (four is also acceptable) before the AE writes the meta-review and the reviews are released to the authors. 
 
 ### Does automatic review assignment check if the reviewer is an action editor?	
 We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable. That being said, you should never be assigned as reviewer of a paper where you are action editor, so if this happens please contact us to notify us of the issue, then unassign yourself and assign a different reviewer.
