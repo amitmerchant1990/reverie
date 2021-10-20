@@ -180,6 +180,9 @@ Contact: `support at aclrollingreview.org`
 - Luke Zettlemoyer, University of Washington and Facebook
 - Yi Zhang, Amazon
 - Zhongyu Wei, Fudan University
+- Tanmoy Chakraborty, Indraprastha Institute of Information Technology, Delhi
+- Shubhra Kanti Karmaker ("Santu"), Auburn University, Alabama
+- Maria Liakata, Associate Professor at Queen Mary, University of London
 
 ## Reviewers
 

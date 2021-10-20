@@ -58,6 +58,9 @@ For now, `editors@aclrollingreview.org`.
 
 ## Reviewer Assignment
 
+### How many reviewers per paper?
+There are 4 reviewers assigned per paper in the initial round, and we hope to get at least three reviews per paper before the AE writes the meta-review and the reviews are released to the authors. 
+
 ### How do I modify reviewer assignments?
 
 At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
