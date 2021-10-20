@@ -35,9 +35,14 @@ This FAQ is intended to help reviewers and action editors navigate OpenReview an
 
 ## Timeline
 
-### What is the timeline?
-
+### What is the normal review timeline?
 See the [dates and venues](/dates) page.
+The most important deadline is the review deadline, which is the 15th of the month following paper submission, and the meta-review deadline, which is the 20th of the month following paper submission.
+
+### What is the timeline for emergency reviews?
+Sometimes it is necessary to have an emergency review because an originally-assigned reviewer was not able to perform the review.
+In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible for the reviewer to finish a high-quality review by this deadline.
+In this case, please consult with the reviewer and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
 ## Communication
 
