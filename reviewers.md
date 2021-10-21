@@ -42,6 +42,19 @@ Sometimes it is necessary to have an emergency review because an originally-assi
 In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible to finish a high-quality review by this deadline.
 In this case, please consult with the action editor in charge of your paper (see how to contact them below) and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
+## Paper Assignment
+
+### What can I do to make sure I get good paper assignments?
+
+Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
+
+### Does automatic review assignment check if the reviewer is an action editor?	
+We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable.
+
+### I got 4 papers. Should I expect this load in the future?
+The average monthly load for reviewers should be much closer to 2, but in certain periods (close to large conferences),
+it's possible that the load is higher.
+
 ## Communication
 
 ### Who contacts reviewers to kick off reviewing?
@@ -72,15 +85,8 @@ Please inform the action editor in charge of your paper.
 
 ## Other Questions
 
-### Does automatic review assignment check if the reviewer is an action editor?	
-We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable.
-
 ### Is the list of ARR reviewers and action editors published somewhere?	
 Yes, see [here](/people).
-
-### I got 4 papers. Should I expect this load in the future?
-The average monthly load for reviewers should be much closer to 2, but in certain periods (close to large conferences),
-it's possible that the load is higher.
 
 ### Am I expected to accept all invitations? or should I select a subset that I am most interested in?	
 You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months. We will be changing the mechanism in the following months such that reviewers will be expected to review the papers they are assigned (unless they feel very unqualified to do so).

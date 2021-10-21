@@ -101,6 +101,10 @@ Yes, look for the number next to "assignments" by their name. Please do consider
 ### Can we see author information?
 No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
 
+### What can I do to make sure I get good papers as AE?
+
+Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
+
 ## Compliance and Desk Rejects
 
 ### What is the compliance checklist?
