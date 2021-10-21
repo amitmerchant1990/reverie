@@ -27,6 +27,10 @@ Interested in reviewing for ACL Rolling Review?
 
 <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UOVAyS0NFOVZLUlZYWEZEM043QVhZS1ZOOS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+We are also looking for volunteer emergency reviewers:
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/r/0WgpXES4L8&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 # FAQ
 
 This FAQ is intended to help reviewers navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
