@@ -20,7 +20,9 @@ You can see more information about the reviewing schedule on the [Dates and Venu
 
 # AE Time Commitment
 
-AEs serve for an initial term of one year, renewable. We will have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to handle many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, action editors will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of action editors to indicate that they are on vacation or otherwise unavailable.
+AEs serve for an initial term of one year, renewable. We will have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to handle many papers at a time as opposed to a few every month. 
+
+Action editors may indicate that they are unavailable for a period of time. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u).
 
 
 # Interest Survey
