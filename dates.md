@@ -18,6 +18,8 @@ Within each month, on:
 
 The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
 
+You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York).
+
 ## Submission to Participating Venues
 
 Any paper that is not desk rejected will receive reviews. Once authors have reviews they may:
