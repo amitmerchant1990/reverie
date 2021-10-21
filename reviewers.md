@@ -19,7 +19,7 @@ So, reviewers will want to be especially available from the 15th to the 22nd of 
 
 An initial term of one year, renewable. We will eventually have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to review many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, reviewers will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of reviewers to indicate that they are on vacation or otherwise unavailable.
 
-Reviewers may choose to mark themselves as unavailable for some period. For now, please email [the editors](/people).
+Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u).
 
 # Reviewer Interest Survey
 
