@@ -49,4 +49,4 @@ If you would like to submit to ACL rolling review, please first see the [Call Fo
 
 [September Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September)
 
-[Paper+Review Submission Form](https://airtable.com/shrVEN1Tlr8VAEegG)
+[Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
