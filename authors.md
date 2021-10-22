@@ -26,7 +26,7 @@ If you would like to submit to ACL rolling review, please first see the [Call Fo
 See the questions below for more information.
 
 **Q**: What information do I have to provide to submit?<br>
-**A**: See the template [Submission Form Fields](/submissionform). Note that some of the fields are only required for _resubmissions_.
+**A**: See the link to submit to the next deadline, below. Note that some of the fields are only required for _resubmissions_.
 
 **Q**: I have reviews. How do I respond?<br>
 **A**: You respond to reviewers by making a _resubmission_. In the submission form, if you are making a _resubmission_, you should: a) provide the URL of your previous submission; b) upload the PDF of your previous submission; and c) upload a single PDF of your response to the previous round of reviews (for example, indicating how you modified the paper to answer reviewers' questions).
@@ -60,8 +60,6 @@ See the questions below for more information.
 **A**: The ACL Exec has approved the creation of an opt-in corpus of submissions and reviews. This corpus is being assembled by a group separate from the ARR editorial team. Your reviews will only be included if both you and the reviewers agree. 
 
 # Submission Sites
-
-[Submission Form Fields](/submissionform)
 
 [10/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
 
