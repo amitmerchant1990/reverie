@@ -37,15 +37,15 @@ If you would like to submit to ACL rolling review, please first see the [Call Fo
 
 ## Anonymity Requirement
 
-**Q**: When am I allowed to post a non-anonymous preprint?
+**Q**: When am I allowed to post a non-anonymous preprint?<br>
 **A**: Please see the [Call for Papers](/cfp) for a detailed policy. If you post a non-anonymous preprint, you will be asked to provide the URLs in the submission form. You can _always_ host an anonymous preprint in the ARR system itself, there's a simple checkbox in the submission form.
 
-**Q**: Can a paper be submitted to a non-archival venue during the anonymity period given that the paper, if accepted will be presented at the workshop during the anonymity period?
+**Q**: Can a paper be submitted to a non-archival venue during the anonymity period given that the paper, if accepted will be presented at the workshop during the anonymity period?<br>
 **A**: The ACL and ARR anonymity policies do not forbid you from talking in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
 
 ## Reviews for Data
 
-**Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?
+**Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?<br>
 **A**: The ACL Exec has approved the creation of an opt-in corpus of submissions and reviews. This corpus is being assembled by a group separate from the ARR editorial team. Your reviews will only be included if both you and the reviewers agree. 
 
 # Submission Site
