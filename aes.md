@@ -44,7 +44,7 @@ This FAQ is intended to help reviewers and action editors navigate OpenReview an
 **Q**: What is the normal review timeline?<br>
 **A**: 
 See the [dates and venues](/dates) page.
-The most important deadline is the review deadline, which is the 15th of the month following paper submission, and the meta-review deadline, which is the 20th of the month following paper submission. There is a Google calendar [here](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York) that you can import into your own calendar to help you keep track.
+The most important deadline is the review deadline, which is the 15th of the month following paper submission, and the meta-review deadline, which is the 20th of the month following paper submission. There is a Google calendar [here](https://calendar.google.com/calendar/ical/dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com/public/basic.ics) that you can import into your own calendar to help you keep track.
 
 **Q**: What is the timeline for emergency reviews?<br>
 **A**: 
