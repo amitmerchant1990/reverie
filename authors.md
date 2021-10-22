@@ -17,27 +17,31 @@ If you would like to submit to ACL rolling review, please first see the [Call Fo
 
 ## Submission and Review
 
-**Q**: How does submission, review and resubmission to ARR work?
+**Q**: How does submission, review and resubmission to ARR work?<br>
 **A**:
 - When you have a paper ready, you submit to ARR. You then receive reviews.
 - You consider your reviews. 
   - If you would like to make improvements to your paper, you do, and then you resubmit your paper to ARR, and provide a response to the previous round of reviews. You then receive reviews from the previous round reviewers and action editor, if available (note that you can request new reviewers under certain circumstances).
   - If you would like to submit your paper+reviews to a publication venue (e.g. a conference), then you do that. The publication venue will make an accept/reject decision for your paper. If your paper is rejected, you may still submit your paper+reviews to other publication venues.
+See the questions below for more information.
 
-**Q**: Does ARR import reviews from other publication venues? <br>
-**A**: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
+**Q**: What information do I have to provide to submit?<br>
+**A**: See the template [Submission Form Fields](/submissionform). Note that some of the fields are only required for _resubmissions_.
 
-**Q**: How do I respond to reviews?<br>
-**A**: In the submission form, if you are making a _resubmission_, you should: a) provide the URL of your previous submission; b) upload the PDF of your previous submission; and c) upload a single PDF of your response to the previous round of reviews (for example, indicating how you modified the paper to answer reviewers' questions).
+**Q**: I have reviews. How do I respond?<br>
+**A**: You respond to reviewers by making a _resubmission_. In the submission form, if you are making a _resubmission_, you should: a) provide the URL of your previous submission; b) upload the PDF of your previous submission; and c) upload a single PDF of your response to the previous round of reviews (for example, indicating how you modified the paper to answer reviewers' questions).
 
 **Q**: What should I do if my reviews are unfair or extremely low quality? <br>
 **A**: If you feel that you need a new reviewer or action editor for your paper, there are fields in the submission form (starting September 2021) where you can request one or more reviewers or the action editor to be replaced, and justify your request. These requests will be considered seriously and either accepted or denied based on their appropriateness.
 
-**Q**: I want to submit my paper to ACL ARR on the 15th of September and I'd like to submit it for the ACL 2022 conference, but I can't find where should I specify the venue that I'm interested in submitting it to. How do I select the venue?<br>
+**Q**: I want to submit my paper+reviews to a publication venue. How?<br>
 **A**: *After* you receive your reviews (i.e. in late October), you will indicate your interest in submitting to ACL through the [Paper+Review Submission Form](v). There is nothing that you need to do in September.
 
 **Q**: If I submit early, can I update my submission before the deadline?<br>
 **A**: Yes.
+
+**Q**: Does ARR import reviews from other publication venues? <br>
+**A**: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
 
 **Q**: I have further questions about ARR submission, where do I contact?<br>
 **A**: Please contact: `support@aclrollingreview.org`
@@ -55,7 +59,7 @@ If you would like to submit to ACL rolling review, please first see the [Call Fo
 **Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?<br>
 **A**: The ACL Exec has approved the creation of an opt-in corpus of submissions and reviews. This corpus is being assembled by a group separate from the ARR editorial team. Your reviews will only be included if both you and the reviewers agree. 
 
-# Submission Site
+# Submission Sites
 
 [Submission Form Fields](/submissionform)
 
