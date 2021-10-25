@@ -8,7 +8,7 @@ ACL Rolling Review is an initiative of the [ACL](https://aclweb.org).
 
 Please see the [ACL Rolling Review Proposal](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal) for more information.
 
-
+Follow us on [Twitter](https://twitter.com/ReviewAcl) and [Facebook](https://www.facebook.com/aclrollingreview).
 
 
 
