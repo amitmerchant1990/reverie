@@ -118,6 +118,15 @@ No, we are managing a two-way anonymized process up through action editors. It i
 **A**: 
 Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
 
+**Q**: Does a reviewer showing up at the top of the list in green mean that they’ve accepted the assignment?<br>
+**A**: The green marking means exactly "automatically-invited-and-not-yet-declined" and not that they accepted. The reviewers who have accepted will be listed directly in your Area Chair Console (the first tab "Assigned Papers"). For each submission, you should see "X out of Y Reviews Submitted" -- Y is the number of reviewers who accepted the invitation. You can see who they are by clicking "Show Reviewers".
+
+**Q**: Is there any way to remind reviewers that they have not responded to their invitations?<br>
+**A**: it is not possible to send reminders to those reviewers who haven't accepted (i.e., not possible to send "please reply to the invitation" reminders) in OpenReview.
+
+**Q**: What to do when reviewers who were automatically invited have neither declined nor accepted?  Is it safe to assume they plan to review the assigned paper?<br>
+**A**: Some of them will probably eventually submit their review, but many probably won't. In all cases where you have less than three accepts, please proceed to recruit additional reviewers.
+
 ## Compliance and Desk Rejects
 
 **Q**: What is the compliance checklist?<br>
@@ -166,6 +175,9 @@ Please email the editors-in-chief of ARR.
 **A**: 
 Yes, see [here](/people).
 
+**Q**: Are there multiple action editors per paper?<br>
+**A**: No
+
 **Q**: I got 4 papers. Should I expect this load in the future?<br>
 **A**: 
 We aim for the average monthly load in any given month to be 1-2 papers, but in certain periods (close to large conferences), it's possible that the load may be higher, and in slow periods the load may be lower.
@@ -181,5 +193,8 @@ It is possible that an EICs may have sent an emergency action editor request for
 **Q**: I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"<br>
 **A**: 
 This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated. We hope that will solve the problem.
+
+**Q**: When I click the accept button in the invitation email to serve as an "action editor",  a message returned from the ARR system says "It seems like you already accepted an invitation to serve as a Reviewer for ARR 2021 ............". What can I do?<br>
+**A**: This seems to be a technical problem with OpenReview. We are working with OpenReview to resolve this.
 
 
