@@ -38,7 +38,7 @@ See the questions below for more information.
 **A**: If you feel that you need a new reviewer or action editor for your paper, there are fields in the submission form (starting September 2021) where you can request one or more reviewers or the action editor to be replaced, and justify your request. These requests will be considered seriously and either accepted or denied based on their appropriateness.
 
 **Q**: I want to submit my paper+reviews to a publication venue. How?<br>
-**A**: *After* you receive your reviews (i.e. in late October), you will indicate your interest in submitting to ACL through the [Paper+Review Submission Form](v). There is nothing that you need to do in September.
+**A**: *After* you receive your reviews, you will indicate your interest in submitting to ACL through the [Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u). 
 
 **Q**: If I submit early, can I update my submission before the deadline?<br>
 **A**: Yes.
