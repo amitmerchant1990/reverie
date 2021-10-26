@@ -64,6 +64,10 @@ Click on it to open a message form. You can select to exclusively message certai
 **A**: 
 The editors-in-chief email all reviewers to kick off reviewing. 
 
+**Q**: Who sends reminders to reviewers?<br>
+**A**: 
+You may remind reviewers by posting in a paper's Discussion Forum. 
+
 **Q**: How do I communicate to the editors in chief?<br>
 **A**: 
 Email `editors@aclrollingreview.org`.
@@ -93,7 +97,7 @@ At some point after reviewers have been assigned you may have to add new reviewe
 If you need to do this, we would suggest you either think of reviewers who you think are appropriate, or use the reviewer browser and sorting by "Affinity Score" to find reviewers who are appropriate.
 Because the newly assigned reviewer will have a somewhat compressed reviewing timeline (since they were not assigned right at the beginning of the reviewing process), it would be good to reach out to them via email and confirm their availability before assigning them.
 
-**Q**: How many reviewers per paper?<br>
+**Q**: How many reviewers are there per paper?<br>
 **A**: 
 Four reviewers should be assigned per paper at the beginning of the review process.
 Each paper must get at least three reviews (four is also acceptable) before the AE writes the meta-review and the reviews are released to the authors. 
@@ -140,7 +144,7 @@ Please fill out your [OpenReview profile](https://openreview.net/profile) with (
 
 **Q**: One of my papers doesn't follow the compliance checklist, what should I do?<br>
 **A**: 
-The paper should be desk-rejected, please use the "desk reject" button in OpenReview. If you're not sure about the decision, please get in touch with the editors in chief. 
+The paper should be desk-rejected, please get in touch with the editors in chief. 
 
 **Q**: One of my assigned submissions is more than four pages but less than eight pages in length. What should I do?<br>
 **A**: 
