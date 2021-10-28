@@ -66,7 +66,7 @@ See the questions below for more information.
 ## Reviews for Data
 
 **Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?<br>
-**A**: The ACL Exec has approved the creation of an opt-in corpus of submissions and reviews. This corpus is being assembled by a group separate from the ARR editorial team. Your reviews will only be included if both you and the reviewers agree. 
+**A**: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. 
 
 # Submission Sites
 
