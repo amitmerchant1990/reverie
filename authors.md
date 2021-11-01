@@ -13,6 +13,14 @@ ACL Rolling Review offers the following:
 
 If you would like to submit to ACL rolling review, please first see the [Call For Papers](/cfp) and [Author Checklist](/authorchecklist)
 
+# Submission Sites
+
+[11/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/November)
+
+[October Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
+
+[Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
+
 # Frequently Asked Questions for Authors
 
 ## Submission and Review
@@ -68,10 +76,3 @@ See the questions below for more information.
 **Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?<br>
 **A**: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. 
 
-# Submission Sites
-
-[10/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
-
-[September Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/September)
-
-[Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
