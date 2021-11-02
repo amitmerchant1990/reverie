@@ -15,7 +15,7 @@ Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and o
 
 > [Theme demo](https://reverie-jekyll.netlify.app/)
 
-This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
+This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) (or [Cloudflare Pages](https://pages.cloudflare.com/) if you want to have your repository private) without even setting up a local environment.
 
 ![](/images/reverie-demo.png)
 
