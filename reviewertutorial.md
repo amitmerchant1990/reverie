@@ -4,25 +4,11 @@ title: "How to review for ACL Rolling Review"
 permalink: /reviewertutorial
 ---
 
-# How to review for ACL Rolling Review
+<p align="center" style="font-style: italic">Anna Rogers, Isabelle Augenstein</p>
 
-_Anna Rogers, Isabelle Augenstein_
-
-Version 0.1, 02.11.2021
+<p align="center">Version 0.1, 02.11.2021</p>
 
 The ARR peer review tutorial is a work-in-progress, and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the version they are familiar with is still the current one; if not, please see the [changelog](#changelog) for what sections you should revisit.
-
-## Why is peer review so inconsistent?
-
-You may have heard of the 2014 [NeurIPS experiment](https://arxiv.org/abs/2109.09774) with assigning the same papers to two sets of reviewers. Its results suggested that nearly 50% of the accepted NeurIPS papers would have been rejected, had they simply been assigned to different reviewers. This is obviously a frustrating situation for the authors, going through rounds of arbitrary rejections. 
-
-Why does this happen? There are many factors, but here are some of the most prominent ones:
-
-* Variance in the **experience of reviewers**. Some reviews are by experienced reviewers and some are by novices; yet, to date there has been little effort to provide systematic training. 
-* Differences in understanding the **key evaluation criteria**. What counts as a "weakness" - a fundamental flaw or a lack of clarification experiment? What exactly does "overall recommendation" mean - the personal interest in the topic or how solid the research is?
-* Implicit **biases** that we all have due to our social and academic backgrounds. The same approach may receive different evaluation if it is tested on a popular or a niche task, on English or any other language, with focus on engineering or linguistic aspects, and if it had been preprinted by a well-known lab and received much attention.
-
-This tutorial is part of an effort to improve the overall quality of reviews at *ACL conferences, aiming to address the above issues. It discusses the overall structure and philosophy of the process for first-time reviewers, clarifies the ARR principles and the review form, and addresses some of the cognitive and social biases that undermine peer review. 
 
 In this tutorial:
 
@@ -46,17 +32,24 @@ In this tutorial:
 > - [7. Check for (lack of) enthusiasm](#7-check-for--lack-of--enthusiasm)
 > - [8. Check the framing](#8-check-the-framing)
 > 
-> [Discussion period](#discussion-period)
-> 
-> [Resubmissions](#resubmissions)
-> 
-> [Changelog](#changelog)
-> 
-> [Acknowledgements](#acknowledgements)
-> 
+> [Discussion period](#discussion-period)<br/>
+> [Resubmissions](#resubmissions)<br/>
+> [Changelog](#changelog) <br/> 
+> [Acknowledgements](#acknowledgements) <br/>
 > [Resources](#resources)
 
-  
+## Why is peer review so inconsistent?
+
+You may have heard of the 2014 [NeurIPS experiment](https://arxiv.org/abs/2109.09774) with assigning the same papers to two sets of reviewers. Its results suggested that nearly 50% of the accepted NeurIPS papers would have been rejected, had they simply been assigned to different reviewers. This is obviously a frustrating situation for the authors, going through rounds of arbitrary rejections. 
+
+Why does this happen? There are many factors, but here are some of the most prominent ones:
+
+* Variance in the **experience of reviewers**. Some reviews are by experienced reviewers and some are by novices; yet, to date there has been little effort to provide systematic training. 
+* Differences in understanding the **key evaluation criteria**. What counts as a "weakness" - a fundamental flaw or a lack of clarification experiment? What exactly does "overall recommendation" mean - the personal interest in the topic or how solid the research is?
+* Implicit **biases** that we all have due to our social and academic backgrounds. The same approach may receive different evaluation if it is tested on a popular or a niche task, on English or any other language, with focus on engineering or linguistic aspects, and if it had been preprinted by a well-known lab and received much attention.
+
+This tutorial is part of an effort to improve the overall quality of reviews at *ACL conferences, aiming to address the above issues. It discusses the overall structure and philosophy of the process for first-time reviewers, clarifies the ARR principles and the review form, and addresses some of the cognitive and social biases that undermine peer review. 
+ 
 ## How to write a good review? 
 
 ### 1. Before the paper assignment 
