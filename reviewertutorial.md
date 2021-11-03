@@ -23,10 +23,10 @@ In this tutorial:
 >   * [Summary](#summary)
 >   * [Strengths of the paper](#strengths-of-the-paper)
 >   * [Weaknesses of the paper](#weaknesses-of-the-paper)
->   * [Comments/Suggestions/Typos](#comments-suggestions-typos)
+>   * [Comments, Suggestions, and Typos](#comments-suggestions-and-typos)
 >   * [Overall assessment](#overall-assessment)
 >   * [Reviewer confidence](#reviewer-confidence)
->   * [Knowledge of/educated guess at author identity](#knowledge-of-educated-guess-at-author-identity)
+>   * [Knowledge of or educated guess at author identity](#knowledge-of-or-educated-guess-at-author-identity)
 >   * [Ethics review](#ethics-review)
 > - [6. Check for lazy thinking](#6-check-for-lazy-thinking)
 > - [7. Check for (lack of) enthusiasm](#7-check-for--lack-of--enthusiasm)
@@ -140,7 +140,7 @@ A common reviewer mistake is confusing “must-haves” with “nice-to-haves.�
 
 If you have serious concerns, but you see how the paper could be improved, please be specific about what the authors could do to address your concerns. Please also **number all the points to which you would like the authors to respond** in order to change your view of this work. 
 
-#### Comments/Suggestions/Typos 
+#### Comments, Suggestions, and Typos 
 
 While the other fields are written for the chairs, this field is a message to the authors. This is the place for general comments, suggestions, clarifications, pointing out (a reasonable amount of) typos or language errors: the small things that you do not consider “weaknesses” and should not distract the chairs from your overall assessment. Of course, if you find the paper completely illegible or unclear, such issues can escalate to the “weakness” list for the chairs.
 
@@ -160,7 +160,7 @@ In our experience, very few papers ever get top scores from reviewers, or recomm
 The **reviewer confidence** rank lets you provide the action editor with an indicator of how sure you are about your evaluation. If your confidence is lower, you are probably going to be requesting clarifications and additional details. In that situation, it would be very helpful for the authors to know how your opinion would change, should they provide satisfactory revisions.
 
 
-#### Knowledge of/educated guess at author identity 
+#### Knowledge of or educated guess at author identity 
 
 As mentioned above, if you know who the authors are you should have tried to have this paper reassigned. If this was not possible, this is the place to indicate that your review should be taken with a grain of salt. 
 
