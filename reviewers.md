@@ -4,6 +4,7 @@ title: "For Reviewers"
 permalink: /reviewers
 ---
 
+New to reviewing, or need a refresher? Check out our [reviewer tutorial](/reviewertutorial)!
 
 # Reviewer Responsibilities
 
