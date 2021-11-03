@@ -12,9 +12,9 @@ The ARR peer review tutorial is a work-in-progress, and will be updated as ARR e
 
 In this tutorial:
 
-> [Why is peer review so inconsistent?](#why-is-peer-review-so-inconsistent-)
+> [Why is peer review so inconsistent?](#why-is-peer-review-so-inconsistent)
 > 
-> [How to write a good review?](#how-to-write-a-good-review-)
+> [How to write a good review?](#how-to-write-a-good-review)
 > - [1. Before the paper assignment](#1-before-the-paper-assignment)
 > - [2. Check that you can perform the assignment](#2-check-that-you-can-perform-the-assignment) 
 > - [3. Plan your time](#3-plan-your-time) 
@@ -285,7 +285,7 @@ This matters particularly to ARR, where the reviews made before the commitment d
 
 ### 8. Check the framing 
 
-Above all, a good review should be professional and neutral, if not kind. Try **not **to think of it as a task of eliminating as many papers as possible, but as a task of identifying good research and helping authors improve their papers. As an anonymous reviewer, you are in the position of power, and the written medium makes it easier to be more dismissive and sarcastic than if you were communicating with the authors face-to-face. 
+Above all, a good review should be professional and neutral, if not kind. Try **not** to think of it as a task of eliminating as many papers as possible, but as a task of identifying good research and helping authors improve their papers. As an anonymous reviewer, you are in the position of power, and the written medium makes it easier to be more dismissive and sarcastic than if you were communicating with the authors face-to-face. 
 
 You may well be addressing someone who is only starting on the research path. And/or someone struggling with stress and other mental health issues. And/or someone who has been less lucky with their school and advisors. Academic lives are already stressful enough, and we do not need to inflict extra damage to the mental health of our colleagues with sarcastic or insulting reviews. [Write the review you would like to get yourself.](https://www.nature.com/articles/d41586-020-03394-y) 
 
@@ -351,7 +351,7 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 * EACL 2021 tutorial on peer review, pt. V: Reviewer Biases (Anna Rogers): [slideslive](https://slideslive.com/38955745), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt5_biases.pdf)
 * EACL 2021 tutorial on peer review, pt. VI:  Anonymity in Peer Review (Anna Rogers): [slideslive](https://slideslive.com/38955746), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt6_anonymity.pdf)
 
-**Ethics **
+**Ethics**
 
 * NAACL 2021 Ethics FAQ: [https://2021.naacl.org/ethics/faq/](https://2021.naacl.org/ethics/faq/) 
 * EACL 2021 tutorial on peer review, pt. VII - Ethics and Reviewing (Aurélie Névéol): [slideslive](https://slideslive.com/38955747), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt7_ethics.pdf)
