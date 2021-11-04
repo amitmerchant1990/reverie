@@ -4,6 +4,10 @@ title: "Author Checklist"
 permalink: /authorchecklist
 ---
 
+## OpenReview Profiles
+
+All authors must have complete OpenReview profiles. Please ensure profiles are complete before submission. You may refer to [this tutorial](https://docs.google.com/document/d/1Xj_tbZwCFvxE4FWmQYyA6P4N8SlGmL7YGlyd6JkXSug/edit?usp=sharing).
+
 ## Paper Format
 
 The template both exemplifies and contains paper format guidelines. These are also available [here](https://acl-org.github.io/ACLPUB/formatting.html).
