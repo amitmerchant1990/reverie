@@ -57,6 +57,11 @@ See the questions below for more information.
 **Q**: Should all authors be registered on OpenReview when submitting to ARR?<br>
 **A**: In order for ARR to calculate conflicts of interest correctly, every author should have an OpenReview profile that is complete and up to date.
 
+**Q**: I submitted to ICLR, but want to withdraw my paper to submit to ARR. This withdrawal will cause my paper to become deanonymized. Is that OK? <br>
+**A**: We follow the same policy as [NAACL 2021](https://2021.naacl.org/faq/). So:
+-  if your paper was posted to arXiv before the one month anonymity period required before submission to ARR, and withdrawn from ICLR within that time period, then you could submit it to ARR
+- if your paper was not posted to arXiv but was deanonymized as a result of withdrawal from ICLR, you'd have to wait a month to submit to ARR
+
 **Q**: I have further questions about ARR submission, where do I contact?<br>
 **A**: Please contact: `support@aclrollingreview.org`
 
