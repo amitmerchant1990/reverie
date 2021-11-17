@@ -84,8 +84,7 @@ At the beginning of the review period, from about the 17th of the month to the 2
 - Checking Initial Assignments (up to the 22nd):
 When you get an email notifying you of being in charge of a paper, please log in to check the assignments.
 At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
-which shows reviewer suggestions and tracks the status of invitations.
-See [this guide](https://docs.google.com/document/d/e/2PACX-1vR8HCF9siBpZsQms0cIv0weK7CXAf7AE3Cxwq3wYIJYuRioRf0SaZcl93oQZXsqoA_aEwZNMzu-cYr5/pub) from NeurIPS 2021. 
+which shows reviewer suggestions and tracks the status of invitations. Here is how to modify assignments using the "Edge Browser": [https://openreview.net/faq#question-edge-browser-AC](https://openreview.net/faq#question-edge-browser-AC).
 It is important to select reviewers with expertise appropriate to the paper.
 Some suggestions are listed based on an automatic score, but this score may not always be reliable, so feel free to make modifications if they are not reliable.
 Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, you can unassign one of the currrent reviewers and add a new reviewer.
@@ -96,6 +95,7 @@ A notification will be sent out on the 23rd of the month notifying your selected
 At some point after reviewers have been assigned you may have to add new reviewers, either because a reviewer contacts you regarding not being a good match for the paper, or because they are unresponsive.
 If you need to do this, we would suggest you either think of reviewers who you think are appropriate, or use the reviewer browser and sorting by "Affinity Score" to find reviewers who are appropriate.
 Because the newly assigned reviewer will have a somewhat compressed reviewing timeline (since they were not assigned right at the beginning of the reviewing process), it would be good to reach out to them via email and confirm their availability before assigning them.
+Here is how to modify assignments using the "Edge Browser": [https://openreview.net/faq#question-edge-browser-AC](https://openreview.net/faq#question-edge-browser-AC).
 
 **Q**: How many reviewers are there per paper?<br>
 **A**: 
