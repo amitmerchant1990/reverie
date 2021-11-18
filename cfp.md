@@ -112,6 +112,10 @@ The consideration of the ethical impact of our research, use of data, and potent
 
 Authors are encouraged to devote a section of their paper to concerns of the ethical impact of the work and to a discussion of broader impacts of the work. This discussion may extend into a 5th page (short papers) or 9th page (long papers).
 
+### Withdrawal Policy
+
+Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle. So, a submission made to a March deadline and withdrawn after March 17th, may not be resubmitted until the May cycle.
+
 ### Submission Criteria
 
 ARR provides a [submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
