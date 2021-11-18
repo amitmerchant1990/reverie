@@ -123,7 +123,7 @@ No, we are managing a two-way anonymized process up through action editors. It i
 Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
 
 **Q**: Does a reviewer showing up at the top of the list in green mean that they’ve accepted the assignment?<br>
-**A**: The green marking means exactly "automatically-invited-and-not-yet-declined" and not that they accepted. The reviewers who have accepted will be listed directly in your Area Chair Console (the first tab "Assigned Papers"). For each submission, you should see "X out of Y Reviews Submitted" -- Y is the number of reviewers who accepted the invitation. You can see who they are by clicking "Show Reviewers".
+**A**: Reviewers are assigned, not invited. If a reviewer cannot review your paper, they will contact you via email or via the discussion forum in OpenReview. 
 
 **Q**: Is there any way to remind reviewers that they have not responded to their invitations?<br>
 **A**: it is not possible to send reminders to those reviewers who haven't accepted (i.e., not possible to send "please reply to the invitation" reminders) in OpenReview.
