@@ -17,6 +17,10 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 Contact: `editors at aclrollingreview.org`
 
+## Editorial Staff
+
+- Sara Goggi, CNR-ILC
+
 ## Technical Staff
 
 - Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
