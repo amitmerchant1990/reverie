@@ -46,13 +46,13 @@ AOE: anywhere on earth.
 
 ## Statistics
 
-| Month | Submissions | Disclosed Preprints | ARR Hosted Preprints | Resubmissions | Desk Rejected | Withdrawn | Action Editors | Reviewers |
-|-------|-------------|---------------|---------------|-----------|----------------|-----------|-------------------|-----------|
-| May 2021 | 63 | 15 | 29 | 0 | 1 | 7 | 67 | 879 |
-| June 2021 | 23 | 5 | 13 | 0 | 0 | 3 | 107 | 1170 |
-| July 2021 | 27 | 11 | 10 | 1 | 0 | 1 | 105 | 1087 |
-| August 2021 | 40 | 15 | 19 | 0 | 0 | 3 | 107 | 1097 |
-| September 2021 | 289 | 52 | 93 | 8 | 5 | 18 | 201 | 1509 |
-| October 2021 | 347 | 73 | 118 | 7 | 5 | 11 | 485 | 2876 |
-| November 2021 | 2881 | 379 | 974 | 202 | 32 | 3 | 355 | 3157 |
+| Month | Submissions | Disclosed Preprints | ARR Hosted Preprints | Resubmissions | Desk Rejected | Withdrawn | 
+|-------|-------------|---------------|---------------|-----------|----------------|-----------|
+| May 2021 | 63 | 15 | 29 | 0 | 1 | 7 | 
+| June 2021 | 23 | 5 | 13 | 0 | 0 | 3 | 
+| July 2021 | 27 | 11 | 10 | 1 | 0 | 1 | 
+| August 2021 | 40 | 15 | 19 | 0 | 0 | 3 |
+| September 2021 | 289 | 52 | 93 | 8 | 5 | 
+| October 2021 | 347 | 73 | 118 | 7 | 5 | 
+| November 2021 | 2881 | 379 | 974 | 202 | 32 | 3 |
 
