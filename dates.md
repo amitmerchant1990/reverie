@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dates and Participating Venues"
+title: "Dates, Venues and Stats"
 permalink: /dates
 ---
 
@@ -19,6 +19,8 @@ Within each month, on:
 The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
 
 You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York).
+
+*Please note, for the November 2021 round there are modifications to this schedule; see [this blog post](https://aclrollingreview.org/modified-timeline-November/).*
 
 ## Submission to Participating Venues
 
@@ -41,3 +43,17 @@ Current publication venues participating in ARR are listed below. If you represe
 | January 15, 2022 11:59pm AOE | February 21, 2022 | [NAACL 2022](https://2022.naacl.org/) (March 2, 2022) | |
 
 AOE: anywhere on earth.
+
+## Statistics
+
+| Month | Submissions | With Preprints | As Preprints | Resubmissions | Desk Rejected | Withdrawn | Action Editors | Reviewers |
+|-------|-------------|---------------|---------------|-----------|----------------|-----------|
+| May 2021 | 63 | 15 | 29 | 0 | 1 | 7 | 67 | 879 |
+| June 2021 | 23 | 5 | 13 | 0 | 0 | 3 | 107 | 1170 |
+| July 2021 | 27 | 11 | 10 | 1 | 0 | 0 | 1 | 105 | 1087 |
+| August 2021 | 40 | 15 | 19 | 0 | 0 | 0 | 3 | 107 | 1097 |
+| September 2021 | 289 | 52 | 93 | 8 | 0 | 5 | 18 | 201 | 1509 |
+| October 2021 | 347 | 73 | 118 | 7 | 0 | 5 | 11 | 485 | 2876 |
+| November 2021 | 2881 | 379 | 974 | 202 | 0 | 32 | 3 | 355 | 3157 |
+
+
