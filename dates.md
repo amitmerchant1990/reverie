@@ -46,7 +46,7 @@ AOE: anywhere on earth.
 
 ## Statistics
 
-| Month | Submissions | With Preprints | As Preprints | Resubmissions | Desk Rejected | Withdrawn | Action Editors | Reviewers |
+| Month | Submissions | Disclosed Preprints | ARR Hosted Preprints | Resubmissions | Desk Rejected | Withdrawn | Action Editors | Reviewers |
 |-------|-------------|---------------|---------------|-----------|----------------|-----------|-------------------|-----------|
 | May 2021 | 63 | 15 | 29 | 0 | 1 | 7 | 67 | 879 |
 | June 2021 | 23 | 5 | 13 | 0 | 0 | 3 | 107 | 1170 |
@@ -55,5 +55,4 @@ AOE: anywhere on earth.
 | September 2021 | 289 | 52 | 93 | 8 | 5 | 18 | 201 | 1509 |
 | October 2021 | 347 | 73 | 118 | 7 | 5 | 11 | 485 | 2876 |
 | November 2021 | 2881 | 379 | 974 | 202 | 32 | 3 | 355 | 3157 |
-
 
