@@ -62,6 +62,9 @@ See the questions below for more information.
 -  if your paper was posted to arXiv before the one month anonymity period required before submission to ARR, and withdrawn from ICLR within that time period, then you could submit it to ARR
 - if your paper was not posted to arXiv but was deanonymized as a result of withdrawal from ICLR, you'd have to wait a month to submit to ARR
 
+**Q**: How can I withdraw my submission?<br>
+**A**: You can withdraw your submission at any time by logging into OpenReview, clicking into your submission and then clicking the "trash can" icon in the top right. Note that per the CFP, any submission withdrawn more than 48 hours after the submission deadline cannot be resubmitted before the second subsequent ARR cycle.
+
 **Q**: I have further questions about ARR submission, where do I contact?<br>
 **A**: Please contact: `support@aclrollingreview.org`
 
