@@ -4,7 +4,7 @@ title: "For Reviewers"
 permalink: /reviewers
 ---
 
-New to reviewing, or need a refresher? Check out our [reviewer tutorial](/reviewertutorial)!
+New to reviewing, or need a refresher? Check out our [reviewer tutorial](/reviewertutorial)! Also, see [this guide](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p) for help with common OpenReview tasks associated with reviewing. 
 
 # Reviewer Responsibilities
 
@@ -34,7 +34,9 @@ We are also looking for volunteer emergency reviewers:
 
 # FAQ
 
-This FAQ is intended to help reviewers navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
+This FAQ is intended to help reviewers navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`. 
+
+You may find [this guide](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p) helpful with common OpenReview tasks.
 
 ## Timeline
 
