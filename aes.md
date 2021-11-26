@@ -39,6 +39,8 @@ We are also recruiting volunteer emergency action editors:
 
 This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
 
+You may also find [this guide](https://docs.google.com/presentation/d/1OynnI8TxlBcSt3J1YCJbxdLsMT91D2Hr1zVtorLkeao/edit#slide=id.p) helpful.
+
 ## Timeline
 
 **Q**: What is the normal review timeline?<br>
