@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+# Name of your site (displayed in the header)
+name: nomisRev
+
 # Name of the author
 author: Simon Vergauwen
 
