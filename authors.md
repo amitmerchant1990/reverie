@@ -11,7 +11,9 @@ ACL Rolling Review offers the following:
 * one click to submit to a conference or workshop
 * optional anonymous preprint
 
-If you would like to submit to ACL rolling review, please first see the [Call For Papers](/cfp) and [Author Checklist](/authorchecklist)
+If you would like to submit to ACL rolling review, please first see the [Call For Papers](/cfp) and [Author Checklist](/authorchecklist).
+
+We have an [OpenReview tutorial for authors](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
 
 # Submission Sites
 
