@@ -6,7 +6,7 @@ permalink: /authorchecklist
 
 ## OpenReview Profiles
 
-All authors must have complete OpenReview profiles. Please ensure profiles are complete before submission. You may refer to [this tutorial](https://docs.google.com/document/d/1Xj_tbZwCFvxE4FWmQYyA6P4N8SlGmL7YGlyd6JkXSug/edit?usp=sharing).
+All authors must have complete OpenReview profiles. Please ensure profiles are complete before submission. You may refer to [this tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
 
 ## Paper Format
 
