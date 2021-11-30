@@ -4,7 +4,6 @@ title: Continuation<R, A> in Kotlin
 categories: [Kotlin, Continuation, Monad]
 ---
 
-<!--- TEST_NAME ContSpec -->
 
 Coroutines is one of the most liked features in Kotlin. Most people are familiar with the KotlinX Coroutines implementation,
 and many are also familiar with `suspendCoroutine` from the Kotlin Standard Library and then have also come across `Continuation`.
@@ -40,6 +39,7 @@ If the path is empty, we want to program to result in `EmptyPath`.
 So we're immediately going to see how we can raise an error of any arbitrary type `R` by using the function `shift`. 
 The name `shift` comes shifting (or changing, especially unexpectedly), away from the computation and finishing the `Continuation` with `R`.
 
+<!--- TEST_NAME ContSpec -->
 ```kotlin
 object EmptyPath
 
