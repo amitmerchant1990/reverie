@@ -3,8 +3,6 @@ layout: post
 title: Continuation<R, A> in Kotlin
 categories: [Kotlin, Continuation, Monad]
 ---
-
-
 Coroutines is one of the most liked features in Kotlin. Most people are familiar with the KotlinX Coroutines implementation,
 and many are also familiar with `suspendCoroutine` from the Kotlin Standard Library and then have also come across `Continuation`.
 
