@@ -96,13 +96,12 @@ fun readFile(path: String?): Cont<FileError, Content> = cont {
 }
 ```
 
-The `readFile` function defines a `suspend fun` that will return:
+The `Cont` returned by `readFile` function represents a `suspend fun` that will return:
+  - the `Content` of a given `path` 
+  - a `FileError`
+  - An unexpected fatal `Throwable` (`OutOfMemoryException`)
 
-- the `Content` of a given `path`
-- a `FileError`
-- An unexpected fatal error (`OutOfMemoryException`)
-
-Now that we have our `Cont<FileError, Content>` function, we can turn it into a value.
+The returned `Cont<FileError, Content>` can executed into a value.
 
 ```kotlin
 suspend fun test() {
@@ -124,8 +123,7 @@ suspend fun test() {
 Handling errors of type `R` is the same as handling errors for any other data type in Arrow.
 `Cont<R, A>` offers `handleError`, `handleErrorWith`, `redeem`, `redeemWith` and `attempt`.
 
-As you can see in the examples below it is possible to resolve errors of `R` or `Throwable` in `Cont<R, A>` in a generic manner.
-There is no need to run `Cont<R, A>` into `Either<R, A>` before you can access `R`, you can simply call the same functions on `Cont<R, A>` as you would on `Either<R, A>` directly.
+As you can see in the examples below it is possible to resolve errors of `R` or `Throwable` in `Cont<R, A>`.
 
 ```kotlin
 val failed: Cont<String, Int> =
@@ -157,32 +155,66 @@ suspend fun test() {
 > You can get the full code [here](guide/example/example-readme-03.kt).
 <!--- TEST lines.isEmpty() -->
 
-## Cont<E, A> vs Either<E, A>
+## Cont<E, A> and Either<E, A>
 
-We've briefly mentioned the difference between `Either<E, A>` and `Cont<E, A>` but let's compare them now that we know how `Cont<E, A>` works.
+We've briefly mentioned the difference between `Either<E, A>` and `Cont<E, A>` but let's compare them in some more detail.
 
-`Either<String, Int>` represents a *value* of _either_ `String` or `Int`,
-whilst `Cont<String, Int>` represents a *function* that will result in `String` or `Int`.
+`Either<String, Int>` represents a *value* of _either_ a `String` or an `Int`,
+while `Cont<String, Int>` represents a *function* that will result in an `Int`, interrupt with a `String`, or throw a `Throwable`.
 
-You might have guessed it, `either` can be implemented by `cont`.
+So `Cont<String, Int>` can represent a *function* that results in _either_ a `String`, an `Int` or throw a `Throwable`.
+That is exactly what the `either` DSL of Arrow Core does, and let's see what the implementation might look like with `Cont`. 
 
-```kotlin
-suspend fun <E, A> either(block: suspend ContEffect<E>.() -> A): Either<E, A> =
-  cont(block).fold({ e: E -> Either.Left(e) }) { a: A -> Either.Right(a) }
+Since `Cont<E, A>` can interrupt with a `String` we can implement `bind` for `Either<String, Int>`.
+Here we implement `bind` how it's implemented in the library, it's defined in `ContEffect<E>` which is the DSL available inside `cont { }`.
+
+```KOTLIN
+interface ContEffect<E> {
+  suspend fun <A> shift(e: e): A
+  
+  suspend fun <A> Either<E, A>.bind(): A =
+    when(this) {
+      is Either.Right -> value
+      is Either.Left -> shift(value)
+    }
+}
 ```
 
-Here you can clearly see that `cont` represents the actual computation,
-and `Either` represents the final result of running a program.
+When we encounter `Either.Right` we can simply return the value, and when we encounter `Either.Left` we short-circuit (interrupt) the function.
+This allows us to use the `cont { }` DSL similarly to how we use `either { }` from Arrow Core.
+
+```kotlin
+suspend fun test() {
+  cont<String, Int> {
+    val x: Int = 1.right().bind()
+    val y: Int = shift("Failed")
+  }.toEither() shouldBe Either.Left("failed")
+}
+```
+> You can get the full code [here](guide/example/example-readme-04.kt).
+<!--- TEST lines.isEmpty() -->
+
+At the end of our DSL we call `toEither` to finally turn the `Cont` result into `Either`.
+So we can re-define the `either` DSL from Arrow with following function:
+
+```kotlin
+suspend fun <E, A> either(block: suspend ContEffect<E>.() -> A): Either<E, A> = cont(block).toEither()
+```
+
+So we can consider `Cont` a higher abstraction to write programs that can result in `Either`, `Validated`, `Option`, `Ior`, `Result`, etc
 
 ## Structured Concurrency
 
-`Cont<R, A>` can automatically operates with KotlinX's Structured Concurrency by leveraging `kotlin.cancellation.CancellationException` introduced in Kotlin 1.4.
+`Cont<R, A>` can automatically operate with KotlinX's Structured Concurrency by leveraging `kotlin.cancellation.CancellationException` introduced in Kotlin 1.4.
 It's used by `shift` to raise error values of type `R` inside the `Continuation` since it effectively cancels/short-circuits it.
 For this reason `shift` adheres to the same rules as [`Structured Concurrency`](https://kotlinlang.org/docs/coroutines-basics.html#structured-concurrency)
 
 For more details see the [`Cont<R, A>` documentation](https://github.com/nomisRev/Continuation#structured-concurrency)
 
 ## Conclusion
+
+The `Cont` type will soon become available in Arrow!
+There is also `RestrictedCont` which exposes the same functionality without requiring `suspend`.
 
 Thank you for reading the first informal (test) blog on my Github Pages, I hope you enjoyed it!
 Feel free to reach out on KotlinLang Slack for feedback or questions.

@@ -14,13 +14,9 @@ import io.kotest.property.*
 import io.kotest.property.arbitrary.*
 import arrow.core.test.generators.*
 
-suspend fun <A> awaitExitCase(exit: CompletableDeferred<ExitCase>): A =
-  guaranteeCase(::awaitCancellation) { exitCase -> exit.complete(exitCase) }
-
-suspend fun test() = checkAll(Arb.string()) { error ->
-  val exit = CompletableDeferred<ExitCase>()
+suspend fun test() {
   cont<String, Int> {
-    parZip({ awaitExitCase<Int>(exit) }, { shift<Int>(error) }) { a, b -> a + b }
-  }.fold({ it shouldBe error }, { fail("Int can never be the result") })
-  exit.await().shouldBeTypeOf<ExitCase>()
+    val x: Int = 1.right().bind()
+    val y: Int = shift("Failed")
+  }.toEither() shouldBe Either.Left("failed")
 }

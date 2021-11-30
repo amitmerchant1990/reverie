@@ -15,4 +15,8 @@ class ContSpec : StringSpec({
       example.exampleReadme03.test()
     }
 
+    "ExampleReadme04".config(timeout= Duration.seconds(1)) {
+      example.exampleReadme04.test()
+    }
+
 })
