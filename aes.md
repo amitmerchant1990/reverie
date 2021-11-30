@@ -127,12 +127,6 @@ Please fill out your [OpenReview profile](https://openreview.net/profile) with (
 **Q**: Does a reviewer showing up at the top of the list in green mean that they’ve accepted the assignment?<br>
 **A**: Reviewers are assigned, not invited. If a reviewer cannot review your paper, they will contact you via email or via the discussion forum in OpenReview. 
 
-**Q**: Is there any way to remind reviewers that they have not responded to their invitations?<br>
-**A**: it is not possible to send reminders to those reviewers who haven't accepted (i.e., not possible to send "please reply to the invitation" reminders) in OpenReview.
-
-**Q**: What to do when reviewers who were automatically invited have neither declined nor accepted?  Is it safe to assume they plan to review the assigned paper?<br>
-**A**: Some of them will probably eventually submit their review, but many probably won't. In all cases where you have less than three accepts, please proceed to recruit additional reviewers.
-
 ## Compliance and Desk Rejects
 
 **Q**: What is the compliance checklist?<br>
