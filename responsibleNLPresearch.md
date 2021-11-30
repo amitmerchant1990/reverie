@@ -8,7 +8,7 @@ The checklist exists as a [fillable PDF](https://aclrollingreview.org/Responsibl
 
 Reviewers will be asked to use the checklist as one of the factors in their evaluation.
 
-## Checklist questions
+## Guidelines for Answering Checklist Questions
 For each question in the checklist:
 - If you answer "Yes", indicate the section(s) where the information can be found in your paper. Note that you do not need to have a separate entitled section in the paper for each of the questions. Information about limitations for instance could be part of the conclusion. Several questions can indicate the same section (for instance, citation and license for data are likely going to appear in the same (sub)section of your paper).
 - If you answer "No" to the question, provide a justification for why.
