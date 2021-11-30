@@ -168,7 +168,7 @@ That is exactly what the `either` DSL of Arrow Core does, and let's see what the
 Since `Cont<E, A>` can interrupt with a `String` we can implement `bind` for `Either<String, Int>`.
 Here we implement `bind` how it's implemented in the library, it's defined in `ContEffect<E>` which is the DSL available inside `cont { }`.
 
-```KOTLIN
+```kotlin
 interface ContEffect<E> {
   suspend fun <A> shift(e: e): A
   

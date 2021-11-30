@@ -14,6 +14,16 @@ import io.kotest.property.*
 import io.kotest.property.arbitrary.*
 import arrow.core.test.generators.*
 
+interface ContEffect<E> {
+  suspend fun <A> shift(e: e): A
+  
+  suspend fun <A> Either<E, A>.bind(): A =
+    when(this) {
+      is Either.Right -> value
+      is Either.Left -> shift(value)
+    }
+}
+
 suspend fun test() {
   cont<String, Int> {
     val x: Int = 1.right().bind()
