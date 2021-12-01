@@ -50,6 +50,9 @@ Sometimes it is necessary to have an emergency review because an originally-assi
 In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible to finish a high-quality review by this deadline.
 In this case, please consult with the action editor in charge of your paper (see how to contact them below) and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
+**Q**: What if I'll be unavailable?
+**A**: Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u). Please do so *before* the 15th of the first month in which you will be unavailable.
+
 ## Paper Assignment
 
 **Q**: What can I do to make sure I get good paper assignments?<br>
@@ -65,8 +68,14 @@ We hope that action editors will also be able to serve as reviewers in some case
 The average monthly load for reviewers should be much closer to 2, but in certain periods (close to large conferences),
 it's possible that the load is higher.
 
+**Q**: How can I set a maximum review load for myself?
+**A**: Use [this form](https://forms.office.com/pages/responsepage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UNEpDRzZJNEg1NUdDTDhKVlVEVk9LQURGTy4u). Please complete it *before* the 15th of the month in which you first want this maximum load.
+
 **Q**: Is it allowed to have a secondary reviewer for ARR?<br>
-**A**: As long as the main reviewer verifies (and if necessary, improve) the review, it is okay. However, there is no support in OpenReview at this moment to acknowledge the secondary reviewer.
+**A**: This can be done in two ways:
+- You can ask someone to send the review to you and upload it as your own. This way, you can mentor a junior reviewer. However, they will not be acknowledged in OpenReview as a reviewer.
+- You can ask your action editor to assign the secondary reviewer as a reviewer (in place of you). This way, they will be acknowledged in OpenReview as a reviewer. However, you won't be able to see their review unless they share it with you.
+
 
 ## Communication
 
