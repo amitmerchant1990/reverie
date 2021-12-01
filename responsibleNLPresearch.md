@@ -2,8 +2,8 @@
 The ARR Responsible NLP Research checklist is designed to encourage best practices for responsible research, addressing issues of research ethics, societal impact and reproducibility. It is largely based on the [NeurIPS 2021 paper checklist](https://neurips.cc/Conferences/2021/PaperInformation/PaperChecklist), the reproducible data checklist from [Rogers, Baldwin, Leins’s EMNLP 2021 paper "Just What do You Think You're Doing, Dave? A Checklist for Responsible Data Use in NLP"](https://aclanthology.org/2021.findings-emnlp.414.pdf), and the NLP Reproducibility Checklist built from [Dodge et al. EMNLP 2019's paper "Show Your Work: Improved Reporting of Experimental Results"](https://aclanthology.org/D19-1224.pdf).
 
 We expect authors to show that they follow best practices in two ways:
-1. by filling in the checklist to ensure that best practices are put in place when using or creating assets,
-2. by including a discussion in the paper about any potential negative societal impacts and any limitations of the work. The checklist below provides guidance about what should be discussed.
+1. by filling in the checklist to ensure that best practices are put in place when using, creating or providing assets,
+2. by including a discussion in the paper about any potential positive or negative societal impacts and any limitations of the work. The checklist below provides guidance about what should be discussed.
 
 The checklist exists as a [fillable PDF](https://aclrollingreview.org/Responsible_NLP_Research_Checklist___Fillable_form.pdf) and as [LaTex source](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
 
