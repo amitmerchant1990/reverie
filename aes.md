@@ -54,6 +54,12 @@ Sometimes it is necessary to have an emergency review because an originally-assi
 In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible for the reviewer to finish a high-quality review by this deadline.
 In this case, please consult with the reviewer and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
+**Q**: What if I'll be unavailable?
+**A**: Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u). Please do so *before* the 15th of the first month in which you will be unavailable.
+
+**Q**: How can I set a maximum load for myself?
+**A**: Use [this form](https://forms.office.com/pages/responsepage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UNEpDRzZJNEg1NUdDTDhKVlVEVk9LQURGTy4u). Please complete it *before* the 15th of the month in which you first want this maximum load.
+
 ## Communication
 
 **Q**: How can I communicate with reviewers?<br>
