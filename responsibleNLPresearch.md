@@ -3,7 +3,7 @@ The ARR Responsible NLP Research checklist is designed to encourage best practic
 
 We expect authors to show that they follow best practices in two ways:
 1. by filling in the checklist to ensure that best practices are put in place when using, creating or providing assets,
-2. by including a discussion in the paper about any potential positive or negative societal impacts and any limitations of the work. The checklist below provides guidance about what should be discussed.
+2. by including a discussion in the paper about any potential positive or negative societal impacts and any limitations of the work. The guidelines below provide additional information about what should be discussed.
 
 The checklist exists as a [fillable PDF](https://aclrollingreview.org/Responsible_NLP_Research_Checklist___Fillable_form.pdf) and as [LaTex source](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
 
