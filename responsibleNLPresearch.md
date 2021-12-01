@@ -132,3 +132,7 @@ For example, if you collected data via crowdsourcing, did your instructions to c
 
 ## ARR review form
 The [ARR review form](https://aclrollingreview.org/reviewform) takes aspects of ethics and reproducibility into account.
+
+## Credits
+
+This checklist was developed by Marine Carpuat, Marie-Catherine de Marneffe and Ivan Vladimir Meza Ruiz, the NAACL 2022 program chairs, working with Jesse Dodge, and with the ARR editors in chief. Additional input was provided by the other NAACL 2022 reproducibility chairs, Margot Mieskes, Anna Rogers, and the ACL Ethics Committee.
