@@ -3,7 +3,7 @@ We are introducing several changes to ACL Rolling Review starting with the Decem
 
 ## Changes to the timeline
 
-In November, we received many submissions! In December, we will go back to our usual timeline (Dates, Venues and Stats – ACL Rolling Review – A new initiative of the Association for Computational Linguistics). There’s a shared calendar there you can import to your own calendar.
+In November, we received many submissions! In December, we will go back to our [usual timeline](https://aclrollingreview.org/dates). There’s a shared calendar there you can import to your own calendar.
 
 ## Changes to the submission process
 
