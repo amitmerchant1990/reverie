@@ -1,0 +1,254 @@
+%-----------------------------------------------------------------------------------
+% Responsible NLP research checklist version 0.1
+% 
+% This checklist was created by Marine Carpuat, Marie-Catherine de Marneffe and Ivan Vladimir Meza Ruiz,
+% the NAACL 2022 program chairs, working with Jesse Dodge and the ARR editors-in-chief Pascale Fung,
+% Goran Glavas, Sebastian Riedel and Amanda Stent. 
+% Additional feedback was provided by Anna Rogers, Margot Mieskes and the NAACL 2022 reproducibility chairs.
+% The checklist was reviewed by the ACL Ethics Committee.
+% 
+% Subject to change.
+%------------------------------------------------------------------------------------
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage[letterpaper, total={6.5in, 9in}]{geometry}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{longtable}
+\newcounter{myenumi}
+\newcounter{myenumii}[myenumi]
+\usepackage{titling}
+\usepackage{titlesec}
+
+% Enviroment for numbered tabular
+\newenvironment{enumtabular}[2]
+ {%
+  \setcounter{myenumi}{0}%
+  \setcounter{myenumii}{0}%
+  \renewcommand{\item}{#1\refstepcounter{myenumi}\themyenumi.\ \  }%
+  \begin{longtable}{#2}
+ }
+ {\end{longtable}}
+
+
+% Command for choice menu 
+\newcommand{\cm}[2]{\mbox{\ChoiceMenu[height=0.3cm,width=0.3cm,bordercolor=,name=#1,radio,radiosymbol=\ding{108}]{}{#2}}}
+% Command for text field
+\newcommand{\tf}[2][0.78]{\mbox{\TextField[bordercolor=,name=#2,multiline=true,height=4em, width=#1\textwidth]{\noindent \parbox{0.11\textwidth}{Section or\\Justification}}}}
+% Command for checkbox
+\newcommand{\cb}[1]{\mbox{\CheckBox[bordercolor=,name=#1,height=0.4cm,width=0.4cm]{}{\ }}}
+
+\titleformat{\section}{\Large\bfseries}{\Alph{section}}{1em}{}
+\titleformat{\subsection}{\normalfont\bfseries}{\Alph{section}\arabic{subsection}}{1em}{}
+
+\title{Responsible NLP Research Checklist\vspace{-3em}}
+\date{}
+
+\begin{document}
+\maketitle
+
+Members of the ACL are responsible for adhering to the \href{https://www.aclweb.org/portal/content/acl-code-ethics}{ACL code of ethics}. The ARR Responsible NLP Research checklist is designed to encourage best practices for responsible research, addressing issues of research ethics, societal impact and reproducibility.
+
+Please read the \href{https://aclrollingreview.org/responsibleNLPresearch/}{Responsible NLP Research checklist guidelines} for information on how to answer these questions. Note that not answering positively to a question is not grounds for rejection. 
+
+All supporting evidence can appear either in the main paper or the supplemental material. For each question, if you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification.
+
+You may complete the checklist either as a fillable PDF or via this LaTex source.
+\begin{itemize}
+    \item If you are providing very brief justifications (less than 3 lines), using the fillable PDF will probably be easier.
+    \item If you use the LaTex source, please do \textbf{not} modify, reorder, delete or add questions, question options or other wording of this document.
+\end{itemize}
+
+\section{For every submission}
+
+\subsection{Did you discuss the \textit{limitations} of your work?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{mainClaims}{Yes,No,N/A}\\[0.2cm]
+    \tf[0.85]{mainClaimsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss any potential \textit{risks} of your work?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{risks}{Yes,No,N/A}\\[0.2cm]
+    \tf[0.85]{risksJustification}
+\end{tabular}
+\end{Form}
+
+\subsection{Do the abstract and introduction summarize the paper’s main claims?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{abstractIntro}{Yes,No,N/A}\\[0.2cm]
+    \tf[0.85]{abstractIntroJustification}
+\end{tabular}
+\end{Form}
+
+\section{Did you use or create \textit{scientific artifacts}?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, you can skip the rest of this sectio. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+\cm{createArtifacts}{Yes,No}\\[0.2cm]
+\end{tabular}
+\end{Form}
+
+If yes:
+\subsection{Did you cite the creators of artifacts you used?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+   \begin{tabular}{l}
+    \cm{citeCreators}{Yes,No,N/A}\\[0.2cm]
+    \tf{citeCreatorsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss the \textit{license or terms} for use and/or distribution of any artifacts?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+   \begin{tabular}{l}
+    \cm{legalGrounds}{Yes,No,N/A}\\[0.2cm]
+    \tf{legalGroundsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss if your use of existing artifact(s) was consistent with their \textit{intended use}, provided that it was specified? For the artifacts you create, do you specify intended use and whether that is compatible with the original access conditions (in particular, derivatives of data accessed for research purposes should not be used outside of research contexts)?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+   \begin{tabular}{l}
+    \cm{intendedUse}{Yes,No,N/A}\\[0.2cm]
+    \tf{intendedUseJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss the steps taken to check whether the data that was collected/used contains any \textit{information that names or uniquely identifies individual people} or \textit{offensive content}, and the steps taken to protect / anonymize it?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{personallyIdentifiableInformationOrOffensiveContent}{Yes,No,N/A}\\[0.2cm]
+    \tf{personallyIdentifiableInformationOrOffensiveContentJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you provide documentation of the artifacts, e.g., coverage of domains, languages, and linguistic phenomena, demographic groups represented, etc.?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{documentation}{Yes,No,N/A}\\[0.2cm]
+    \tf{documentationJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you report relevant statistics like the number of examples, details of train/test/dev splits, etc. for the data that you used/created?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{relevantStatistics}{Yes,No,N/A}\\[0.2cm]
+    \tf{relevantStatisticsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\section{Did you run \textit{computational experiments}?} 
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, you can skip the rest of this section. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{computationalExperiments}{Yes,No}
+\end{tabular}
+\end{Form}
+
+If yes:
+\subsection{Did you report the \textit{number of parameters} in the models used, the \textit{total computational budget} (e.g., GPU hours), and \textit{computing infrastructure} used?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{reportReproducibility}{Yes,No,N/A}\\[0.2cm]
+    \tf{reportReproducibilityJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss the experimental setup, including \textit{hyperparameter search} and \textit{best-found hyperparameter} values?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{bestFoundHyperparameter}{Yes,No,N/A}\\[0.2cm]
+    \tf{bestFoundHyperparameterJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you report \textit{descriptive statistics} about your results (e.g., error bars around results, summary statistics from sets of experiments), and is it transparent whether you are reporting the max, mean, etc. or just a single run?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{descriptiveStatistics}{Yes,No,N/A}\\[0.2cm]
+    \tf{descriptiveStatisticsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{If you used existing packages (e.g., for preprocessing, for normalization, or for evaluation), did you report the implementation, model, and parameter settings used (e.g., NLTK, Spacy, ROUGE, etc.)?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{existingPackages}{Yes,No,N/A}\\[0.2cm]
+    \tf{existingPackagesJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\section{Did you use \textit{human annotators} (e.g., crowdworkers) or \textit{research with human subjects}?}  If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, you can skip the rest of this section. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{hummanAnnotators}{Yes,No}\\
+\end{tabular}
+\end{Form}
+
+If yes:
+\subsection{Did you report the full text of instructions given to participants, including e.g., screenshots, disclaimers of any risks to participants or annotators, etc.?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{fullTextInstructions}{Yes,No,N/A}\\[0.2cm]
+    \tf{fullTextInstructionsJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you report information about how you recruited (e.g., crowdsourcing platform, students) and paid participants, and discuss if such \textit{payment is adequate} given the participants’ demographic (e.g., country of residence)?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{payment}{Yes,No,N/A}\\[0.2cm]
+    \tf{paymentJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you discuss whether and how \textit{consent} was obtained from people whose data you're using/curating (e.g., did your instructions explain how the data would be used)?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{consent}{Yes,No,N/A}\\[0.2cm]
+    \tf{consentJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Was the data collection protocol \textit{approved (or determined exempt)} by an ethics review board?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{ethicsAmountSpent}{Yes,No,N/A}\\[0.2cm]
+    \tf{ethicsAmountSpentJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\subsection{Did you report the basic demographic and geographic characteristics of the \textit{annotator} population that is the source of the data?}
+If you answer {\bf Yes}, provide the section number; if you answer {\bf No}, provide a justification. \\[0.3cm]
+\begin{Form}
+\begin{tabular}{l}
+    \cm{annotator}{Yes,No,N/A}\\[0.2cm]
+    \tf{annotatorJustification}
+\end{tabular}
+\end{Form} \\[0.3cm]
+
+\end{document}
