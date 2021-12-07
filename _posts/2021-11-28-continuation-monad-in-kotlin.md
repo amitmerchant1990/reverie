@@ -42,7 +42,7 @@ The name `shift` comes shifting (or changing, especially unexpectedly), away fro
 object EmptyPath
 
 fun readFile(path: String): Cont<EmptyPath, Unit> = cont {
-  if (path.isNotEmpty()) shift(EmptyPath) else Unit
+  if (path.isEmpty()) shift(EmptyPath) else Unit
 }
 ```
 
@@ -53,11 +53,11 @@ Patterns like validating a `Boolean` is very common, and the `Cont` DSL offers u
 ```kotlin
 fun readFile2(path: String?): Cont<EmptyPath, Unit> = cont {
   ensureNotNull(path) { EmptyPath }
-  ensure(path.isEmpty()) { EmptyPath }
+  ensure(path.isNotEmpty()) { EmptyPath }
 }
 ```
 
-> You can get the full code [here](guide/example/example-readme-01.kt).
+> You can get the full code [here](https://github.com/nomisRev/nomisrev.github.io/blob/master/guide/example/example-readme-01.kt).
 
 Now that we have the path, we can read from the `File` and return it as a domain model `Content`.
 We also want to take a look at what exceptions reading from a file might occur `FileNotFoundException` & `SecurityError`, so lets make some domain errors for those too. Grouping them as a sealed interface is useful since that way we can resolve *all* errors in a type safe manner.
@@ -113,7 +113,7 @@ suspend fun test() {
     .body.shouldNotBeEmpty()
 }
 ```
-> You can get the full code [here](guide/example/example-readme-02.kt).
+> You can get the full code [here](https://github.com/nomisRev/nomisrev.github.io/blob/master/guide/example/example-readme-02.kt).
 <!--- TEST lines.isEmpty() -->
 
 ## Handling errors
@@ -150,7 +150,7 @@ suspend fun test() {
   captured.toEither() shouldBe Either.Right(Result.success(1))
 }
 ```
-> You can get the full code [here](guide/example/example-readme-03.kt).
+> You can get the full code [here](https://github.com/nomisRev/nomisrev.github.io/blob/master/guide/example/example-readme-03.kt).
 <!--- TEST lines.isEmpty() -->
 
 ## Cont<E, A> and Either<E, A>
@@ -189,7 +189,7 @@ suspend fun test() {
   }.toEither() shouldBe Either.Left("failed")
 }
 ```
-> You can get the full code [here](guide/example/example-readme-04.kt).
+> You can get the full code [here](https://github.com/nomisRev/nomisrev.github.io/blob/master/guide/example/example-readme-04.kt).
 <!--- TEST lines.isEmpty() -->
 
 At the end of our DSL we call `toEither` to finally turn the `Cont` result into `Either`.
