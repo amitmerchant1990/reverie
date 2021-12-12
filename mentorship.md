@@ -40,3 +40,6 @@ We ask mentees to go through this material (in full). While we expect mentors to
 
 We hope that the first mentees and mentors are matched and ready to review by the February 15 cycle.  
 
+## Contact
+
+For questions and feedback please email mentorship@aclrollingreview.org. 
