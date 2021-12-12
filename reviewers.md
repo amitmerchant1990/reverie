@@ -120,10 +120,6 @@ Yes, see [here](/people).
 **A**: 
 You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months. We will be changing the mechanism in the following months such that reviewers will be expected to review the papers they are assigned (unless they feel very unqualified to do so).
 
-**Q**: Why did I get an invitation to review something when the deadline is already past?<br>
-**A**: 
-It is possible that an AE may send as an emergency review request for one of the prior month submissions that we're running late with. There is no strict deadline, but the sooner you could provide the review, the better.
-
 **Q**: I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"<br>
 **A**: 
 This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated. We hope that will solve the problem.
