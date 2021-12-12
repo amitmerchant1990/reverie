@@ -37,7 +37,7 @@ Contact: `tech at aclrollingreview.org`
 - Stephen Mayhew, Duolingo (Communications Team Chair)
 - Shubhra Kanti Karmaker (Santu), Auburn University
 - Graham Neubig, Carnegie Mellon University
-
+- Zeerak Talat, Digital Democracies Institute, Simon Fraser University
 Contact: `support at aclrollingreview.org`
 
 ## Action Editors
@@ -166,7 +166,7 @@ Contact: `support at aclrollingreview.org`
 - Emma Strubell, Carnegie Mellon University and Google
 - Jinsong Su, Xiamen University
 - Jun Suzuki, Tohoku University
-- Zeerak Talat, University of Sheffield
+- Zeerak Talat, Digital Democracies Institute, Simon Fraser University
 - Antonio Toral, University of Groningen
 - Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
 - Kewei Tu, ShanghaiTech University
