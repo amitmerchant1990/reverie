@@ -1,6 +1,6 @@
 # ARR Mentorship Programme 
  
-We expect a large fraction of NLP submissions to go through ARR in the very near future. To make sure that we can handle this growth, and to maintain a diverse and balanced reviewer pool, we would like to set up a reviewer mentorship program in the spirit of previous programs run at ACL. The goal of this program is to help researchers with less reviewing experience to quickly get up to speed with the help of more experienced reviewers.   
+An increasing number of NLP submissions are going through ARR. To make sure that we can handle this growth, and to maintain a diverse and balanced reviewer pool, we would like to set up a reviewer mentorship program in the spirit of previous programs run at ACL. The goal of this program is to help researchers with less reviewing experience to quickly get up to speed with the help of more experienced reviewers.   
 ## Overview
 The program operates as follows:
 1) Mentees and Mentors apply to join the program--see the application forms below.  
