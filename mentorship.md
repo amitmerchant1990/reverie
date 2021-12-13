@@ -23,19 +23,19 @@ The program operates as follows:
 
 We are looking for researchers in the area of NLP that have experience with NLP paper authoring and/or reviewing (e.g. have an EMNLP or ACL paper, or reviewed for workshops), but don’t yet feel ready to review for *ACL conferences and ARR. If you fall into this category and are interested in becoming a review mentee at ARR, please fill out the form below:
 
-https://forms.office.com/r/5xyiutt16z 
+<https://forms.office.com/r/5xyiutt16z>
 Note that we cannot guarantee a place for everyone as the number of mentors is limited.
 The form asks for your OpenReview User ID so please create an OpenReview account if you haven’t already done so.
 
 ## Mentors
 We are looking for current ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please fill out the form below:
 
-https://forms.office.com/r/V7BQmLq7hU 
+<https://forms.office.com/r/V7BQmLq7hU>
 
 ## Material for Mentors and Mentees
 The primary reading material for mentors and mentees is our ARR tutorial at
 
-https://docs.google.com/document/d/1CWTcbqTIisMobo9Iksb5lQW2gnV66pFRk_JNb_2e9yo/edit#
+<https://docs.google.com/document/d/1CWTcbqTIisMobo9Iksb5lQW2gnV66pFRk_JNb_2e9yo/edit#>
 
 We ask mentees to go through this material (in full). While we expect mentors to have sufficient review experience, we still recommend them to review the material too in order to align with ARR expectations and help with communicating what good and bad reviews are. 
 
