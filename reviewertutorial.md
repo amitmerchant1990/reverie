@@ -331,7 +331,7 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 
 **Examples of good reviews**
 
-* Two examples of peer review from NAACL 2018: [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/ ](https://aclrollingreview.org/mentorship/Two%20example%20good%20reviews%20from%20NAACL%202018%20presented%20in%20their%20reviewing%20form)
+* Two examples of peer review from NAACL 2018: [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/]()
 
 **Reviewing specific aspects of papers**
 
