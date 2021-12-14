@@ -40,6 +40,13 @@ Contact: `tech at aclrollingreview.org`
 - Zeerak Talat, Digital Democracies Institute, Simon Fraser University
 Contact: `support at aclrollingreview.org`
 
+## Mentorship Team
+
+- Isabelle Augenstein, University of Copenhagen
+- Sebastian Riedel, Facebook AI and University College London
+- Anna Rogers, University of Copenhagen
+Contact: `mentorship@aclrollingreview.org`
+
 ## Action Editors
 
 - Mausam, Indian Institute of Technology Delhi
