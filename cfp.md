@@ -60,8 +60,6 @@ Short paper submissions must describe original and unpublished work. Please note
  
 ACL has [policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
 
-The "notification (or withdrawal)" phrase used in the ACL guidelines refers to notification of acceptance/rejection from a *ACL conference (or workshop). This means that ARR submissions must remain anonymized until a conference or workshop has accepted or rejected, or until the submission is withdrawn.
-
 So, if you submit to the June deadline and get reviews in July, then on July 21st your paper is no longer under review. If you then post a deanonymized preprint on July 22nd, you can't resubmit to ARR or to a conference in the August round but you can in September. 
 
 If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one step process in OpenReview. Once a submission is withdrawn, it is removed from that month's reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
