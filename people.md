@@ -38,6 +38,7 @@ Contact: `tech at aclrollingreview.org`
 - Shubhra Kanti Karmaker (Santu), Auburn University
 - Graham Neubig, Carnegie Mellon University
 - Zeerak Talat, Digital Democracies Institute, Simon Fraser University
+
 Contact: `support at aclrollingreview.org`
 
 ## Mentorship Team
@@ -45,6 +46,7 @@ Contact: `support at aclrollingreview.org`
 - Isabelle Augenstein, University of Copenhagen
 - Sebastian Riedel, Facebook AI and University College London
 - Anna Rogers, University of Copenhagen
+
 Contact: `mentorship@aclrollingreview.org`
 
 ## Action Editors
