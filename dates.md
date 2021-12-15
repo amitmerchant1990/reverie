@@ -30,7 +30,7 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 
 Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please contact the [ARR editors](/people).
 
-| Submission deadline | Earliest review release date | Last deadline for (Review Submission Deadline) | Notes |
+| Last submission deadline | Earliest review release date |Conference/Venue | Notes |
 |---------------------|------------|-------------------|---------|
 | May 15, 2021 11:59pm AOE |  June 21, 2021 | [EMNLP 2021](https://2021.emnlp.org/) | |
 | June 15, 2021 11:59pm AOE |  July 21, 2021 | [INLG 2021](https://inlg2021.github.io/pages/calls.html) | |

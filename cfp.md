@@ -62,7 +62,7 @@ ACL has [policies for submission, review and citation](https://www.aclweb.org/ad
 
 So, if you submit to the June deadline and get reviews in July, then on July 21st your paper is no longer under review. If you then post a deanonymized preprint on July 22nd, you can't resubmit to ARR or to a conference in the August round but you can in September. 
 
-If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one step process in OpenReview. Once a submission is withdrawn, it is removed from that month's reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
+If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can't resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that month's reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
 
 Further info:
 
