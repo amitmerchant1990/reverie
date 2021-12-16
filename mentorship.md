@@ -21,7 +21,7 @@ The program operates as follows:
 
 ## Mentees
 
-We are looking for researchers in the area of NLP that have experience with NLP paper authoring and/or reviewing (e.g. have an EMNLP or ACL paper, or reviewed for workshops), but don’t yet feel ready to review for *ACL conferences and ARR. If you fall into this category and are interested in becoming a review mentee at ARR, please fill out the form below:
+We are looking for researchers in the area of NLP that have experience with NLP paper authoring and/or reviewing (e.g. have an EMNLP or ACL paper, done some reviewing), but don’t yet feel ready to review for *ACL conferences and ARR. If you fall into this category and are interested in becoming a review mentee at ARR, please fill out the form below:
 
 <https://forms.office.com/r/5xyiutt16z>
 
