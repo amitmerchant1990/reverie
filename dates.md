@@ -38,7 +38,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | August 15, 2021 11:59pm AOE | September 21, 2021 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) (Sep 22, 2021) | |
 | September 15, 2021 11:59pm AOE | October 21, 2021 | | |
 | October 15, 2021 11:59pm AOE | November 21, 2021 | | |
-| November 15, 2021 11:59pm AOE | December 24, 2021 | [ACL 2022](https://www.2022.aclweb.org/) (Jan 15, 2022) | Please note there will be a slightly extended timeline for this round |
+| November 15, 2021 11:59pm AOE | January 10, 2022 | [ACL 2022](https://www.2022.aclweb.org/) (Jan 15, 2022) | Please note there will be a slightly extended timeline for this round |
 | December 15, 2021 11:59pm AOE | January 21, 2022 | | |
 | January 15, 2022 11:59pm AOE | February 21, 2022 | [NAACL 2022](https://2022.naacl.org/) (March 2, 2022) | |
 
