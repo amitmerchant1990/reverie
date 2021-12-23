@@ -4,6 +4,8 @@ title: "Author Checklist"
 permalink: /authorchecklist
 ---
 
+Submissions that violate the requirements in the call for papers will be desk rejected. This checklist supplements the call for papers.
+
 ## OpenReview Profiles
 
 All authors must have complete OpenReview profiles. Please ensure profiles are complete before submission. You may refer to [this tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
@@ -19,6 +21,7 @@ Some key items for first time authors:
 - Respect the page limit for the paper type
 - Ensure the submission is anonymized
 - Supplemental materials (including appendices) should be truly supplemental; a reader should be able to understand the work from the paper alone
+
 
 ## Anonymization and Citation
 
