@@ -6,7 +6,7 @@ permalink: /cfp
 
 ACL Rolling Review (ARR)  invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve efficiency and turnaround of ACL reviewing while keeping the diversity (topical, geographic and otherwise)  and editorial freedom that we value about our current organization of the reviewing process at ACL venues. ARR  will use Open Review as its platform (but reviews will not be open in ARR).
 The reviewing and acceptance of papers for publication will be done in two steps:
-* Step 1 -- Centralized Rolling Review: Authors submit papers to a [unified review pool](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/May) with deadline on the 15th of each month. Review is handled by an action editor, and revision and resubmission of papers is allowed.
+* Step 1 -- Centralized Rolling Review: Authors submit papers to a unified review pool with deadline on the 15th of each month. Review is handled by an action editor, and revision and resubmission of papers is allowed.
 * Step 2 -- Submission to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to submit to a
 publication venue comes around, authors may submit already reviewed papers with reviews to the publication venue, through the OpenReview website. Program chairs (possibly with the help of senior area chairs) will then accept a subset of submitted papers for presentation.
  
@@ -44,7 +44,7 @@ In addition, ARR welcomes submissions related to special Themes proposed by part
 ### Long Papers
 
 Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included.
-Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references.
+Long papers may consist of up to eight (8) pages of content, plus up to one page for ethical considerations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
     
 ### Short Papers
 
@@ -54,7 +54,7 @@ Short paper submissions must describe original and unpublished work. Please note
 * A negative result
 * An opinion piece
 * An interesting application nugget
-* Short papers may consist of up to four (4) pages of content, plus unlimited pages of references.
+* Short papers may consist of up to four (4) pages of content, plus up to one page for ethical considerations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
  
 ### Anonymity Period
  
@@ -63,6 +63,8 @@ ACL has [policies for submission, review and citation](https://www.aclweb.org/ad
 So, if you submit to the June deadline and get reviews in July, then on July 21st your paper is no longer under review. If you then post a deanonymized preprint on July 22nd, you can't resubmit to ARR or to a conference in the August round but you can in September. 
 
 If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can't resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that month's reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
+
+Submissions that violate this requirement will be desk rejected.
 
 Further info:
 
@@ -81,9 +83,14 @@ Papers should not refer, for further detail, to documents that are not available
 
 Supplementary materials should also be anonymized.
 
+Submissions that violate these requirements will be desk rejected.
+
 ### Authorship
 
 The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ARR will be notified of submissions and reviews.
+
+Submissions that violate this requirement will be desk rejected.
+
 
 ### Citation and Comparison
 
@@ -93,6 +100,8 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to a submission, and authors are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
 
+Submissions that violate these requirements will be desk rejected.
+
 For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
 ### Multiple Submission Policy
@@ -101,6 +110,8 @@ ARR precludes multiple submissions. ARR will not consider any paper that is unde
 In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere, without exception. 
 
 For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR.
+
+Submissions that violate these requirements will be desk rejected.
 
 ### Ethics Policy
 
@@ -114,6 +125,9 @@ We reserve the right to reject papers on ethical grounds, where the authors are 
 
 Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle. So, a submission made to a March deadline and withdrawn after March 17th, may not be resubmitted until the May cycle.
 
+Submissions that violate this requirement will be desk rejected.
+
+
 ### Submission Criteria
 
 ARR provides a [submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
@@ -123,7 +137,9 @@ ARR provides a [submission checklist](/authorchecklist). The checklist is intend
 Submission is electronic, using the OpenReview.net platform. All long, short and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](/submissionform) are the paper submission form fields for your reference.
  
 Paper submissions must use the official ACL style templates, which are available as an [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr) and also [downloadable directly](https://github.com/acl-org/ACLPUB/tree/master/templates)  (Latex and Word). Please follow the paper formatting guidelines general to "\*ACL" conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html).
-Authors may not modify these style files or use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. 
+Authors may not modify these style files or use templates designed for other conferences. 
+
+Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. 
  
 [Here](/reviewform) is the current version of the review form, and [here](/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
  
