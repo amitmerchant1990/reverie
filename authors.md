@@ -35,6 +35,9 @@ We have an [OpenReview tutorial for authors](https://docs.google.com/presentatio
   - If you would like to submit your paper+reviews to a publication venue (e.g. a conference), then you do that. The publication venue will make an accept/reject decision for your paper. If your paper is rejected, you may still submit your paper+reviews to other publication venues.
 See the questions below for more information.
 
+**Q**: What types of submission are eligible for ARR?<br>
+**A**: ARR submissions should be original, unpublished work in the area of NLP broadly construed. Original just means no one else has done or published it yet. Theoretical, algorithmic, empirical, engineering and survey papers (among others) may represent original work. ARR welcomes short and long paper submissions. Three types of paper may be less suitable for ARR: a) papers that are not about NLP; b) submissions to shared tasks (because they are typically reviewed by the shared task organizers and participants; however, papers about the shared task, or papers using data from the shared task, are fine); and c) demo papers (because they are so hard to anonymize). Conferences and workshops will handle demo and shared task papers themselves.  Please refer to the CFP for more details.
+
 **Q**: What information do I have to provide to submit?<br>
 **A**: See the link to submit to the next deadline, below. Note that some of the fields are only required for _resubmissions_.
 
