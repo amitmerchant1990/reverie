@@ -20,7 +20,10 @@ The reason why the schedule is tight is because we aspire to make turnaround as 
 
 You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York).
 
-*Please note, for the November 2021 round there are modifications to this schedule; see [this blog post](https://aclrollingreview.org/modified-timeline-November/).*
+*Please note, certain deadlines have modified timelines:*
+- *November 2021, see [this blog post](https://aclrollingreview.org/modified-timeline-November/).*
+- *January 2022, see [this blog post](https://aclrollingreview.org/Modified-timeline-January/).*
+
 
 ## Submission to Participating Venues
 
