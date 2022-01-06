@@ -17,7 +17,7 @@ We have an [OpenReview tutorial for authors](https://docs.google.com/presentatio
 
 # Submission Sites
 
-[12/15/21 Submission Site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/December)
+[2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
 
 [October Deadline Preprints](https://openreview.net/group?id=aclweb.org/ACL/ARR/2021/October)
 
