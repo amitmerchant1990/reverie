@@ -325,7 +325,7 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 
 **General advice and reviewing philosophy**
 
-* Advice on peer review from Mirella Lapata, Marco Baroni, Yoav Artzi, Emily M.Bender, Joel Tetreault, Ani Nenkova, Tim Baldwin: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](https://aclrollingreview.org/mentorship/ACL%202017%20leaders%20view%20on%20reviewing)
+* Advice on peer review from Mirella Lapata, Marco Baroni, Yoav Artzi, Emily M.Bender, Joel Tetreault, Ani Nenkova, Tim Baldwin: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
 * A podcast interview with Noah Smith: [https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith](https://aclrollingreview.org/mentorship/A%20podcast%20by%20Noah%20Smith%20about%20peer%20reviews)
 * Rebekah Baglini and Christine Parsons on how to avoid harsh language in peer review: [https://www.nature.com/articles/d41586-020-03394-y](https://www.nature.com/articles/d41586-020-03394-y) 
 
