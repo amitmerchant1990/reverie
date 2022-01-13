@@ -113,6 +113,19 @@ For the sake of clarity, this policy also covers ARR itself; authors may not res
 
 Submissions that violate these requirements will be desk rejected.
 
+### Resubmission Policy
+
+Authors may resubmit to ACL Rolling Review. 
+* When resubmitting, authors must link to the previous submission. 
+* When resubmitting, authors should provide a response to the previous reviews.
+* Resubmissions must be modified versions of the original submission; the authors may not simply resubmit the exact same paper, nor may they submit a completely new paper as if it were a resubmission. 
+* If authors want to add an author as part of a resubmission, they may do so with justification; except in extremely rare circumstances, authors may not be removed.
+* Resubmitted papers will go back to the original reviewers and action editor, where possible, unless the authors request new reviewers. 
+
+Authors considering a resubmission should also refer to the withdrawal policy below.
+
+Submissions that violate these requirements will be desk rejected.
+
 ### Ethics Policy
 
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
