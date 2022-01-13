@@ -52,19 +52,19 @@ Contact: `mentorship@aclrollingreview.org`
 ## Action Editors
 
 - Alan Akbik, Humboldt Universität Berlin
-- Alborz Geramifard, 
+- Alborz Geramifard 
 - Alessandro Lenci, University of Pisa
 - Alexandra Birch, University of Edinburgh
 - Ali Basirat, Linköping University
 - Alice Oh, Korea Advanced Institute of Science and Technology
-- Alina Wróblewska, 
-- Alla Rozovskaya, 
+- Alina Wróblewska
+- Alla Rozovskaya
 - Allyson Ettinger, University of Chicago
-- Alon Jacovi, 
+- Alon Jacovi
 - Amalia Todirascu, Université de Strasbourg
 - Amine Trabelsi, Lakehead University
 - Amrith Krishna, University of Cambridge
-- Andrea Madotto, 
+- Andrea Madotto
 - Andrew Caines, University of Cambridge
 - Andrew Cattle, Amazon
 - Angel X Chang, Simon Fraser University
@@ -82,7 +82,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Attapol Rutherford, Chulalongkorn University
 - Baotian Hu, Harbin Institute of Technology, Shenzhen
 - Barry Devereux, Queen's University Belfast
-- Bei Shi, 
+- Bei Shi
 - Boxing Chen, Alibaba Group
 - Brendan O'Connor, University of Massachusetts, Amherst
 - Bruno Martins, InstituInstituto Superior Técnico
@@ -96,12 +96,12 @@ Contact: `mentorship@aclrollingreview.org`
 - Chris Brew, LivePerson
 - Christian Hardmeier, IT University of Copenhagen and Uppsala University
 - Colin Cherry, Google
-- Colin Raffel, 
+- Colin Raffel
 - Constantine Lignos, Brandeis University
-- Cornelia Caragea, University of Illinois, Chicago and Kansas State University and University of North Texas, Denton
+- Cornelia Caragea
 - Courtney Napoles, Grammarly
 - Craig MacDonald, University of Glasgow
-- Daichi Mochihashi, 
+- Daichi Mochihashi
 - Daisuke Kawahara, Waseda University
 - Daniel Beck, University of Melbourne
 - Daniel Cer, Google
@@ -124,13 +124,13 @@ Contact: `mentorship@aclrollingreview.org`
 - Dima Taji, Birzeit University
 - Dipanjan Das, Google
 - Duyu Tang, Tencent AI Lab
-- Edoardo Ponti, 
-- Eduard Dragut, 
+- Edoardo Ponti
+- Eduard Dragut
 - Eduardo Blanco, Arizona State University
 - Efstathios Stamatatos, University of the Aegean
-- Ehsaneddin Asgari, University of California, Berkeley and Data Lab, Volkswagen Group and Helmholtz Center for Infection Research
+- Ehsaneddin Asgari
 - Ekaterina Kochmar, University of Bath
-- Elena Cabrio, 
+- Elena Cabrio
 - Elisabetta Fersini, University of Milan-Bicocca
 - Emily Pitler, Google
 - Emily Prud'hommeaux, Boston College
@@ -152,23 +152,23 @@ Contact: `mentorship@aclrollingreview.org`
 - Greg Durrett, University of Texas, Austin
 - Grzegorz Kondrak, University of Alberta
 - H. Schwartz, Stony Brook University (SUNY)
-- Hady W. Lauw, Singapore Management University and Singapore Management University
+- Hady W. Lauw, Singapore Management University
 - Hai Leong Chieu, DSO National Laboratories
-- Hainan Xu, 
-- Hinrich Schuetze, 
-- Honglei Guo, 
+- Hainan Xu
+- Hinrich Schuetze
+- Honglei Guo
 - Hyeju Jang, University of British Columbia
-- Igor Malioutov, 
+- Igor Malioutov, Bloomberg
 - Ines Rehbein, Universität Mannheim
 - Ivan Habernal, TU Darmstadt
 - Ivan Vladimir Meza Ruiz, UNAM
 - Iz Beltagy, Allen Institute for Artificial Intelligence
-- Jackie CK Cheung, Microsoft and Mila Research Institute and McGill University
+- Jackie CK Cheung
 - Jacob Andreas, Massachusetts Institute of Technology and Microsoft
-- Jan Niehues, 
+- Jan Niehues
 - Jasmijn Bastings, Google
 - Jeremy Barnes, University of the Basque Country
-- Jesse Dodge, 
+- Jesse Dodge
 - Jessica Ouyang, University of Texas at Dallas
 - Jianfei Yu, Nanjing University of Science and Technology
 - Jiatao Gu, Facebook AI Research
@@ -184,15 +184,15 @@ Contact: `mentorship@aclrollingreview.org`
 - Jonathan K Kummerfeld, University of Michigan
 - Joonsuk Park, University of Richmond
 - Jose Camacho-Collados, Cardiff University
-- Jose Ochoa-Luna, 
+- Jose Ochoa-Luna
 - Joseph Le Roux, Université Paris 13
 - Juan Pino, Facebook
-- Julia Hockenmaier, University of Illinois, Urbana Champaign and University of Illinois, Urbana Champaign and University of Illinois, Urbana Champaign
+- Julia Hockenmaier, University of Illinois
 - Jun Suzuki, Tohoku University
 - Junhui Li, Soochow University, China
 - Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
 - Juntao Li, Soochow University, China
-- Justine Zhang, 
+- Justine Zhang
 - Kai Yu, Shanghai Jiao Tong University, Tsinghua University
 - Karl Stratos, Rutgers University
 - Kashyap Popat, Facebook AI
@@ -201,32 +201,32 @@ Contact: `mentorship@aclrollingreview.org`
 - Kevin Duh, Johns Hopkins University
 - Kevin Small, Amazon
 - Kewei Tu, ShanghaiTech University
-- Khalid Choukri, 
+- Khalid Choukri
 - Koichiro Yoshino, RIKEN
 - Kokil Jaidka, National University of Singapore
-- Kuan-Yu Chen, Department of computer science and informational engineering, National Taiwan University of Science and Technology
-- Kyle Gorman, The Graduate Center, City University of New York and Google
-- Lane Schwartz, University of Alaska Fairbanks and University of Alaska Fairbanks
-- Lei Chen, Rakuten Institute of Technology, The University of Tokyo
+- Kuan-Yu Chen, National Taiwan University of Science and Technology
+- Kyle Gorman
+- Lane Schwartz
+- Lei Chen
 - Lei Shu, Amazon
-- Leo Wanner, Catalan Institute for Research and Advanced Studies and Universitat Pompeu Fabra
+- Leo Wanner
 - Leon Derczynski, IT University
 - Leonid Boytsov, Bosch Center for AI
-- Li Dong, 
-- Liangyou Li, 
-- Liat Ein-Dor, 
+- Li Dong
+- Liangyou Li
+- Liat Ein-Dor
 - Lidong Bing, Alibaba Group
 - Lijun Wu, Microsoft Research
 - Lili Mou, University of Alberta
 - Loic Barrault, University of Le Mans and University of Sheffield
-- Longyue Wang, 
-- Lori Levin, School of Computer Science, Carnegie Mellon University
+- Longyue Wang
+- Lori Levin, Carnegie Mellon University
 - Luca Soldaini, Amazon
 - Luciana Benotti, University of Cordoba
 - Luheng He, Google
 - Luis Chiruzzo, Facultad de Ingeniería - Universidad de la República - Uruguay
 - Luke Zettlemoyer, Facebook and University of Washington
-- Maarten Sap, 
+- Maarten Sap
 - Maciej Ogrodniczuk, Institute of Computer Science, Polish Academy of Sciences
 - Mahnoosh Mehrabani, Interactions Corp.
 - Maja Popovic, Dublin City University
@@ -245,20 +245,20 @@ Contact: `mentorship@aclrollingreview.org`
 - Marta Ruiz Costa-jussà, 
 - Matan Orbach, International Business Machines
 - Matthias Gallé, Naver Labs Europe and NAVER and Naver Labs Europe
-- Mausam ., Indian Institute of Technology Delhi
-- Maxime Peyrard, 
+- Mausam, Indian Institute of Technology Delhi
+- Maxime Peyrard
 - Md Shad Akhtar, Indraprastha Institute of Information Technology, Delhi
 - Melanie Siegel, Darmstadt University of Applied Sciences
 - Michael White, Ohio State University and Facebook
-- Michael Zock, 
+- Michael Zock
 - Michel Galley, Microsoft
 - Miguel Ballesteros, Amazon
 - Mike Lewis, Facebook AI Research
 - Mikel Artetxe, Facebook AI Research
-- Miles Osborne, 
-- Min Yang, 
+- Miles Osborne
+- Min Yang
 - Minjoon Seo, Korea Advanced Institute of Science and Technology
-- Miryam de Lhoneux, Uppsala University and KU Leuven and University of Copenhagen
+- Miryam de Lhoneux
 - Mo Yu, International Business Machines
 - Mohamad Hardyman Barawi, Universiti Malaysia Sarawak
 - Mohamed Morchid, University of Avignon
@@ -278,31 +278,31 @@ Contact: `mentorship@aclrollingreview.org`
 - Parisa Kordjamshidi, Michigan State University
 - Pascal Denis, INRIA
 - Paula Carvalho, INESC-ID
-- Pengfei Liu, 
+- Pengfei Liu
 - Philippe Muller, IRIT, University of Toulouse
 - Piji Li, Nanhang University
 - Pontus Stenetorp, University College London
-- Preethi Jyothi, 
+- Preethi Jyothi
 - Prodromos Malakasiotis, Institute of Informatics & Telecommunications, NCSR "Demokritos" and Athens University of Economics and Business
 - Pu-Jen Cheng, National Taiwan University
 - Qiang Ning, Amazon Alexa AI
 - Qing Gu, Nanjing University
 - Qipeng Guo, Amazon
 - Qun Liu, Noah's Ark Lab, Huawei Technologies Ltd.
-- Raj Dabre, National Institute of Information and Communications Technology (NICT), National Institute of Advanced Industrial Science and Technology
+- Raj Dabre
 - Raquel Fernández, University of Amsterdam
 - Rebecca J. Passonneau, Pennsylvania State University
 - Roberto Basili, University of Roma, Tor Vergata
 - Roi Reichart, Technion, Israel Institute of Technology
 - Rui Yan, Renmin University of China
-- Ruihai Dong, 
-- Ruken Cakici, 
+- Ruihai Dong
+- Ruken Cakici
 - Saku Sugawara, National Institute of Informatics
-- Sara Stymne, 
+- Sara Stymne
 - Sarvnaz Karimi, CSIRO
 - Sebastian Gehrmann, Google Research
 - Seokhwan Kim, Amazon
-- Seong-Bae Park, 
+- Seong-Bae Park
 - Serena Villata, CNRS
 - Shashank Srivastava, University of North Carolina, Chapel Hill
 - Shashi Narayan, Google
@@ -313,24 +313,24 @@ Contact: `mentorship@aclrollingreview.org`
 - Simone Filice, Amazon
 - Simone Paolo Ponzetto, University of Mannheim
 - Siva Reddy, Mila, McGill University and Mila, McGill University
-- Snigdha Chaturvedi, Department of Computer Science, University of North Carolina, Chapel Hill
+- Snigdha Chaturvedi, University of North Carolina
 - Sophia Ananiadou, University of Manchester
 - Soujanya Poria, Singapore University of Technology and Design
-- Srini Iyer, University of Washington, Seattle and Department of Computer Science, University of Washington
+- Srini Iyer, University of Washington
 - Stefan Ultes, Mercedes Benz Research & Development
 - Steven Bethard, University of Arizona
 - Sujian Li, Peking University
-- Sumeet Kumar, 
+- Sumeet Kumar
 - Suzan Verberne, Leiden University
 - Taeuk Kim, Hanyang University
-- Thien Huu Nguyen, , University of Oregon
+- Thien Huu Nguyen, University of Oregon
 - Thuy Vu, Amazon Alexa AI
 - Tianze Shi, Google
 - Tieyun Qian, Wuhan University
 - Timothy Baldwin, The University of Melbourne
 - Tommaso Pasini, University of Copenhagen
 - Tong Xiao, Northeastern University
-- Trang Tran, USC Institute for Creative Technologies, University of Southern California and University of Southern California
+- Trang Tran, University of Southern California
 - Udo Kruschwitz, University of Regensburg
 - Vincent Ng, University of Texas at Dallas
 - Vinodkumar Prabhakaran, Google
@@ -345,9 +345,9 @@ Contact: `mentorship@aclrollingreview.org`
 - Weinan Zhang, Harbin Institute of Technology
 - Weiwei Sun, University of Cambridge
 - Wenjie Li, The Hong Kong Polytechnic University, The Hong Kong Polytechnic University
-- Wenpeng Yin, 
+- Wenpeng Yin
 - Wray Buntine, Vin University and Monash University
-- Wu Liu, 
+- Wu Liu
 - Xiang Ao, Institute of Computing Technology, Chinese Academy of Sciences
 - Xiang Ren, University of Southern California
 - Xiangliang Zhang, University of Notre Dame
@@ -357,11 +357,11 @@ Contact: `mentorship@aclrollingreview.org`
 - Xingxing Zhang, Microsoft Research Asia
 - Xipeng Qiu, Fudan University
 - Xuanjing Huang, Fudan University
-- Yafeng Ren, 
-- Yanan Cao, 
+- Yafeng Ren
+- Yanan Cao
 - Yang Feng, Institute of Computing Technology, Chinese Academy of Sciences
 - Yang Gao, Google
-- Yang Liu, 
+- Yang Liu
 - Yangfeng Ji, University of Virginia
 - Yannick Parmentier, Université de Lorraine
 - Yannick Versley, Amazon
@@ -370,7 +370,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Yonatan Bisk, Carnegie Mellon University
 - Yue Zhang, Westlake University
 - Yuji Matsumoto, RIKEN
-- Yuki Arase, Osaka University and AIST, National Institute of Advanced Industrial Science and Technology
+- Yuki Arase
 - Zeerak Talat, Simon Fraser University
 - Zeljko Agic, Unity Technologies and University of Split
 - Zhe Gan, Microsoft
@@ -379,13 +379,13 @@ Contact: `mentorship@aclrollingreview.org`
 - Zhiguang Wang, Facebook
 - Zhiyuan Liu, Tsinghua University, Tsinghua University
 - Zhongjun He, Baidu
-- zhongyu wei, Fudan University
-- Ziqiang Cao, 
+- Zhongyu Wei, Fudan University
+- Ziqiang Cao
 - Nanyun Peng, University of California, Los Angeles
 - Marianna Apidianaki, University of Helsinki
-- Ganesh Ramakrishnan, Indian Institute of Technology Bombay, Indian Institute of Technology Bombay
+- Ganesh Ramakrishnan, Indian Institute of Technology Bombay
 - Mark Anderson, Cardiff University
-- Debanjan Ghosh, Educational Testing Service and Massachusetts Institute of Technology
+- Debanjan Ghosh
 - Cecilia Alm, Rochester Institute of Technology
 - Amanda Stent, Colby College
 - Samuel R. Bowman, New York University
