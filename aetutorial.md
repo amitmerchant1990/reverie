@@ -47,3 +47,5 @@ A few additional considerations when meta-reviewing a *re*submission:
    * If any of the reviewers on the previous submission are not reviewing the resubmission, take care to check whether the revision responds to their important concerns.
    * A new reviewer brings a fresh set of eyes to the paper, which can be useful for getting feedback focused on the revised version. At the same time, a new reviewer may raise objections that could have been raised about the original submission, but weren't. Unless any of these objections are truly crucial points that were missed in the previous round, try to avoid creating a moving target for authors in your assessment of whether the paper has improved or not.
    * Consider stating in the metareview whether the set of reviewers is the same, or whether there are any new reviewers. This helps make the process more transparent to the authors.
+
+**Acknowledgements** This tutorial was authored with input from Goran Glavaš, Nathan Schneider, Amanda Stent and the ACL 2022 program chairs.
