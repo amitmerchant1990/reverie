@@ -3,6 +3,7 @@ layout: page
 title: "For Action Editors"
 permalink: /aes
 ---
+New to being an action editor, or need a refresher? Check out our [Action Editor tutorial](https://aclrollingreview.org/aetutorial)! Also, see [this guide](https://cutt.ly/kYV4VHO) for help with common OpenReview tasks associated with action editor duties.
 
 # What is an Action Editor
 
