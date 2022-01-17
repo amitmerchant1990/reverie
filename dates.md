@@ -22,6 +22,7 @@ You can add these dates to your own calendar by subscribing to or downloading [t
 
 *Please note, certain deadlines have modified timelines:*
 - *November 2021, see [this blog post](https://aclrollingreview.org/modified-timeline-November/).*
+- *December 2021, see [this blog post](https://aclrollingreview.org/modified-timeline-December/).*
 - *January 2022, see [this blog post](https://aclrollingreview.org/Modified-timeline-January/).*
 
 
