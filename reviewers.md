@@ -106,6 +106,10 @@ Please inform the action editor in charge of your paper.
 - Is the submission (including paper and any supplemental materials) anonymized?
 - Is this paper already published elsewhere?
 
+## Resubmissions
+
+**Q**: If I'm reviewing a resubmission (that I reviewed before) do I have to write a very different review?<br>
+**A**: No! You may choose to, and perhaps should, focus on whether and how the authors responded to the previous reviews. It’s very helpful if you can indicate that you read their response and say whether you feel weaknesses/revisions were addressed or not.
 
 ## Other Questions
 
