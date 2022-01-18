@@ -18,7 +18,7 @@ A function can be marked _inline_ when it has lambdas as parameters, also known 
 A Higher Order Function is a function that takes other functions as parameters, or returns a new function. We call `map` a HOF since it takes another function `transform` as a parameter. 
 
 ```kotlin
-inline fun <A, B> Iterable<A>.map(transform: (A) -> B): List<A>
+inline fun <A, B> Iterable<A>.map(transform: (A) -> B): List<B>
 ```
 
 `Iterable.map` is probably the best known one.
