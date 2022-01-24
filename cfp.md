@@ -140,6 +140,13 @@ Authors may withdraw their submission at any time. However, a submission that is
 
 Submissions that violate this requirement will be desk rejected.
 
+### Reviewing Requirement
+As indicated on the submission form, submitting to ARR comes with the requirement of accepting to review if asked to. We appreciate all the engagement of reviewers and AEs who are providing a crucial service to the community, which will benefit authors in their research: The success of peer review crucially depends on authors reviewing submissions by others. Hence, ARR will not be able to guarantee reviews of papers of authors who fail to fulfill their [reviewer duties](https://aclrollingreview.org/reviewers).
+
+* AEs (and SACs) will not be asked to review new papers on top of their ARR duties (they might be asked to work on resubmissions of papers they already AEed/reviewed).
+* There are of course legitimate reasons for one to suddenly be unavailable to review, and we will understand these.
+* ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing requests. The total load is limited to a certain level (around 8) over the past 3 months, so if you have many assignments over the past 1-2 ARR cycles you will have fewer (or even no assignments) in the current ARR cycle.
+
 
 ### Submission Criteria
 
