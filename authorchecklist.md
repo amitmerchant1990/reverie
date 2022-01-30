@@ -12,7 +12,7 @@ All authors must have complete OpenReview profiles. Please ensure profiles are c
 
 ## Paper Format
 
-The template both exemplifies and contains paper format guidelines. These are also available [here](https://acl-org.github.io/ACLPUB/formatting.html).
+The template and guidelines are available from [here](https://acl-org.github.io/ACLPUB/formatting.html).
 
 For ARR submissions, references and appendices should be included in the pdf for the paper, but do not count towards the page limit.
 
