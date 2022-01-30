@@ -7,6 +7,7 @@ permalink: /authors
 Quick links:
 * [Call For Papers](/cfp)
 * [Authors' Guide to OpenReview](https://cutt.ly/NUBnqFq)
+* [Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch)
 * [Author Checklist](/authorchecklist)
 * [2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
 * [Volunteer to Be a Reviewer](https://cutt.ly/eIsbeI0)
