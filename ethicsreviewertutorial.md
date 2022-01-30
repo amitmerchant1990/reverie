@@ -50,4 +50,4 @@ Here are some examples that do not adhere to the above guidelines:
 Acknowledgements
 -----------------
 
-This document was drafted by Amanda Stent and reviewed and edited by Tim Baldwin, Anna Rogers and members of the ACL Ethics Committee. 
+This document was drafted by Amanda Stent and reviewed and edited by Tim Baldwin, Anna Rogers, the NAACL 2022 ethics chairs Kai-Wei Chang and Diyi Yang, and members of the ACL Ethics Committee. 
