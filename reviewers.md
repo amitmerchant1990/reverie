@@ -4,7 +4,12 @@ title: "For Reviewers"
 permalink: /reviewers
 ---
 
-New to reviewing, or need a refresher? Check out our [reviewer tutorial](/reviewertutorial)! Also, see [this guide](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p) for help with common OpenReview tasks associated with reviewing. 
+Quick links:
+* [Reviewers' Guide to OpenReview](https://cutt.ly/pTvDRZP)
+* [Reviewer Tutorial](/reviewertutorial)
+* [Guidelines for Ethics Reviewers](/ethicsreviewertutoral)
+* [Set / Update Your Max Load](https://cutt.ly/8UBv5p1)
+* [Set / Update Your Unavailability](https://cutt.ly/SUBv17v)
 
 # Reviewer Responsibilities
 
