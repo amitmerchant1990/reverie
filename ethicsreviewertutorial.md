@@ -47,7 +47,4 @@ Here are some examples that do not adhere to the above guidelines:
 * *This work will lead to biases in how medical diagnoses are made.* (Good problem statement, but incomplete: what part of the ACL code of ethics is violated, and how might the authors address or correct this?)
 * *This model achieves only 60% accuracy on this data set, even though the authors have deployed it in the educational system in their country. That means that they haven’t followed the ethical rule to “take special care of systems that become integrated into the infrastructure of society”. They should withdraw the model from use, or insist on a human in the loop at all times.* (Depending on the nature of the model, 60% accuracy may very well be state of the art, and the model may have documented utility even at that level of accuracy. If there is an issue of ethical practice here - and contemporary NLP researchers may disagree - the authors should perhaps discuss how they are going to mitigate the weaknesses of the model; a human in the loop is one possibility, but not the only one.)
 
-Acknowledgements
------------------
-
-This document was drafted for ARR by Amanda Stent and reviewed and edited by Tim Baldwin, Anna Rogers, the NAACL 2022 ethics chairs Kai-Wei Chang and Diyi Yang, and members of the ACL Ethics Committee. 
+__Acknowledgements:__ This document was drafted for ARR by Amanda Stent and reviewed and edited by Tim Baldwin, Anna Rogers, the NAACL 2022 ethics chairs Kai-Wei Chang and Diyi Yang, and members of the ACL Ethics Committee. 
