@@ -4,8 +4,6 @@ title: "Action Editor Guide to Meta-Reviewing"
 permalink: /aetutorial
 ---
 
-AE Guide to meta-reviewing and Additional Resources
-
 Action Editors play a central role in making the ARR process smooth and in ensuring that the reviews are of high quality and provide constructive feedback to the authors. In other words, it is the job of the AEs to make sure that each ARR submission receives (at least) three high-quality reviews by the time the reviews are scheduled to be released to the authors. As the job of AEs is to ensure the high quality of the reviews, please also thoroughly read the [guidelines for reviewers](https://aclrollingreview.org/reviewertutorial) in addition to reading each paper.
 
 After performing a compliance check for a submission and assigning the reviewers, the central activity of an AE is to write a meta-review based on the reviews. The reviewers may have opposing views on the merits and the shortcomings of a submission. A good AE will thoroughly read all reviews, will understand the main points of praise and criticism by each of the reviewers, and will instigate the discussion centered around the disagreeing views about the submission's merits. Particularly if there are disagreeing opinions among the reviewers, the AE should also carefully read the paper to be able to lead a meaningful discussion.
