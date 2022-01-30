@@ -18,7 +18,7 @@ An ethics review is not a complete technical review. Your focus should be on add
 Section 2. Examples
 -----------------
 
-For purposes of illustration, ethical issues that may arise in submissions to ARR include (but are not limited to; please refer to https://aclrollingreview.org/responsibleNLPresearch/): 
+For purposes of illustration, ethical issues that may arise in submissions to ARR include (but are not limited to; please refer to [the Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch/): 
 * Issues with the intended or potential __applications__ of the research (i.e., dual use), for example: 
   * Sections 1.1 (“Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing”) and 1.2 (“Avoid harm”) - failure to consider how applications of the research may harm individuals, groups or society at large; failure to discuss ways to mitigate such harms.
   * Section 2.5 (“Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks”) - failure to consider other possible risks of applications of the research; failure to discuss ways to mitigate such risks.
