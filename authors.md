@@ -4,24 +4,19 @@ title: "For Authors"
 permalink: /authors
 ---
 
-ACL Rolling Review offers the following:
-* a monthly submission deadline
-* receive reviews in a month
-* revise and resubmit as needed
-* one click to submit to a conference or workshop
-* optional anonymous preprint
+Quick links:
+* [Call For Papers](/cfp)
+* [Authors' Guide to OpenReview](https://cutt.ly/NUBnqFq)
+* [Author Checklist](/authorchecklist)
+* [2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
+* [Volunteer to Be a Reviewer](https://cutt.ly/eIsbeI0)
+* [Volunteer to Be an Emergency Reviewer](https://cutt.ly/KOhbzE1)
 
-If you would like to submit to ACL rolling review, please first see the [Call For Papers](/cfp) and [Author Checklist](/authorchecklist).
-
-We have an [OpenReview tutorial for authors](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit?usp=sharing).
-
-# Submission Sites
-
-[2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
+# Commitment Sites
 
 [ACL 2022 Commitment Site](https://openreview.net/group?id=aclweb.org/ACL/2022/Conference)
 
-[Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
+[Commitment Form for other venues](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
 
 # Frequently Asked Questions for Authors
 
