@@ -8,12 +8,12 @@ Section 1. Scope
 -----------------
 
 An ethics review is not a complete technical review. Your focus should be on addressing:
-1) Are there any *substantial ethical issues* with the research presented in this submission? 
-  a) A "substantial ethical issue" means the work exhibits an increased risk of harm outside the current norms of NLP or CL research. Of course, norms evolve. 
-  b) Consider the paper, supplemental materials, and the ethics and reproducibility checklist completed by the authors; however, the paper should stand on its own. 
-  c) Please keep in mind this is not a scientific review. Your focus is only on the ethical issues and their presentation. You do not need to check any equations, thoroughness of citations (except as they pertain to ethical issues), or provide any feedback on experimental design or grammar/typos/writing style.
-2) If there are one or more ethical issues, describe each in terms of the ACL code of ethics. If you cannot describe the issue in terms of the ACL code of ethics, please consider whether this is something the community agrees is an issue. Please refrain from relying on regional or national laws, regulations or practices in your ethics review, since the submission may be from another country or region. What governs acceptable practice in *ACL venues is the ACL code of ethics. Bear in mind that notions of ethical behavior and practice vary over time and across cultures. If you have questions, please contact the ACL ethics committee.
-3) For each ethical issue you identify, describe how you would suggest the authors address it.
+1. Are there any *substantial ethical issues* with the research presented in this submission? 
+   1. A "substantial ethical issue" means the work exhibits an increased risk of harm outside the current norms of NLP or CL research. Of course, norms evolve. 
+   2. Consider the paper, supplemental materials, and the ethics and reproducibility checklist completed by the authors; however, the paper should stand on its own. 
+   3. Please keep in mind this is not a scientific review. Your focus is only on the ethical issues and their presentation. You do not need to check any equations, thoroughness of citations (except as they pertain to ethical issues), or provide any feedback on experimental design or grammar/typos/writing style.
+2. If there are one or more ethical issues, describe each in terms of the ACL code of ethics. If you cannot describe the issue in terms of the ACL code of ethics, please consider whether this is something the community agrees is an issue. Please refrain from relying on regional or national laws, regulations or practices in your ethics review, since the submission may be from another country or region. What governs acceptable practice in *ACL venues is the ACL code of ethics. Bear in mind that notions of ethical behavior and practice vary over time and across cultures. If you have questions, please contact the ACL ethics committee.
+3. For each ethical issue you identify, describe how you would suggest the authors address it.
 
 Section 2. Examples
 -----------------
