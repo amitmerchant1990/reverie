@@ -9,6 +9,8 @@ Quick links:
 * [Authors' Guide to OpenReview](https://cutt.ly/NUBnqFq)
 * [Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch)
 * [Author Checklist](/authorchecklist)
+  * [Submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
+  * [Responsible NLP research template](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
 * [2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
 * [Volunteer to Be a Reviewer](https://cutt.ly/eIsbeI0)
 * [Volunteer to Be an Emergency Reviewer](https://cutt.ly/KOhbzE1)
