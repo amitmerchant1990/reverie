@@ -30,18 +30,9 @@ You can see more information about the reviewing schedule on the [Dates and Venu
 
 AEs serve for an initial term of one year, renewable. We will have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to handle many papers at a time as opposed to a few every month. 
 
-Action editors may indicate that they are unavailable for a period of time. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u).
+Action editors may indicate that they are unavailable for a period of time. To do so, please complete [this form](https://cutt.ly/SUBv17v).
 
-
-# Interest Survey
-
-Interested in reviewing for ACL Rolling Review?
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UOVAyS0NFOVZLUlZYWEZEM043QVhZS1ZOOS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-We are also recruiting volunteer emergency action editors:
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMFlINUlXRldFSEZZS0pMTzdCV0tMTEVNSS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Action editors may set a max load per month. To do so, please complete [this form](https://cutt.ly/8UBv5p1).
 
 # FAQ
 
