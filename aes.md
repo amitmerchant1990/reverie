@@ -9,6 +9,8 @@ Quick Links:
 * [Action Editor Tutorial](/aetutorial)
 * [Set / Update Your Max Load](https://cutt.ly/8UBv5p1)
 * [Set / Update Your Unavailability](https://cutt.ly/SUBv17v)
+* [Volunteer to Be an Action Editor](https://cutt.ly/eIsbeI0)
+* [Volunteer to Be an Emergency Action Editor](https://cutt.ly/KOhbzE1)
 
 # What is an Action Editor
 
