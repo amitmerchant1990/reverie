@@ -7,7 +7,7 @@ permalink: /reviewers
 Quick links:
 * [Reviewers' Guide to OpenReview](https://cutt.ly/pTvDRZP)
 * [Reviewer Tutorial](/reviewertutorial)
-* [Guidelines for Ethics Reviewers](/ethicsreviewertutoral)
+* [Guidelines for Ethics Reviewers](/ethicsreviewertutorial)
 * [Set / Update Your Max Load](https://cutt.ly/8UBv5p1)
 * [Set / Update Your Unavailability](https://cutt.ly/SUBv17v)
 
