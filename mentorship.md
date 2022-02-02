@@ -36,7 +36,7 @@ We are looking for current ARR reviewers and action editors willing to mentor ju
 ## Material for Mentors and Mentees
 The primary reading material for mentors and mentees is our ARR tutorial at
 
-<https://docs.google.com/document/d/1CWTcbqTIisMobo9Iksb5lQW2gnV66pFRk_JNb_2e9yo/edit#>
+<https://aclrollingreview.org/reviewertutorial>
 
 We ask mentees to go through this material (in full). While we expect mentors to have sufficient review experience, we still recommend them to review the material too in order to align with ARR expectations and help with communicating what good and bad reviews are. 
 
