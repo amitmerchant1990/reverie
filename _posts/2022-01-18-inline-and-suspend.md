@@ -59,7 +59,7 @@ suspend fun twice() = example() + example()
 In concurrency that means we can work with `JVM Future` or `JS Promise` without having to write callback based code.
 This is very powerful, as we can now write “regular imperative” to describe powerful async workflows,
 but it also allows for very interesting use-cases outside of concurrency.
-A great example is discussed at length in my previous [blogpost](here). 
+A great example is discussed at length in my previous [blogpost](https://nomisrev.github.io/continuation-monad-in-kotlin/). 
 
 The compiler also verifies that suspending code can only be called from other suspending code, so that you can never accidentally call suspending code from places that do not support it.
 
