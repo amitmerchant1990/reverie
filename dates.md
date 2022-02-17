@@ -49,16 +49,3 @@ Current publication venues participating in ARR are listed below. If you represe
 | March 15, 2022 11:59pm AOE | | [INLG 2022](https://inlgmeeting.github.io) | |
 
 AOE: anywhere on earth.
-
-## Statistics
-
-| Month | Submissions | Disclosed Preprints | ARR Hosted Preprints | Resubmissions | Desk Rejected | Withdrawn | 
-|-------|-------------|---------------|---------------|-----------|----------------|-----------|
-| May 2021 | 63 | 15 | 29 | 0 | 1 | 7 | 
-| June 2021 | 23 | 5 | 13 | 0 | 0 | 3 | 
-| July 2021 | 27 | 11 | 10 | 1 | 0 | 1 | 
-| August 2021 | 40 | 15 | 19 | 0 | 0 | 3 |
-| September 2021 | 289 | 52 | 93 | 8 | 5 | 18 |
-| October 2021 | 347 | 73 | 118 | 7 | 5 | 11 |
-| November 2021 | 2881 | 379 | 974 | 202 | 44 | 11 |
-
