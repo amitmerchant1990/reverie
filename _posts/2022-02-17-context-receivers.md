@@ -129,7 +129,7 @@ Let's look at a quick example of what that might look like:
 data class User(val uuid: UUID)
 data class DbError(val error: Throwable)
 
-interface Users { // Normally we'd use an interface here
+interface Users {
   context(EffectScope<DbError>)
   suspend fun fetchUser(uuid: UUID): User = User(uuid)
   
@@ -139,7 +139,7 @@ interface Users { // Normally we'd use an interface here
 data class Profile(val uuid: UUID)
 data class NetworkError(val error: Throwable)
 
-interface Profiles { // Normally we'd use an interface here
+interface Profiles {
   context(EffectScope<NetworkError>)
   suspend fun fetchProfile(user: User): Profile = Profile(user.uuid)
 
