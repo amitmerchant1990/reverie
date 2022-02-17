@@ -47,5 +47,6 @@ Current publication venues participating in ARR are listed below. If you represe
 | January 15, 2022 11:59pm AOE | February 21, 2022 | [NAACL 2022](https://2022.naacl.org/) (March 2, 2022) | |
 | February 15, 2022 11:59pm AOE | March 21, 2022 | | |
 | March 15, 2022 11:59pm AOE | | [INLG 2022](https://inlgmeeting.github.io) | |
+| April 15, 2022 11:59pm AOE | | [SIGDIAL 2022](https://2022.sigdial.org/) | |
 
 AOE: anywhere on earth.
