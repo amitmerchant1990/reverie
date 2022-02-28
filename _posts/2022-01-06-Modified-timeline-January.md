@@ -1,4 +1,4 @@
-As in November, ARR will have a slightly modified timeline in January:
+As in November, ARR will have a slightly modified timeline in January (ntoe that all deadlines are 11:59pm AOE):
 * January 15th: Submission deadline
 * January 16th-24th: Reviewer/AE assignment
 * January 24th-27th: SAC/AE paper check and reassignment
