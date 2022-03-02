@@ -19,7 +19,7 @@ Quick links:
 
 [ACL 2022 Commitment Site](https://openreview.net/group?id=aclweb.org/ACL/2022/Conference)
 
-[Commitment Form for other venues](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u)
+[NAACL 2022 Commitment Site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference)
 
 # Frequently Asked Questions for Authors
 
