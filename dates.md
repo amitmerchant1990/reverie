@@ -49,7 +49,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL) | past |
 | [NAACL 2022](https://2022.naacl.org/) | 4 March 2022 |
 | [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML) | 6 March 2022 |
-| [](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/) | 14 March 2022 |
+| [WIT 2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/) | 14 March 2022 |
 | [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power) | 16 March 2022 |
 | [Repl4NLP 2022](https://sites.google.com/view/repl4nlp2022/) | 21 March 2022 |
 | [CSSR 2022](https://csrr-workshop.github.io/) | 21 March 2022 |
