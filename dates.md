@@ -28,7 +28,7 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 - revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
 - submit their paper *and reviews* to a publication venue
 
-Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please contact the [ARR editors](/people).
+Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](https://aclrollingreview.org/organizers).
 
 | Venue | Commitment Date |
 |---------------------|------------|
