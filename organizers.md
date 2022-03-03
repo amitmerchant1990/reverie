@@ -17,7 +17,7 @@ For "Hybrid" venues, ARR is mostly venue-agnostic. We will list such venues on o
 
 ## Subscribing to ARR (Full or Hybrid)
 
-Organizers of venues that would like to subscribe to ARR (either in Full or Hybrid setup) should make a pull request to https://github.com/acl-org/aclrollingreview/blob/main/dates.md. They should update this file with the following information:
+Organizers of venues that would like to subscribe to ARR (either in Full or Hybrid setup) should make a pull request to [the ARR venues page](https://github.com/acl-org/aclrollingreview/blob/main/dates.md). They should update this file with the following information:
 
 - Venue name and website
 - Planned commitment deadline
