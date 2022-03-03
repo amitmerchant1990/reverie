@@ -46,7 +46,11 @@ Current publication venues participating in ARR are listed below. If you represe
 | [NLP Insights 2021](https://insights-workshop.github.io/) | past |
 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) | past | 
 | [ACL 2022](https://www.2022.aclweb.org/) | past |
-| [NAACL 2022](https://2022.naacl.org/) | |
-| [INLG 2022](https://inlgmeeting.github.io) | |
-| [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL) | |
+| [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL) | past |
+| [NAACL 2022](https://2022.naacl.org/) | 4 March 2022 |
+| [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML) | 6 March 2022 |
+| [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power) | 16 March 2022 |
+| [Spa-NLP 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP) | 24 March 2022 |
+| [CSSR 2022](https://csrr-workshop.github.io/) | 21 March 2022 |
+| [INLG 2022](https://inlgmeeting.github.io) | 3 May 2022 |
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
