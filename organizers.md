@@ -17,17 +17,17 @@ For "Hybrid" venues, ARR is mostly venue-agnostic. We will list such venues on o
 
 ## Subscribing to ARR (Full or Hybrid)
 
-Organizers of venues that would like to subscribe to ARR (either in Full or Hybrid setup) should contact ARR Editors (`editors@aclrollingreview.org`) as soon as they finalize their decision to go (fully or partially) with ARR. ARR should be provided with the following information
+Organizers of venues that would like to subscribe to ARR (either in Full or Hybrid setup) should make a pull request to https://github.com/acl-org/aclrollingreview/blob/main/dates.md. They should update this file with the following information:
 
-- Venue name and acronym (for the website and submission form)
-- Planned commitment deadline (based on this, the ARR will determine the set of cycles for which the authors will receive the reviews in time to commit to the venue, should they choose so)
+- Venue name and website
+- Planned commitment deadline
 
 ## Commitment (fetching ARR Reviews)
 
 Venue organizers need to decide the exact mechanism by which they will enable authors of ARR-processed papers to commit to their venue. ARR (in collaboration with OpenReview) will then provide access to the all reviews of the committed papers. In principle, there are the following options: 
 
 1. The venue uses OpenReview
-	- In this case, the organizers first need to contact OpenReview (`info@openreview.net`) to create their own venue instance and inform the OpenReview that they subscribe to ARR 
+	- In this case, the organizers should contact OpenReview (`info@openreview.net`) to create their own venue instance and inform the OpenReview that they subscribe to ARR 
 	- The venue needs to create a commitment form for authors to commit their ARR-processed papers: there needs to be a field in which authors will simply copy the URL to the OpenReview forum of their ARR submission 
 		- For Full ARR venues, this commitment form is the only submission form to be created;
 		- Hybrid venues that use OpenReview should use two submission buttons in a single OpenReview instance, or two separate venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers. We recommend coordinatation with OpenReview to decide on the best configuration;
