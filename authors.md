@@ -49,7 +49,7 @@ See the questions below for more information.
 **A**: If you feel that you need a new reviewer or action editor for your paper, there are fields in the submission form (starting September 2021) where you can request one or more reviewers or the action editor to be replaced, and justify your request. These requests will be considered seriously and either accepted or denied based on their appropriateness.
 
 **Q**: I want to submit my paper+reviews to a publication venue. How?<br>
-**A**: *After* you receive your reviews, you will indicate your interest in submitting to ACL 2022 through https://openreview.net/group?id=aclweb.org/ACL/2022/Conference and to other venues through the [Paper+Review Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMzZSQ042N0JXQUtaMTJNSDlSR0JRVDZPSS4u). 
+**A**: *After* you receive your reviews, you will indicate your interest in submitting to ACL 2022 through [this link](https://openreview.net/group?id=aclweb.org/ACL/2022/Conference) and to NAACL 2022 through [this link](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference). 
 
 **Q**: If I submit early, can I update my submission before the deadline?<br>
 **A**: Yes.
