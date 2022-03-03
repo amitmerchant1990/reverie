@@ -57,3 +57,4 @@ Current publication venues participating in ARR are listed below. If you represe
 | [FEVER 2022](https://fever.ai/) | 25 March 2022 |
 | [INLG 2022](https://inlgmeeting.github.io) | 3 May 2022 |
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
+| AACL-IJCNLP 2022 | 7 August 2022 |
