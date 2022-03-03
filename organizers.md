@@ -30,7 +30,7 @@ Venue organizers need to decide the exact mechanism by which they will enable au
 	- In this case, the organizers first need to contact OpenReview (`info@openreview.net`) to create their own venue instance and inform the OpenReview that they subscribe to ARR 
 	- The venue needs to create a commitment form for authors to commit their ARR-processed papers: there needs to be a field in which authors will simply copy the URL to the OpenReview forum of their ARR submission 
 		- For Full ARR venues, this commitment form is the only submission form to be created;
-		- Hybrid venues that use OpenReview may simply augment their regular submission form (for non-ARR submissions) with the field for the ARR URL (for commitment of ARR-processed papers); another possibility is to have two OpenReview instances or two submission forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers. We recommend coordinatation with OpenReview to decide on the best configuration;
+		- Hybrid venues that use OpenReview should use two submission buttons in a single OpenReview instance, or two separate venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers. We recommend coordinatation with OpenReview to decide on the best configuration;
 		- Instead of importing ARR reviews into the venue's OpenReview instance, OpenReview will provide read access to ARR forums of committed papers to the venue (assigned SACs, PCs)
 		
 2. The venue does not use OpenReview
