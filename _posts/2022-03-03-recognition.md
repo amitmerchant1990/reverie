@@ -1,4 +1,4 @@
-Action editors and reviewers may now request letters of recommendation for their ARR service! Instructions can be found in the:
+Action editors and reviewers may now request letters of recognition for their ARR service! Instructions can be found in the:
 * [Action editors' guide to OpenReview](https://cutt.ly/kYV4VHO)
 * [Reviewers' guide to OpenReview](https://cutt.ly/pTvDRZP)
 
