@@ -17,9 +17,7 @@ Quick links:
 
 # Commitment Sites
 
-[ACL 2022 Commitment Site](https://openreview.net/group?id=aclweb.org/ACL/2022/Conference)
-
-[NAACL 2022 Commitment Site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference)
+Please refer to [the list of venues](https://aclrollingreview.org/dates) and click through to the venue's website to find out how to commit your paper + reviews.
 
 # Frequently Asked Questions for Authors
 
