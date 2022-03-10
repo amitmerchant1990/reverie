@@ -136,7 +136,7 @@ We reserve the right to reject papers on ethical grounds, where the authors are 
 
 ### Withdrawal Policy
 
-Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle. So, a submission made to a March deadline and withdrawn after March 17th, may not be resubmitted until the May cycle.
+Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle, so withdrawing after this time requires contacting the action editors. 
 
 Submissions that violate this requirement will be desk rejected.
 
