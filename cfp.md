@@ -138,7 +138,7 @@ We reserve the right to reject papers on ethical grounds, where the authors are 
 
 Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle, so withdrawing after this time requires contacting the action editors. 
 
-Submissions that violate this requirement will be desk rejected.
+Submissions are withdrawn from one cycel and submitted to the next cycle will be desk rejected.
 
 ### Reviewing Requirement
 As indicated on the submission form, submitting to ARR comes with the requirement of accepting to review if asked to. We appreciate all the engagement of reviewers and AEs who are providing a crucial service to the community, which will benefit authors in their research: The success of peer review crucially depends on authors reviewing submissions by others. Hence, ARR will not be able to guarantee reviews of papers of authors who fail to fulfill their [reviewer duties](https://aclrollingreview.org/reviewers).
