@@ -106,7 +106,7 @@ For more information, see the [ACL Policies for Submission, Review, and Citation
 
 ### Multiple Submission Policy
 
-ARR precludes multiple submissions. ARR will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ARR review period. This policy covers all journals and refereed and archival conferences and workshops without exception  (e.g., TACL, Computational Linguistics, IJCAI, SIGIR, AAAI, ICASSP, ICML, Neurips, etc).
+ARR precludes multiple submissions. ARR will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ARR review period. This policy covers all journals and refereed and archival conferences and workshops without exception  (e.g., TACL, Computational Linguistics, IJCAI, SIGIR, AAAI, ICASSP, ICML, NeurIPS, etc).
 In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere, without exception. 
 
 For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR.
