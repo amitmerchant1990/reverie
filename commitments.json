@@ -1,0 +1,73 @@
+{
+    "title": {
+        "description": "Provide the title of the ARR submission that you want to commit to this venue.",
+        "order": 1,
+        "value-regex": ".{1,250}",
+        "required": true
+    },
+    "paper_link": {
+        "description": "Provide the link to your previous ARR submission. Please link to the most recent version.",
+        "order": 2,
+        "value-regex": ".{1,250}",
+        "required": true
+    },
+    "paper_type": {
+        "description": "Short or long. See the CFP for the requirements for short and long papers.",
+        "value-radio": [
+            "long",
+            "short"
+        ],
+        "order": 3,
+        "required": true
+    },
+    "authors": {
+        "description": "Comma separated list of author names.",
+        "order": 4,
+        "values-regex": "[^;,\\n]+(,[^,\\n]+)*",
+        "required": true,
+        "hidden": true
+    },
+    "authorids": {
+        "description": "Search author profile by first, middle and last name or email address. If the profile is not found, you can add the author by completing first, middle, and last names as well as author email address.",
+        "order": 5,
+        "values-regex": "~.*|([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,},){0,}([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,})",
+        "required": true
+    },
+    "comment": {
+        "description": "Optional comments to the program chairs. These comments are mainly to raise potential concerns about objective misunderstandings by the reviewers and/or by the action editor that the authors believe will help the SACs in their decision making process.  Note that these comments will NOT go to the ARR reviewers, nor will they be seen by the ARR action editor. ",
+        "order": 6,
+        "value-regex": "[\\S\\s]{1,5000}",
+        "required": false
+    },
+    "preprint": {
+        "description": "Would the authors like to have a public anonymous pre-print of the submission?",
+        "value-radio": [
+            "yes",
+            "no"
+        ],
+        "order": 7,
+        "required": true
+    },
+    "existing_preprints": {
+        "description": "If there are any publicly available non-anonymous preprints of this paper, list them here (provide the URLs).",
+        "value-regex": ".{1,1000}",
+        "order": 8,
+        "required": false
+    },
+    "authorship": {
+        "description": "I confirm that I am one of the authors of this paper.",
+        "value-radio": [
+            "yes"
+        ],
+        "order": 9,
+        "required": true
+    },
+    "paper_version": {
+        "description": "I confirm that this link is for the latest version of the paper in ARR that has reviews and a meta-review.",
+        "value-radio": [
+            "yes"
+        ],
+        "order": 10,
+        "required": true
+    }
+}
