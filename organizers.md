@@ -41,7 +41,7 @@ Venue organizers need to decide the exact mechanism by which they will enable au
 	
 ## Setting Up an OpenReview Commitment Site
 
-Once the OpenReview site is set up, the program chairs can navigate to the request form and click on the "Revision" Tab. It is suggested that organizers configure the site as pictured in [picture of OpenReview site with options checked for nonpublic anonymous submissions](https://aclrollingreview.org/images/VenuesOR.png) and add the [additional submission options json](commitments.json).
+Once the OpenReview site is set up, the program chairs can navigate to the request form and click on the "Revision" Tab. It is suggested that organizers configure the site as pictured in [picture of OpenReview site with options checked for nonpublic anonymous submissions](https://aclrollingreview.org/images/VenuesOR.PNG) and add the [additional submission options json](commitments.json).
 
 ## Duplicate Submissions
 
