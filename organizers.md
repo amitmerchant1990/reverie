@@ -39,9 +39,13 @@ Venue organizers need to decide the exact mechanism by which they will enable au
 	- The organizers send to ARR the list of committed papers (the list of URLs of OpenReview forums of committed papers)
 	- ARR exports the reviews for committed papers and ships them to the venue organizers
 	
-## Informing ARR of venue's decisions
+## Duplicate Submissions
 
-ARR provides reviews, it does not make any acceptance or rejection decisions for the venues. ARR, however, forbids revisions to be submitted to ARR while the paper is under consideration (i.e., committed) for publication in a venue. Also, naturally, papers archived in venue's proceedings can no longer be revised and resubmitted to ARR. This is why, once the venue finalizes their program/proceedings, organizers need to send back to ARR the list of ARR-reviewed submissions that had been committed, with the indication on whether the paper is archived in venue's proceedings (papers accepted for non-archival participation in the venue, are not forbidden from resubmissions to ARR).   
+Venues subscribing to ARR as hybrid are encouraged to adopt the following wording: *A paper may not be simultaneously under review through ARR and YOUR_VENUE. A paper that has or will receive reviews through ARR may not be submitted for review to YOUR_VENUE.*
+
+## Informing ARR of Decisions
+
+ARR provides reviews, it does not make any acceptance or rejection decisions for the venues. ARR, however, forbids revisions to be submitted to ARR while the paper is under consideration (i.e., committed) for publication in a venue. Also, naturally, papers archived in venue's proceedings can no longer be revised and resubmitted to ARR. This is why, once the venue finalizes their program/proceedings, organizers are encouraged to send back to ARR the list of ARR-reviewed submissions that had been committed, with the indication on whether the paper is archived in venue's proceedings (papers accepted for non-archival participation in the venue, are not forbidden from resubmissions to ARR).   
  
 
 
