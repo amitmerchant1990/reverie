@@ -39,6 +39,10 @@ Venue organizers need to decide the exact mechanism by which they will enable au
 	- The organizers send to ARR the list of committed papers (the list of URLs of OpenReview forums of committed papers)
 	- ARR exports the reviews for committed papers and ships them to the venue organizers
 	
+## Setting Up an OpenReview Commitment Site
+
+Once the OpenReview site is set up, the program chairs can navigate to the request form and click on the "Revision" Tab. It is suggested that organizers configure the site as pictured in [picture of OpenReview site with options checked for nonpublic anonymous submissions](https://aclrollingreview.org/images/VenuesOR.png) and add the [additional submission options json](commitments.json).
+
 ## Duplicate Submissions
 
 Venues subscribing to ARR as hybrid are encouraged to adopt the following wording: *A paper may not be simultaneously under review through ARR and YOUR_VENUE. A paper that has or will receive reviews through ARR may not be submitted for review to YOUR_VENUE.*
