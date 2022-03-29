@@ -58,5 +58,6 @@ Current publication venues participating in ARR are listed below. If you represe
 | [StarSEM2022](https://sites.google.com/view/starsem2022/) | 16 April 2022 | 
 | [Clinical NLP 2022](https://clinical-nlp.github.io/2022/) | 24 Apr 2022 |
 | [INLG 2022](https://inlgmeeting.github.io) | 3 May 2022 |
+| [NLG4Health] (https://nlg4health.uvt.nl/) | 1 June 2022 |
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
 | AACL-IJCNLP 2022 | 7 August 2022 |
