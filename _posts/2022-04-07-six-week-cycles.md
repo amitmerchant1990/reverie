@@ -4,7 +4,7 @@ Why?
 ----
 
 The original proposal for ACL Rolling Review was for a [five-week cycle with monthly deadlines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal). However:
-* It takes more time than anticipated to check submissions and resubmissions and handle (re)assignments and desk rejects each cycle, especially in months with more than 300 submissions. Just running the code for reviewer assignment takes several hours, and then action editors and reviewers propose modifications.
+* It takes more time than anticipated to check submissions and resubmissions and handle (re)assignments and desk rejects each cycle, especially in months with more than 300 submissions. Just running the code for reviewer assignment takes several hours, and then action editors and reviewers propose modifications which are made by hand.
 * Chasing after reviewers, and doing emergency reviewing and meta reviewing, takes time.
 * It is confusing for action editors, reviewers and the tech team when cycles overlap.
 
