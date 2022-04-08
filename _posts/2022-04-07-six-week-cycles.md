@@ -31,5 +31,5 @@ With this cycle, authors will typically have six weeks to revise their submissio
 Now Can We Have Author Response?
 --------------------------------
 
-A six-week cycle allows for a *very brief* period for in-cycle author response to reviewers, to correct errors of fact or alert action editors to serious reviewer confusion. The primary means for authors to respond to reviewers will still be revise and resubmit. There will be more on this in the next blog post!
+A six-week cycle allows for a *very brief* period for in-cycle author response to reviews, to correct errors of fact or alert action editors to serious reviewer confusion. The primary means for authors to respond to reviewers will still be revise and resubmit. There will be more on this in the next blog post!
 
