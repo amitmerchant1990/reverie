@@ -21,7 +21,7 @@ There will be nine per year:
 * 1 December
 * 15 January
 
-Note that this set of deadlines avoids the dreaded "holiday deadline" that was 15 December 2021.
+This set of deadlines avoids the dreaded "holiday deadline" that was 15 December 2021.
 
 How Long Will I Have to Revise and Resubmit?
 --------------------------------------------
