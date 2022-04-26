@@ -6,21 +6,11 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-ARR deadlines have been __monthly__ on the 15th of each month from May 2021 to the present. 
+ARR deadlines happen __every 6 weeks__, on the following dates: 1/15, 3/1, 4/15, 6/1, 7/15, 9/1, 10/15, 12/1. In the past, deadlines were on the 15th of each month, but as described in [this blog post](https://aclrollingreview.org/six-week-cycles/), the change took place after the Apr 15th, 2022 deadline.
 
-ARR attempts to adhere to the following (tight) reviewing timeline. 
+The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released 6 weeks after the submission deadline. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
 
-Within each month, on:
-- day 0 - submission deadline
-- days 1 to 4 - action editor assignment
-- days 5 to 7 - desk rejects and reviewer assignment
-- day 7 to 1 month  - reviewing
-- 1 month to 1 month + 5 days - meta reviewing
-- 1 month + 6 days - reviews to authors
-
-The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released on the 21st of the month following the submission. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
-
-You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York).
+<!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
 ## Submission to Participating Venues
 
