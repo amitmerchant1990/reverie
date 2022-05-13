@@ -5,7 +5,7 @@ categories: [Science, Proteomics, Research Integrity, Machine Learning]
 excerpt: Proteomics and Machine Learning is an explosive combination. Explosive in the sense of rapidly expanding and with far-reaching impact.
 ---
 
-Proteomics and Machine Learning is an explosive combination. Explosive in the sense of rapidly expanding and with far-reaching impact. This became evident in a [Lorentz Center Workshop](https://www.lorentzcenter.nl/proteomics-and-machine-learning.html) on the topic held in Leiden March 14-18, 2022. 
+Proteomics and Machine Learning is an explosive combination. Explosive in the sense of rapidly expanding and with far-reaching impact. This became evident in a [Lorentz Center Workshop](https://www.lorentzcenter.nl/proteomics-and-machine-learning.html) on the topic held in Leiden March 14-18, 2022, co-organized with Viktoria Dorfer, Lennart Martens and Benjamin Neely.
 
 ![Workshop_Poster]({{magnuspalmblad.github.io}}/assets/proteomics-and-machine-learning-poster-pic-x300.jpg)
 
