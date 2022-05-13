@@ -53,7 +53,7 @@ Everything else might be important, but the content is essential
 
 Let it be about something everyone can connect to
 
-When you have all the pieces gathered
+When you have everything you need and the pieces gathered
 
 Go for it and don't look back!
 
