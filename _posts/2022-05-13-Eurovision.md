@@ -19,7 +19,7 @@ Step two, Drums!
 
 Drum home the main points
 
-In the abstract and again introduction, results and conclusions
+In the abstract and again in the introduction, results and conclusions
 
 Step three!
 
