@@ -58,3 +58,5 @@ When you have everything you need and the pieces gathered
 Go for it and don't look back!
 
 …
+
+This post is also featured on Ben Neely's (otherwise) excellent blog: https://neely.github.io/Eurovision/
