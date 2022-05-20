@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tortured Phrases and Plagerism
-categories: [plagerism, AI, GPT-3, Research Integrity, Paper Mills, Tortured Phrases]
+categories: [Plagerism, AI, GPT-3, Research Integrity, Paper Mills, Tortured Phrases]
 excerpt: Guest post by Ben Neely. In a recent lecture by Elisabeth Bik, the concept of "tortured phrases" came up. What are they, and can I make them? 
 ---
 
