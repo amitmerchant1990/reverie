@@ -5,7 +5,9 @@ categories: [Plagerism, AI, GPT-3, Research Integrity, Paper Mills, Tortured Phr
 excerpt: Guest post by Ben Neely. In a recent lecture by Elisabeth Bik, the concept of "tortured phrases" came up. What are they, and can I make them? 
 ---
 
-Guest post by Ben Neely. In a recent lecture by Elisabeth Bik, the concept of "tortured phrases" came up. What are they, and can I make them? 
+### Guest post by Ben Neely
+
+In a recent lecture by Elisabeth Bik, the concept of "tortured phrases" came up. What are they, and can I make them? 
 
 Last summer a paper came out from [Cabanac et al.](https://arxiv.org/abs/2107.06751) detailing how AI-powered text generation can yield phrases and word patterns that look a lot like human writing, except for certain "tortured phrases" that are obvious and often humerous mistranslations. An example they use is "counterfeit consciousness" instead of "artificial intelligence". In a recent lecture by Elisabeth Bik (@MicrobiomDigest) at the [Lorentz Center Workshop on Proteomics and Machine Learning](https://www.lorentzcenter.nl/proteomics-and-machine-learning.html), this concept was brought up, but even more simply that using word translations can generate undetectable plagerisms. 
 
