@@ -10,6 +10,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
+- Mausam, IIT Delhi
 - Pascale Fung, Hong Kong University of Science and Technology
 - Goran Glavaš, University of Mannheim
 - Sebastian Riedel, Facebook AI and University College London
@@ -24,6 +25,7 @@ Contact: `editors at aclrollingreview.org`
 ## Technical Staff
 
 - Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
+- Jonathan Kummerfeld, University of Sydney (Co-CTO)
 - Nils Dycke, TU Darmstadt
 - Pengfei Liu, Carnegie Mellon University
 - Yoshitomo Matsubara, UC Irvine
@@ -48,6 +50,10 @@ Contact: `support at aclrollingreview.org`
 - Anna Rogers, University of Copenhagen
 
 Contact: `mentorship@aclrollingreview.org`
+
+## Ethics Senior Action Editor
+
+- Dirk Hovy, Bocconi University
 
 ## Action Editors
 
