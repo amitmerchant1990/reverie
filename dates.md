@@ -52,3 +52,4 @@ Current publication venues participating in ARR are listed below. If you represe
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
 | [TRAC 2022](https://sites.google.com/view/trac2022/) | 31 July 2022 | 
 | AACL-IJCNLP 2022 | 7 August 2022 |
+| [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
