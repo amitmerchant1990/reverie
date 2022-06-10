@@ -11,7 +11,6 @@ If you want general support regarding ARR, please contact `support at aclrolling
 ## Editors in Chief
 
 - Mausam, IIT Delhi
-- Pascale Fung, Hong Kong University of Science and Technology
 - Goran Glavaš, University of Mannheim
 - Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg and Universiy of Houston
