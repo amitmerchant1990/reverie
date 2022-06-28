@@ -51,6 +51,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [NLG4Health](https://nlg4health.uvt.nl/) | 1 June 2022 |
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
 | [TRAC 2022](https://sites.google.com/view/trac2022/) | 31 July 2022 | 
+| [CoNLL 2022](https://conll.org/) | 1 August 2022 |
 | AACL-IJCNLP 2022 | 7 August 2022 |
 | [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
 | [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | October 2, 2022 |
