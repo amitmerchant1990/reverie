@@ -11,7 +11,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 ## Editors in Chief
 
 - Mausam, IIT Delhi
-- Goran Glavaš, University of Mannheim
+- Goran Glavaš, University of Würzburg
 - Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg and Universiy of Houston
 - Amanda Stent, Colby College
