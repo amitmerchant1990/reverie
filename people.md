@@ -13,7 +13,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 - Mausam, IIT Delhi
 - Goran Glavaš, University of Würzburg
 - Sebastian Riedel, Facebook AI and University College London
-- Thamar Solorio, Bloomberg and Universiy of Houston
+- Thamar Solorio, Bloomberg LP and University of Houston
 - Amanda Stent, Colby College
 
 Contact: `editors at aclrollingreview.org`
