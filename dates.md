@@ -59,3 +59,4 @@ Current publication venues participating in ARR are listed below. If you represe
 | [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/)) | October 2, 2022 |
 | [SereTOD 2022](http://seretod.org/) | October 2, 2022 |
 | [MMNLU 2022](https://mmnlu-22.github.io/) | October 2, 2022 |
+| [NLLP 2022](https://nllpw.org/) | October 15, 2022 |
