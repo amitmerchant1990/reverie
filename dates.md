@@ -37,22 +37,22 @@ Current publication venues participating in ARR are listed below. If you represe
 | [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) | past | 
 | [ACL 2022](https://www.2022.aclweb.org/) | past |
 | [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL) | past |
-| [NAACL 2022](https://2022.naacl.org/) | 4 March 2022 |
-| [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML) | 6 March 2022 |
-| [WIT 2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/) | 14 March 2022 |
-| [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power) | 16 March 2022 |
-| [Repl4NLP 2022](https://sites.google.com/view/repl4nlp2022/) | 21 March 2022 |
-| [CSSR 2022](https://csrr-workshop.github.io/) | 21 March 2022 |
-| [Spa-NLP 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP) | 24 March 2022 |
-| [FEVER 2022](https://fever.ai/) | 25 March 2022 |
-| [StarSEM2022](https://sites.google.com/view/starsem2022/) | 16 April 2022 | 
-| [Clinical NLP 2022](https://clinical-nlp.github.io/2022/) | 24 Apr 2022 |
-| [INLG 2022](https://inlgmeeting.github.io) | 3 May 2022 |
-| [NLG4Health](https://nlg4health.uvt.nl/) | 1 June 2022 |
+| [NAACL 2022](https://2022.naacl.org/) | past |
+| [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML) | past |
+| [WIT 2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/) | past |
+| [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power) | past |
+| [Repl4NLP 2022](https://sites.google.com/view/repl4nlp2022/) | past |
+| [CSSR 2022](https://csrr-workshop.github.io/) | past |
+| [Spa-NLP 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP) | past |
+| [FEVER 2022](https://fever.ai/) | past |
+| [StarSEM2022](https://sites.google.com/view/starsem2022/) | past | 
+| [Clinical NLP 2022](https://clinical-nlp.github.io/2022/) | past |
+| [INLG 2022](https://inlgmeeting.github.io) | past |
+| [NLG4Health](https://nlg4health.uvt.nl/) | past |
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
-| [TRAC 2022](https://sites.google.com/view/trac2022/) | 31 July 2022 | 
-| [CoNLL 2022](https://conll.org/) | 1 August 2022 |
-| AACL-IJCNLP 2022 | 7 August 2022 |
+| [TRAC 2022](https://sites.google.com/view/trac2022/) | past | 
+| [CoNLL 2022](https://conll.org/) | past |
+| AACL-IJCNLP 2022 | past |
 | [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
 | [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | October 2, 2022 |
 | [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | October 2, 2022 |
