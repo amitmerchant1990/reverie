@@ -123,7 +123,6 @@ Contact: `mentorship@aclrollingreview.org`
 - David McClosky, Google
 - David R Mortensen, Carnegie Mellon University
 - David Vilares, Universidade da Coruña
-- David Yarowsky, Johns Hopkins University
 - Dekang Lin, Google
 - Deyi Xiong, Tianjin University
 - Diarmuid O Seaghdha, Apple
