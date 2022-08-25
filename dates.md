@@ -56,7 +56,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
 | [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | October 2, 2022 |
 | [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | October 2, 2022 |
-| [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/)) | October 2, 2022 |
+| [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/) | October 2, 2022 |
 | [SereTOD 2022](http://seretod.org/) | October 2, 2022 |
 | [MMNLU 2022](https://mmnlu-22.github.io/) | October 2, 2022 |
 | [NLLP 2022](https://nllpw.org/) | October 15, 2022 |
