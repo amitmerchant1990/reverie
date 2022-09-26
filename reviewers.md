@@ -91,6 +91,9 @@ For messaging exclusively the action editors, please select only "area chairs" i
 - To communicate through email, you can find the name of the action editor on the "Paper Assignments" page in OpenReview, and click on their name.
 Their email will be anonymized on the OpenReview page itself (for privacy reasons), but you can often find it by clicking on the "Homepage" link or otherwise searching for their contact information by following the links in the profile.
 
+**Q**: I think I should have heard from ARR, but I haven't seen any emails. What's going on?<br>
+**A**: It's possible that the emails have been marked as spam -- check your spam folder!
+
 ## Desk Rejects
 
 **Q**: What should I do if I think the paper is in violation of the ARR guidelines?<br>
