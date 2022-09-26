@@ -83,6 +83,9 @@ Email `editors@aclrollingreview.org`.
 **A**: 
 Fill out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u) to indicate your unavailability for one or more months.
 
+**Q**: I think I should have heard from ARR, but I haven't seen any emails. What's going on?
+**A**: It's possible that the emails have been marked as spam -- check your spam folder!
+
 ## Reviewer Assignment
 
 **Q**: How do I check and modify reviewer assignments?<br>
