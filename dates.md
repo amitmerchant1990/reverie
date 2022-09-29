@@ -52,7 +52,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [SIGDIAL 2022](https://2022.sigdial.org/) | |
 | [TRAC 2022](https://sites.google.com/view/trac2022/) | past | 
 | [CoNLL 2022](https://conll.org/) | past |
-| [AACL-IJCNLP 2022](https://www.aacl2022.org/) | August 28th, 2022 |
+| [AACL-IJCNLP 2022](https://www.aacl2022.org/) | past |
 | [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
 | [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | October 2, 2022 |
 | [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | October 2, 2022 |
