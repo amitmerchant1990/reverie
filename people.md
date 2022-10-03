@@ -68,6 +68,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Allyson Ettinger, University of Chicago
 - Alon Jacovi
 - Amalia Todirascu, Université de Strasbourg
+- Amanda Stent, Colby College
 - Amine Trabelsi, Lakehead University
 - Amrith Krishna, University of Cambridge
 - Andrea Madotto
@@ -96,6 +97,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Caio Filippo Corro, LIMSI-CNRS / Université Paris-Sud
 - Carolin Lawrence, NEC Laboratories Europe
 - Cassandra L Jacobs, State University of New York, Buffalo
+- Cecilia Alm, Rochester Institute of Technology
 - Chandra Bhagavatula, Allen Institute for Artificial Intelligence
 - Chen-Tse Tsai, Bloomberg
 - Chloé Braud, CNRS
@@ -109,7 +111,6 @@ Contact: `mentorship@aclrollingreview.org`
 - Craig MacDonald, University of Glasgow
 - Daichi Mochihashi
 - Daisuke Kawahara, Waseda University
-- Daniel Beck, University of Melbourne
 - Daniel Cer, Google
 - Daniel Dakota, Indiana University
 - Daniel Hershcovich, University of Copenhagen
@@ -123,6 +124,7 @@ Contact: `mentorship@aclrollingreview.org`
 - David McClosky, Google
 - David R Mortensen, Carnegie Mellon University
 - David Vilares, Universidade da Coruña
+- Debanjan Ghosh
 - Dekang Lin, Google
 - Deyi Xiong, Tianjin University
 - Diarmuid O Seaghdha, Apple
@@ -151,6 +153,7 @@ Contact: `mentorship@aclrollingreview.org`
 - François Yvon, LISN-CNRS / Université Paris Saclay
 - Gabriel Skantze, KTH Royal Institute of Technology, Stockholm, Sweden
 - Gabriel Stanovsky, Hebrew University of Jerusalem
+- Ganesh Ramakrishnan, Indian Institute of Technology Bombay
 - Georgiana Dinu, Amazon
 - Giulia Venturi, Institute for Computational Linguistics "A. Zampolli" (ILC-CNR)
 - Giuseppe Attardi, University of Pisa
@@ -175,6 +178,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Jeremy Barnes, University of the Basque Country
 - Jesse Dodge
 - Jessica Ouyang, University of Texas at Dallas
+- Jessy Li, University of Texas at Austin
 - Jianfei Yu, Nanjing University of Science and Technology
 - Jiatao Gu, Facebook AI Research
 - Jin-Dong Kim, Research Organization of Information and Systems
@@ -243,7 +247,9 @@ Contact: `mentorship@aclrollingreview.org`
 - Marco Lippi, University of Modena and Reggio Emilia
 - Marcos Zampieri, Rochester Institute of Technology
 - Margot Mieskes, University of Applied Sciences Darmstadt
+- Marianna Apidianaki, University of Helsinki
 - Marie Candito, Université de Paris
+- Mark Anderson, Cardiff University
 - Mark Fishel, University of Tartu
 - Mark Last, Ben-Gurion University of the Negev
 - Mark-Jan Nederhof, University of St Andrews
@@ -271,6 +277,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Muthu Kumar Chandrasekaran, Amazon
 - Naoaki Okazaki, Tokyo Institute of Technology
 - Naomi Feldman, University of Maryland, College Park
+- Nanyun Peng, University of California, Los Angeles
 - Nathan Schneider, Georgetown University
 - Navonil Majumder, Singapore University of Technology and Design
 - Niranjan Balasubramanian, State University of New York, Stony Brook
@@ -298,11 +305,13 @@ Contact: `mentorship@aclrollingreview.org`
 - Raquel Fernández, University of Amsterdam
 - Rebecca J. Passonneau, Pennsylvania State University
 - Roberto Basili, University of Roma, Tor Vergata
+- Roberto Navigli, Sapienza University of Rome
 - Roi Reichart, Technion, Israel Institute of Technology
 - Rui Yan, Renmin University of China
 - Ruihai Dong
 - Ruken Cakici
 - Saku Sugawara, National Institute of Informatics
+- Samuel R. Bowman, New York University
 - Sara Stymne
 - Sarvnaz Karimi, CSIRO
 - Sebastian Gehrmann, Google Research
@@ -338,7 +347,6 @@ Contact: `mentorship@aclrollingreview.org`
 - Trang Tran, University of Southern California
 - Udo Kruschwitz, University of Regensburg
 - Vincent Ng, University of Texas at Dallas
-- Vinodkumar Prabhakaran, Google
 - Vivek Srikumar, University of Utah
 - Viviana Patti, University of Turin, Computer Science Department
 - Vukosi Marivate, University of Pretoria
@@ -354,7 +362,6 @@ Contact: `mentorship@aclrollingreview.org`
 - Wray Buntine, Vin University and Monash University
 - Wu Liu
 - Xiang Ao, Institute of Computing Technology, Chinese Academy of Sciences
-- Xiang Ren, University of Southern California
 - Xiangliang Zhang, University of Notre Dame
 - Xiaojun Quan, SUN YAT-SEN UNIVERSITY
 - Xiaojun Wan, Peking University
@@ -386,15 +393,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Zhongjun He, Baidu
 - Zhongyu Wei, Fudan University
 - Ziqiang Cao
-- Nanyun Peng, University of California, Los Angeles
-- Marianna Apidianaki, University of Helsinki
-- Ganesh Ramakrishnan, Indian Institute of Technology Bombay
-- Mark Anderson, Cardiff University
-- Debanjan Ghosh
-- Cecilia Alm, Rochester Institute of Technology
-- Amanda Stent, Colby College
-- Samuel R. Bowman, New York University
-- Roberto Navigli, Sapienza University of Rome
+
 
 ## Reviewers
 
