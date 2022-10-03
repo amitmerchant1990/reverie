@@ -8,15 +8,25 @@ excerpt: The Multidisciplinary Digital Publishing Institute, MDPI, is an Open-Ac
 The Multidisciplinary Digital Publishing Institute, [MDPI](https://www.mdpi.com/), is an Open-Access scientific publisher that has grown exponentially in recent years. Much of this growth comes in the form of Special Issues (summarized in an excellent [blog post](https://paolocrosetto.wordpress.com/author/milanphd/) by Paolo Crosetto) - to the point where these vastly outnumber the regular issues in nearly all of their journals. Special Issues efficiently leverages the Guest Editors' professional networks and is ruthlessly clever. After all, we feel much more guilty not accepting an invitation to submit a manuscript from a Guest Editor we know. For many of their journals, the topics of these special issues have large overlaps. Indeed, they are so close that *at any given time, there are multiple open Special Issues to which a manuscript could be submitted*, regardless of topic. For example, researchers in the field of public transportation working on a sustainability project currently have *at least* eleven open Special Issues to which a manuscript on this topic could be submitted:
 
 Road Traffic Engineering and Sustainable Transportation - The Second Edition
+
 Innovative Interactions for Smart Public Transport
+
 Future Prospects in Sustainable Engineering Development for Transport Infrastructures and Systems
+
 Sustainable Public Transport in Urban Areas – Optimization, Management and Development
+
 Recent Advances and New Perspectives on Sustainable Transportation Engineering
+
 Sustainable Public Transport and Logistics Network Optimization
+
 Sustainable Development of Urban Mobility through Active Travel and Public Transport
+
 Sustainable Road Transport System Planning and Optimization
+
 Multi-criteria Decision Making and Sustainable Transport
+
 Development Trends of Sustainable Mobility
+
 Towards Future Public Transport Systems: Techniques for Improving Quality of Services
 
 There are probably many more open Special Issues where such a manuscript would be considered. These are only examples from a single section (Sustainable Transportation) in a single journal (Sustainability), a journal which publishes nearly ten Special Issues per *day*! For being Special Issues, it seems they are not all that special. The main difference between these Special Issues appears to be that they tap into the different professional networks of their respective Guest Editors. Many other journals of course also do this for their Special Issues. Perhaps once or twice per *year*. The difference is that MDPI takes a well-established concept to a whole new extreme.
