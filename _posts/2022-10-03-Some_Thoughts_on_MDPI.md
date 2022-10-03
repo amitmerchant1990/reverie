@@ -36,7 +36,7 @@ As most actively publishing researchers, I too get very frequent invitations to 
 Finally, and on a more positive note perhaps, I will mention one thing MDPI did well, or even brilliantly. This is the decision is to give all their journals one-word names, creating a brand identity and also, in our less critical subconscious, positive associations with prestigious single-word journals such as *Nature*, *Science* or *Cell*.
 &nbsp;  
 &nbsp;  
-This blog post reflect the opnions of the author only, and not those of any employer or publisher.
+This blog post reflects the opnions of the author only, and not those of any employer or publisher.
 &nbsp;  
 &nbsp;  
 &nbsp; 
