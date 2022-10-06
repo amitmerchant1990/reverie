@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Some thoughts on MDPI
+title:  Some Thoughts on MDPI
 categories: [Publishing, Open Access]
 excerpt: The Multidisciplinary Digital Publishing Institute, MDPI, is an Open-Access scientific publisher that have grown exponentially in recent years. Much of this growth comes in the form of Special Issues which, as it turns out, are not all that special.
 ---
