@@ -6,9 +6,7 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-ARR deadlines happen __every 6 weeks__, on the following dates: 1/15, 3/1, 4/15, 6/1, 7/15, 9/1, 10/15, 12/1. In the past, deadlines were on the 15th of each month, but as described in [this blog post](https://aclrollingreview.org/six-week-cycles/), the change took place after the Apr 15th, 2022 deadline.
-
-The reason why the schedule is tight is because we aspire to make turnaround as quick as possible so that authors can get timely feedback on their papers to make further revisions and make them better, or submit to appropriate conferences. In the case that all reviews and meta-reviews are completed on time, reviews will be released 6 weeks after the submission deadline. In the case that not all reviews are completed on time, the release of reviews may be later than this date (either slightly or substantially).
+ARR deadlines happen __every 2 months__, on the following dates: 10/15, 12/15, 2/15. In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/), as of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
@@ -53,10 +51,10 @@ Current publication venues participating in ARR are listed below. If you represe
 | [TRAC 2022](https://sites.google.com/view/trac2022/) | past | 
 | [CoNLL 2022](https://conll.org/) | past |
 | [AACL-IJCNLP 2022](https://www.aacl2022.org/) | past |
-| [CASE 2022](https://emw.ku.edu.tr/case-2022/) | October 2, 2022 |
-| [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | October 2, 2022 |
-| [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | October 2, 2022 |
-| [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/) | October 2, 2022 |
-| [SereTOD 2022](http://seretod.org/) | October 2, 2022 |
-| [MMNLU 2022](https://mmnlu-22.github.io/) | October 2, 2022 |
+| [CASE 2022](https://emw.ku.edu.tr/case-2022/) | past |
+| [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | past |
+| [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | past |
+| [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/) | past |
+| [SereTOD 2022](http://seretod.org/) | past |
+| [MMNLU 2022](https://mmnlu-22.github.io/) | past |
 | [NLLP 2022](https://nllpw.org/) | October 15, 2022 |
