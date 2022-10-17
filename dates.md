@@ -22,8 +22,8 @@ Current publication venues participating in ARR are listed below. If you represe
 | Venue | Commitment Date |
 |---------------------|------------|
 | [NLLP 2022](https://nllpw.org/) | October 15, 2022 |
-| [EACL 2023](https://2023.eacl.org/) | October 15, 2022 |
-| [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | December 15, 2022 |
+| [EACL 2023](https://2023.eacl.org/) | January 8th, 2023 |
+| [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | March 17, 2023 |
 
 
 
