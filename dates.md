@@ -19,11 +19,11 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](https://aclrollingreview.org/organizers).
 
 
-| Venue | Commitment Date |
-|---------------------|------------|
-| [NLLP 2022](https://nllpw.org/) | October 15, 2022 |
-| [EACL 2023](https://2023.eacl.org/) | January 8th, 2023 |
-| [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | March 17, 2023 |
+| Venue | Final ARR Submission Date | Commitment Date |
+|---------------------|------------|------------|
+| [NLLP 2022](https://nllpw.org/) | past | October 15, 2022 |
+| [EACL 2023](https://2023.eacl.org/) | October 15th, 2022 | January 8th, 2023 |
+| [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | December 15th, 2022 | March 17, 2023 |
 
 
 
