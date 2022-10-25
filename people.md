@@ -10,11 +10,11 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
+- Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
-- Goran Glavaš, University of Würzburg
 - Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg LP and University of Houston
-- Amanda Stent, Colby College
+- Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
 Contact: `editors at aclrollingreview.org`
 
@@ -25,12 +25,13 @@ Contact: `editors at aclrollingreview.org`
 ## Technical Staff
 
 - Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
-- Jonathan Kummerfeld, University of Sydney (Co-CTO)
+- Jonathan K. Kummerfeld, University of Sydney (Co-CTO)
 - Nils Dycke, TU Darmstadt
 - Pengfei Liu, Carnegie Mellon University
-- Yoshitomo Matsubara, UC Irvine
+- Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
 - Sebastin Santy, University of Washington
+- Amanda Stent, Colby College
 
 Contact: `tech at aclrollingreview.org`
 
@@ -190,7 +191,6 @@ Contact: `mentorship@aclrollingreview.org`
 - Johannes Daxenberger, summetix GmbH
 - John Lawrence, University of Dundee
 - John M Conroy, Institute for Defense Analyses, Center for Computing Sciences
-- Jonathan K Kummerfeld, University of Michigan
 - Joonsuk Park, University of Richmond
 - Jose Camacho-Collados, Cardiff University
 - Jose Ochoa-Luna
@@ -501,10 +501,12 @@ YANG ZHAO, YAO ZHANG, YIPING SONG, YUNFEI LONG, Yacine Jernite, Yaji Sripada, Ya
 ZHICHENG LIANG, Zahra Sarabi, Zaid Sheikh, Zaiqiao Meng, Zaixiang Zheng, Zara Harmon, Zdeněk Kasner, Zehao Lin, Zemin Liu, Zenglin Xu, Zeqi Tan, Zeqiu Wu, Zequn Sun, Zewei Chu, Zewen Chi, Zexuan Zhong, Zeyang Lei, Zeyu Zhang, Zhanghao Wu, Zhangming Chan, Zhangyin Feng, Zhanming Jie, Zhao Meng, Zhao Yang, Zhaochun Ren, Zhaojiang Lin, Zhaopeng Tu, Zhe Gan, Zhe Hu, Zhefeng Wang, Zhen Hai, Zhen Huang, Zhen Wang, Zhen Wu, Zhen Xu, Zhen Yang, Zhen-Hua Ling, Zheng Lin, Zheng Xin Yong, Zheng Yuan, Zheng Zhang, Zhengbao Jiang, Zhenghao Liu, Zhenghua Li, Zhengyan Zhang, Zhengyu Zhou, Zhengyuan Liu, Zhenisbek Assylbekov, Zhenjie Zhao, Zhenyi Wang, Zhi Chen, Zhichun Wang, Zhifang Sui, Zhihan Zhou, Zhihao Zhang, Zhihong Chen, Zhihong Shao, Zhijian Ou, Zhijiang Guo, Zhiliang Tian, Zhilin Yang, Zhiqing Sun, Zhirui Zhang, Zhisong Zhang, Zhiwen Tang, Zhiyang Teng, Zhiyang Xu, Zhiyong Wu, Zhiyuan Liu, Zhiyuan Zeng, Zhongfen Deng, Zhonghai Wu, Zhongjun He, Zhongli Li, Zhongqiang Huang, Zhongqing Wang, Zhongyang Li, Zhou Zhao, Zhouhan Lin, Zhoujun Li, Zhouxing Shi, Zhuang Chen, Zhuang Liu, Zhumin Chen, Zhun Liu, Zhuohao Chen, Zhuolin Jiang, Zhuoren Jiang, Zhuosheng Zhang, Zhuoxuan Jiang, Zhuoye Ding, Zi Lin, Zi-Yi Dou, Zichao Li, Zied Bouraoui, Zihan Liu, Zijian Wang, Zijing Ou, Zimeng Qiu, Ziming Huang, Zining Zhu, Ziniu Hu, Ziqi Wang, Ziqi Zhang, Ziqing Yang, Zirui Wang, Zita Marinho, Zixuan Ke, Ziyi Yang, Ziyu Yao, Zoey Liu, Zongcheng Ji, Zongxi Li, Zuchao Li, Zulfat Miftahutdinov, Zuohui Fu, Zuyi Bao, zheng li, zhichao Yang
 
 ## Past Editors in Chief
-- Marine Carpuat, University of Maryland
-- Marie-Catherine de Marneffe, The Ohio State University
-- Pascale Fung, Hong Kong University of Science & Technology
+- Aline Villavicencio, University of Sheffield, Federal University of Rio Grande do Sul
+- Amanda Stent, Colby College
+- Goran Glavaš, University of Würzburg
 - Ivan Vladimir Meza Ruiz, Universidad Autonoma de Mexico
-- Smaranda Muresan, Columbia University
+- Marie-Catherine de Marneffe, The Ohio State University
+- Marine Carpuat, University of Maryland
+- Pascale Fung, Hong Kong University of Science & Technology
 - Preslav Nakov, Mohamed Bin Zayed University of Artificial Intelligence
-- Aline Villavicencio, University of Sheffield Federal University of Rio Grande do Sul
+- Smaranda Muresan, Columbia University
