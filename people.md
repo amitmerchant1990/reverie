@@ -8,6 +8,12 @@ permalink: /people
 
 If you want general support regarding ARR, please contact `support at aclrollingreview.org`
 
+## ACL Rolling Review Board
+- Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
+- Yusuke Miyao, The University of Tokyo, Japan
+- Smaranda Muresan, Columbia University, USA
+- Thamar Solorio, University of Houston, USA
+
 ## Editors in Chief
 
 - Lilja Øvrelid, University of Oslo
@@ -418,7 +424,7 @@ EMERSON CABRERA PARAISO, Eben Holderness, Ebrahim Bagheri, Ece Takmaz, Edison Ma
 
 
 ### F
-Fabien Cromieres, Fabio Massimo Zanzotto, Fabio Tamburini, Fabrizio Silvestri, Faeze Brahman, Faisal Ladhak, Fajri Koto, Falcon Z Dai, Fan Bai, Fan Yang, Fanchao Qi, Fandong Meng, Fang Kong, Fangyu Liu, Fangzhao Wu, Fangzhou Zhai, Farhana Ferdousi Liza, Farjana Sultana Mim, Farzane Fakhrian, Fatiha Sadat, Federico Bianchi, Federico Fancellu, Federico Ruggeri, Fei Cheng, Fei Huang, Fei Li, Fei Liu, Fei Sun, Fei Tan, Fei Wang, Fei Zhao, Fei-Tzin Lee, Feifan Fan, Feifan Liu, Feiliang Ren, Feiliang Ren, Feilong Chen, Felipe Soares, Felipe Sánchez-Martínez, Felix Sasaki, Felix Stahlberg, Feng Hou, Feng Ji, Feng Nie, Fenia Christopoulou, Fermín L. Cruz, Fernando Alva-Manchego, Filip Ilievski, Firoj Alam, Flammie A Pirinen, Flor Miriam Plaza del Arco, Florian Boudin, Florian Kunneman, Florian Metze, Forrest Sheng Bao, Francesco Barbieri, Francis Bond, Francis Ferraro, Francis M. Tyers, Francisco Guzmán, Franck Dernoncourt, Frank F. Xu, Frank Keller, Frank Martin Mtumbuka, Frank Rudzicz, Frank Schilder, Frank Xing, François Lareau, François Portet, François Yvon, Fred Popowich, Freda Shi, Frederic Mailhot, Fuzhen Zhuang
+Fabien Cromieres, Fabio Massimo Zanzotto, Fabio Tamburini, Fabrizio Silvestri, Faeze Brahman, Faisal Ladhak, Fajri Koto, Falcon Z Dai, Fan Bai, Fan Yang, Fanchao Qi, Fandong Meng, Fang Kong, Fangyu Liu, Fangzhao Wu, Fangzhou Zhai, Farhana Ferdousi Liza, Farjana Sultana Mim, Farzane Fakhrian, Fatiha Sadat, Federico Bianchi, Federico Fancellu, Federico Ruggeri, Fei Cheng, Fei Huang, Fei Li, Fei Liu, Fei Sun, Fei Tan, Fei Wang, Fei Zhao, Fei-Tzin Lee, Feifan Fan, Feifan Liu, Feiliang Ren, Feiliang Ren, Feilong Chen, Felipe Soares, Felipe Sánchez-Martínez, Felix Sasaki, Felix Stahlberg, Feng Hou, Feng Ji, Feng Nie, Fenglin Liu, Fenia Christopoulou, Fermín L. Cruz, Fernando Alva-Manchego, Filip Ilievski, Firoj Alam, Flammie A Pirinen, Flor Miriam Plaza del Arco, Florian Boudin, Florian Kunneman, Florian Metze, Forrest Sheng Bao, Francesco Barbieri, Francis Bond, Francis Ferraro, Francis M. Tyers, Francisco Guzmán, Franck Dernoncourt, Frank F. Xu, Frank Keller, Frank Martin Mtumbuka, Frank Rudzicz, Frank Schilder, Frank Xing, François Lareau, François Portet, François Yvon, Fred Popowich, Freda Shi, Frederic Mailhot, Fuzhen Zhuang
 
 
 ### G
