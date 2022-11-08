@@ -53,10 +53,10 @@ Sometimes it is necessary to have an emergency review because an originally-assi
 In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible for the reviewer to finish a high-quality review by this deadline.
 In this case, please consult with the reviewer and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
-**Q**: What if I'll be unavailable?
-**A**: For every cycle, before the submission deadline, AEs and reviewers will receive an email asking them to makr their availability to help for the upcoming cycle. Reviewers and AEs may choose to mark themselves as unavailable for that cycle. For longer term unavailability, we ask people to send a request to be removed to `support@aclrollingreview.org`.
+**Q**: What if I'll be unavailable?<br>
+**A**: For every cycle, before the submission deadline, AEs and reviewers will receive an email asking them to mark their availability to help for the upcoming cycle. Reviewers and AEs may choose to mark themselves as unavailable for that cycle. For longer term unavailability, we ask people to send a request to be removed to `support@aclrollingreview.org`.
 
-**Q**: How can I set a maximum load for myself?
+**Q**: How can I set a maximum load for myself?<br>
 **A**: Similar to avalability, before the submission deadline for the upcoming cycle, reviewers and AEs will get a email to fill out a short form where they can specify their max load for the upcoming cycle.
 
 ## Communication
