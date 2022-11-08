@@ -54,10 +54,10 @@ In this case, we still hope that we can maintain the original timeline (finishin
 In this case, please consult with the reviewer and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
 **Q**: What if I'll be unavailable?
-**A**: Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u). Please do so *before* the 15th of the first month in which you will be unavailable.
+**A**: For every cycle, before the submission deadline, AEs and reviewers will receive an email asking them to makr their availability to help for the upcoming cycle. Reviewers and AEs may choose to mark themselves as unavailable for that cycle. For longer term unavailability, we ask people to send a request to be removed to `support@aclrollingreview.org`.
 
 **Q**: How can I set a maximum load for myself?
-**A**: Use [this form](https://forms.office.com/pages/responsepage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UNEpDRzZJNEg1NUdDTDhKVlVEVk9LQURGTy4u). Please complete it *before* the 15th of the month in which you first want this maximum load.
+**A**: Similar to avalability, before the submission deadline for the upcoming cycle, reviewers and AEs will get a email to fill out a short form where they can specify their max load for the upcoming cycle.
 
 ## Communication
 
