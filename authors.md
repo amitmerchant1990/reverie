@@ -6,14 +6,12 @@ permalink: /authors
 
 Quick links:
 * [Call For Papers](/cfp)
-* [Authors' Guide to OpenReview](https://cutt.ly/NUBnqFq)
+* [Authors' Guide to OpenReview](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.p)
 * [Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch)
 * [Author Checklist](/authorchecklist)
   * [Submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
   * [Responsible NLP research template](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
 * [2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
-* [Volunteer to Be a Reviewer](https://cutt.ly/eIsbeI0)
-* [Volunteer to Be an Emergency Reviewer](https://cutt.ly/KOhbzE1)
 
 # Commitment Sites
 
@@ -38,7 +36,7 @@ See the questions below for more information.
 **A**: See the link to submit to the next deadline, below. Note that some of the fields are only required for _resubmissions_.
 
 **Q**: I have reviews. How do I respond?<br>
-**A**: You can respond to reviewers in two ways: 1) by making a resubmission in a subsequent cycle. In the submission form, if you are making a resubmission, you should: a) provide the URL of your previous submission; b) upload the PDF of your previous submission; and c) upload a single PDF of your response to the previous round of reviews (for example, indicating how you modified the paper to answer reviewers’ questions). 2) by replying to your reviews directly on OpenReview, within a 1 week window after you have received the review.
+**A**: You respond to reviewers by making a _resubmission_. In the submission form, if you are making a _resubmission_, you should: a) provide the URL of your previous submission; b) upload the PDF of your previous submission; and c) upload a single PDF of your response to the previous round of reviews (for example, indicating how you modified the paper to answer reviewers' questions).
 
 **Q**: Why didn't I receive my reviews on the 21s of the month as promised?<br>
 **A**: 21 is the earliest date to receive reviews. Unfortunately, we cannot guarantee this as it also depends on the availability of qualified reviewers who reviews the papers. ARR is unlike a regular conference setup and we don’t release all the reviews at the same time. Rather, we release it as soon as it is available. Having said that, we are working hard to make this process more smooth in the upcoming months and reduce any delay in the future.

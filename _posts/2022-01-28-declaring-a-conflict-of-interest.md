@@ -21,8 +21,8 @@ We try to automatically identify conflicts of interest using the OpenReview prof
 This means that it is critical to *have a complete OpenReview profile*. Now, if you don't regularly publish, or are a first-time author, you may not have Semantic Scholar or DBLP entries. But as soon as you get that first publication in a computer science discipline (congratulations!) please add those profiles.
 
 These helpful guides show you how to set up your OpenReview profile and so much more:
-* Authors' Guide to OpenReview: [https://cutt.ly/NUBnqFq](https://cutt.ly/NUBnqFq)
-* Reviewers' Guide to OpenReview: [https://cutt.ly/pTvDRZP](https://cutt.ly/pTvDRZP)
+* [Authors' Guide to OpenReview](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.p)
+* [Reviewers' Guide to OpenReview](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p)
 
 Reviewers and Action Editors
 ----------------------------

@@ -5,13 +5,10 @@ permalink: /reviewers
 ---
 
 Quick links:
-* [Reviewers' Guide to OpenReview](https://cutt.ly/pTvDRZP)
+* [Reviewers' Guide to OpenReview](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.p)
 * [Reviewer Tutorial](/reviewertutorial)
 * [Guidelines for Ethics Reviewers](/ethicsreviewertutorial)
-* [Set / Update Your Max Load](https://cutt.ly/8UBv5p1)
-* [Set / Update Your Unavailability](https://cutt.ly/SUBv17v)
-* [Volunteer to Be a Reviewer](https://cutt.ly/eIsbeI0)
-* [Volunteer to Be an Emergency Reviewer](https://cutt.ly/KOhbzE1)
+* [Set Your Max Load / Availability for a Cycle](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit)
 
 
 # Reviewer Responsibilities
@@ -28,9 +25,7 @@ So, reviewers will want to be especially available from the 15th to the 22nd of 
 
 An initial term of one year, renewable. We will eventually have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to review many papers at a time as opposed to a few every month. Thus, at the beginning of the monthly reviewing cycle, reviewers will have a chance to specify how many papers they would like to handle. In addition, we will add the ability of reviewers to indicate that they are on vacation or otherwise unavailable.
 
-Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://cutt.ly/SUBv17v).
-
-Reviewers may set a max load per month. To do so, please complete [this form](https://cutt.ly/8UBv5p1).
+Reviewers may set a max load per month (any value, including 0). To do so, please follow [these instructions](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit).
 
 # FAQ
 
@@ -51,7 +46,7 @@ In this case, we still hope that we can maintain the original timeline (finishin
 In this case, please consult with the action editor in charge of your paper (see how to contact them below) and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
 
 **Q**: What if I'll be unavailable?
-**A**: Reviewers may choose to mark themselves as unavailable for some period. To do so, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UMkJXNTc2NDU1SzM4MkcyTkFETjhOQzAxSC4u). Please do so *before* the 15th of the first month in which you will be unavailable.
+**A**: Reviewers may choose to mark themselves as unavailable for any cycle. Instructions to do so can be found [here](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit). The form is released shortly before each cycle and a link is shared via email.
 
 ## Paper Assignment
 
@@ -69,7 +64,7 @@ The average monthly load for reviewers should be much closer to 2, but in certai
 it's possible that the load is higher.
 
 **Q**: How can I set a maximum review load for myself?
-**A**: Use [this form](https://forms.office.com/pages/responsepage.aspx?id=9028kaqAQ0OMdrEjlJf7WXcpizsAwgRHnquEMJ-wjU5UNEpDRzZJNEg1NUdDTDhKVlVEVk9LQURGTy4u). Please complete it *before* the 15th of the month in which you first want this maximum load.
+**A**: See [these instructions](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit).
 
 **Q**: Is it allowed to have a secondary reviewer for ARR?<br>
 **A**: This can be done in two ways:
@@ -134,8 +129,8 @@ This is a known issue as the link (as opposed to the link *text*) uses %-encodin
 **Q**: Is there any plan of integrating the review system of ARR into Publons so that there is a method for showing reviewing contributions?<br>
 **A**: We haven't considered it yet (primarily because at this moment we have several issues of higher priority to sort out), but it's definitely something we will consider in the following months.
 
-**Q**: Is ARR open to first-time reviewers? If yes, is there a training process?<br>
-**A**: Yes, ARR is definitely open to first-time reviewers, but we do expect that reviewers have some ACL publications. Please fill out this [response form](https://forms.office.com/r/MfzL7WuNZb), and we'll get in contact when the time comes! 
+**Q**: Is ARR open to first-time reviewers?<br>
+**A**: Yes, ARR is definitely open to first-time reviewers. However, we do require reviewers to have some publications in the ACL Anthology. Please contact the editors to request to be added.
 
 **Q**: I got an invitation to review but the title of the message and the indicated deadline seem outdated. Is that correct? or did this message reach me too late?<br>
 **A**: It means you are invited as an emergency reviewer and the deadline does not apply to you. In general, our guidance is to take the time you need to give a high-quality review, while keeping in mind that authors are waiting for the reviews to come back. Unfortunately, OpenReview sends the same original invite and does not allow AEs to modify the message.
