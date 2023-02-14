@@ -1,0 +1,10 @@
+To change pages tabs
+--> default.html --> <nav>
+--> comment out the page links 
+
+Read the jekyll docs
+https://jekyllrb.com/
+
+some tips front matter
+https://jekyllrb.com/docs/front-matter/
+
