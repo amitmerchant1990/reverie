@@ -8,3 +8,4 @@ https://jekyllrb.com/
 some tips front matter
 https://jekyllrb.com/docs/front-matter/
 
+Only .md files get recognized in /_posts
