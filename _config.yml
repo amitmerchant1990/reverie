@@ -55,7 +55,8 @@ google_analytics:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/oscastellanos"
+#baseurl: "/oscastellanos"
+url: "https://oscastellanos.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
