@@ -291,6 +291,9 @@ p > img {
 
   img {
     border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
   }
 }
 
