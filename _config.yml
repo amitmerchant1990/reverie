@@ -40,11 +40,9 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
-
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+# For newer "GA4" analytics, use the following instead of the previous "UA" tags
+# As of July 1, 2023, UA tags no longer functional, view readme for more.
+google_analytics_ga4: G-GABC1DEFG
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
