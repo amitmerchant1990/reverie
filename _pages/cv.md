@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: A more formal About Me
+title: A More Formal About Me
 ---
 ## Austin Yizhi Yang
 
