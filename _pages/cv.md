@@ -20,7 +20,7 @@ Machine Learning Engineering Intern, _Jun 2024 - Aug 2024_
 Moderna \
 Research Systems Innovation Co-op, _Jan 2024 - Jun 2024_ 
 
-Google \ 
+Google \
 CSRMP Research Fellow, _Sep 2023 - Jan 2024_ 
 
 # Research 
@@ -31,7 +31,7 @@ Biomedical Ethics @ Center for Biomedical Ethics, Stanford School of Medicine, _
 Advisor: Dr. Bryant Lin
 
 Biostatistics @ Department of Orthopaedic Surgery, Stanford School of Medicine, _Mar 2023 - Sep 2023_ \ 
-2023 Stanford Undergraduate Research Program in Statistics \ 
+2023 Stanford Undergraduate Research Program in Statistics\ 
 Advisor: Dr. Nidhi Bhutani, Yudhistar Bedi
 
 # Projects
