@@ -4,26 +4,11 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Hi! I'm Austin
+I'm currently a student at Stanford pursuing a dual Bachelors degree (B.S. Math + CS, B.A. Data Science) and coterminal Masters degree (M.S. Computational and Mathematical Engineering). I am broadly interested in uses of statistical computation on systems that run society, from solving biological problems to market making. I'm currently a computational research co-op at Moderna. My current research is on developing hyperscalable computational hit-finding models.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Other than that, I'm a perma-injured tennis player, semi-retired double bassist, and Google Maps doomscroller.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## I'd love to meet you!
+Email: ayiyang [at] stanford [dot] edu
+LinkedIn: https://www.linkedin.com/in/austin-yizhi-yang-67a3a41b6/
