@@ -34,6 +34,7 @@ Biostatistics @ Department of Orthopaedic Surgery, Stanford School of Medicine, 
 2023 Stanford Undergraduate Research Program in Statistics \ 
 Advisor: Dr. Nidhi Bhutani, Yudhistar Bedi
 
+# Projects
 A Clean Transition to a Second Shale Revolution: Evaluating the Environmental Impact of the Shale Revolution and Forecasting its Future in the Age of Artificial Intelligence \
 _Citadel Spring 2024 Invitational Datathon_ 
 
