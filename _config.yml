@@ -40,6 +40,7 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
 
+# As of July 1, 2023 Google has officially disabled all UA Tags, check project readme for more
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-43339302-11
 
