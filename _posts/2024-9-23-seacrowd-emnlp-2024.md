@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 🎉 Exciting news! SEACrowd's very first publication has been accepted at EMNLP 2024! 🚀
+title:
 categories: Announcement,Project
+excerpt: 🎉 Exciting news! SEACrowd's very first publication has been accepted at EMNLP 2024! 🚀
 ---
 
 🎉 Exciting news! SEACrowd's very first publication has been accepted at EMNLP 2024! 🚀
