@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: Events
+categories: Event
 excerpt: Southeast Asian BoF & meet-up @ ACL 2024!
 ---
 
