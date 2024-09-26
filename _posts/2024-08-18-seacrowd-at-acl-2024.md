@@ -17,4 +17,4 @@ Looking forward to seeing you all at future conferences! :wink:
 
 <img width="500" alt="Hangout at ACL 2024" src="https://github.com/SEACrowd/seacrowd.github.io/blob/master/images/ACL%202024/%5BSEACrowd%5D%20Documentation%20(3).png?raw=true">
 
-> :frame_photo: Complete documentations from ACL 2024 and our other SEACrowd events can be seen in [this Google Photos album](https://photos.app.goo.gl/chgNTwJkFH7K1kBAA). 
+> 🖼️ Complete documentations from ACL 2024 and our other SEACrowd events can be seen in [this Google Photos album](https://photos.app.goo.gl/chgNTwJkFH7K1kBAA). 
