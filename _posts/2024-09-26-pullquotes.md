@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pullquotes
-categories: [HTML,Code]
+categories: [Introduction,Projects]
 excerpt: We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 ---
 
