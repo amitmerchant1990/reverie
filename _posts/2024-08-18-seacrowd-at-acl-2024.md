@@ -2,7 +2,7 @@
 layout: post
 title: ""
 categories: Events
-excerpt: SEACrowd :parrot: @ ACL 2024!
+excerpt: SEACrowd BoF & meet-up @ ACL 2024!
 ---
 
 Thanks to everyone for the amazing time at ACL 2024!
