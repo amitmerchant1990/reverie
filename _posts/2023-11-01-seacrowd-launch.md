@@ -29,3 +29,5 @@ Contributions are rewarded with points. Generally more complex tasks get higher 
 Reach certain point thresholds for merch👕 and co-authorship📝!
 
 Interested? Then check out our [GitHub](https://github.com/SEACrowd) page, and join our Discord server. Feel free to ask any questions😀 
+
+<img width="500" alt="SEACrowd Poster" src="https://github.com/SEACrowd/seacrowd.github.io/blob/master/images/SEACrowd_Poster_1x.png?raw=true">
