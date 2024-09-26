@@ -7,7 +7,7 @@ excerpt: SEACrowd BoF & meet-up @ ACL 2024!
 
 Thanks to everyone for the amazing time at ACL 2024!
 
-From our :parrot: [first Birds of a Feather session](https://docs.google.com/presentation/d/1FkrnvXCMzyAtfXsXpvmgsg6tkF3QP6rwW4m9eoK1iNg/edit?usp=sharing), :meat_on_bone: the rainy dinner in Bangkok (special thanks to @mrp4910 and the other Thai folks for organizing!), to :speaking_head: the keynote on SEA by @williamtjhi and @ayupurwa, every moment was truly memorable.
+From our 🦜 [first Birds of a Feather session](https://docs.google.com/presentation/d/1FkrnvXCMzyAtfXsXpvmgsg6tkF3QP6rwW4m9eoK1iNg/edit?usp=sharing), 🍖 the rainy dinner in Bangkok (special thanks to Peerat and the other Thai folks for organizing!), to 🗣️ the keynote on SEA by @williamtjhi and @ayupurwa, every moment was truly memorable.
 
 Looking forward to seeing you all at future conferences! :wink:
 
