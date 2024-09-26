@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: Events
+categories: Project
 excerpt: SEACrowd progress update & Catalogue release 🤩 
 ---
 
