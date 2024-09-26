@@ -13,6 +13,7 @@ A lot has been happening for Southeast Asia!
 
 ## Talks
 
+- 16/08/2024. **Insights from Language Resource Collection in Linguistically Diverse Southeast Asian Languages**. Genta Indra Winata, Alham Fikri Aji. Panel discussion at Fields Matter Workshop, ACL 2024.
 - 13/08/2024. [**Challenges and Opportunities with SEA LLMs**](https://underline.io/events/466/sessions?eventSessionId=18202&searchGroup=lecture). Ayu Purwarianti, Sarana Nutanong, William Tjhi. Panel discussion at ACL 2024.
 - 15/07/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://docs.google.com/presentation/d/1SHw8dFyl2SO06rW0TVwP3qTcXfhcuIChgseePd1js4Y/pub?start=false&loop=false&delayms=3000). Holy Lovenia. IMDA Tech Sharing Session.
 - 23/05/2024. **Progress of SEACrowd**. Alham Fikri Aji. [Project SEALD's 2nd Language Summit](https://connect.aisingapore.org/2024/06/building-a-more-inclusive-ai-future-together-in-southeast-asia/).
