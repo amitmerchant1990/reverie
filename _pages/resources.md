@@ -7,9 +7,9 @@ permalink: /resources/
 Southeast Asia is home to more than 1,000 native languages. Nevertheless, Southeast Asian NLP, vision-language, and speech processing is underrepresented in the research community, and one of the reasons is the lack of access to public datasets ([Aji et al., 2022](https://aclanthology.org/2022.acl-long.500/)).
 It is essential to greatly increase the accessibility of SEA datasets, promote research in SEA languages and cultures, as well as build more AI models that represent SEA.
 
-We consolidate a [comprehensive resource hub](https://seacrowd.github.io/seacrowd-catalogue/) that fills the resource gap by [providing standardized corpora](https://github.com/SEACrowd/seacrowd-datahub) in nearly 1,000 Southeast Asian (SEA) languages across three modalities. Find their standardized dataloaders [here](https://github.com/SEACrowd/seacrowd-datahub).
+We consolidate a comprehensive resource hub, [**SEACrowd Catalogue**](https://seacrowd.github.io/seacrowd-catalogue/) that fills the resource gap in nearly 1,000 Southeast Asian (SEA) languages across three modalities. Find their standardized dataloaders in the [**SEACrowd Data Hub**](https://github.com/SEACrowd/seacrowd-datahub).
 
-Furthermore, we also build [SEACrowd benchmarks](https://github.com/SEACrowd/seacrowd-experiments) to assess the quality of AI models on 36 indigenous languages across 13 tasks, offering valuable insights into the current AI landscape in SEA. Furthermore, we propose strategies to facilitate greater AI advancements, maximizing potential utility and resource equity for the future of AI in SEA.
+Furthermore, we also build the [**SEACrowd Benchmarks**](https://github.com/SEACrowd/seacrowd-experiments) to assess the quality of AI models on 36 indigenous languages across 13 tasks, offering valuable insights into the current AI landscape in SEA. Furthermore, we propose strategies to facilitate greater AI advancements, maximizing potential utility and resource equity for the future of AI in SEA.
 
 > Check out [our "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" paper](https://arxiv.org/pdf/2406.10118)!
 
@@ -24,7 +24,7 @@ Furthermore, we also build [SEACrowd benchmarks](https://github.com/SEACrowd/sea
 | [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-experiments) | Experiment repository for SEACrowd NLP, VL, & speech benchmarks, translationese vs. naturalness assessment, language equity, language prioritization, etc. |
 | [HuggingFace Collection](https://huggingface.co/collections/SEACrowd/seacrowd-a-multilingual-multimodal-data-hub-and-benchmark-s-667127ad938266072cdc46be) | Our fine-tuned translationese classifier & train/test data |
 
-## Evaluation Results
+## How do current LLMs, VLMs, & speech models perform in SEA languages?
 
 More details in [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-experiments).
 
@@ -37,11 +37,27 @@ More details in [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-expe
 #### VLMs
 <img width="500" alt="VL Performance" src="https://github.com/SEACrowd/seacrowd-experiments/blob/main/assets/eval-vl.png?raw=true">
 
-## Generation Quality in SEA Languages: Translationese vs. Natural
+## LLM Generation Quality in SEA Languages: Translationese vs. Natural
 
 ### Naturalness Result
 
 <img width="500" alt="Naturalness Result" src="https://github.com/SEACrowd/seacrowd-experiments/blob/main/assets/naturalness-result.png?raw=true">
+
+## Contributing to SEACrowd Catalogue & Data Hub
+
+Everyone can join and contribute to this initiative.
+
+### 🗃️ Task 1: Submitting Datasheet for Existing Public Datasets
+
+You can submit detailed metadata for existing datasets through [this form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). You will provide important information such as data license, size, language and dialect, annotation method, and so on. The approved datasheets as well as under review datasheets will show up and indexed in SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)).
+
+### 🖥️ Task 2: Building DataLoader
+
+From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [dataloader guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
+
+#### Is there any other way to help?
+
+For sure. You can [contact us](https://seacrowd.github.io/contact/) to learn about the details.
 
 ## Citation
 
