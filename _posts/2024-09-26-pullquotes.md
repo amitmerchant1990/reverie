@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Welcome to SEACrowd!
-categories: [Introduction,Projects]
+categories: [Introduction,Project]
 excerpt: We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region. Read more to check out our on-going projects!
 ---
 
