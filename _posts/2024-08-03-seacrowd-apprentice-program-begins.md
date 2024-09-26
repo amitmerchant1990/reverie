@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: Events
+categories: Project
 excerpt: The Apprentice (Pilot) Program starts now! 💪 
 ---
 
