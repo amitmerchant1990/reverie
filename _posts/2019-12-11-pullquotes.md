@@ -2,13 +2,27 @@
 layout: post
 title:  Pullquotes
 categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt: We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 
-Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
+> See what indigenous and non-indigenous languages are under our study [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
 
-Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
+## On-going Projects
 
-A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+### SEA Visual Instruction
+
+We will launch our new project in early Nov 2024 (11/2024). [Stay tuned!](https://seacrowd.github.io/contact/)
+
+### SEACrowd Apprentice (Pilot) Program
+
+On-going since 08/2024.
+
+This program targets early-career AI enthusiasts from underserved Southeast Asian communities, who are looking to gain their first substantial research experience. Many face challenges such as limited access to research tools, mentorship, and AI developments.
+
+Our program addresses these gaps by providing research problems for participants to solve in small teams, guided by experienced mentors. Through hands-on projects and learning key concepts, participants work toward writing a publication for top AI conferences like ACL. The program also emphasizes critical thinking, collaboration, and academic writing to prepare participants for success in AI research.
+
+## Past Projects
+
+- 11/2023 to 06/2024. [SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024.
