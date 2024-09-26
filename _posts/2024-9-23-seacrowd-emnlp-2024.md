@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: ""
 categories: Announcement,Project
 ---
 
