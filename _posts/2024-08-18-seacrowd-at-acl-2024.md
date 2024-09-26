@@ -9,7 +9,7 @@ Thanks to everyone for the amazing time at ACL 2024!
 
 From our 🦜 [first Birds of a Feather session](https://docs.google.com/presentation/d/1FkrnvXCMzyAtfXsXpvmgsg6tkF3QP6rwW4m9eoK1iNg/edit?usp=sharing), 🍖 the rainy dinner in Bangkok (special thanks to Peerat and the other Thai folks for organizing!), to 🗣️ the keynote on SEA by @williamtjhi and @ayupurwa, every moment was truly memorable.
 
-Looking forward to seeing you all at future conferences! :wink:
+Looking forward to seeing you all at future conferences! 😉
 
 <img width="500" alt="BoF at ACL 2024" src="https://github.com/SEACrowd/seacrowd.github.io/blob/master/images/ACL%202024/%5BSEACrowd%5D%20Documentation%20(1).png?raw=true">
 
