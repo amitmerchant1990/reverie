@@ -5,6 +5,8 @@ categories: Project
 excerpt: SEACrowd progress update & Catalogue release 🤩 
 ---
 
+SEACrowd progress update & Catalogue release 🤩
+
 [SEACrowd Catalogue](https://seacrowd.github.io/seacrowd-catalogue/) has been improving by leaps and bounds. Check it out!
 
 Big thanks to [Sonny Lazuardi](https://sonnylab.com/) for making this impressive transformation possible!! 🤩
