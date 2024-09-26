@@ -6,7 +6,7 @@ categories: Announcement,Project
 
 🎉 Exciting news! SEACrowd's very first publication has been accepted at EMNLP 2024! 🚀
 
-"SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" (https://arxiv.org/pdf/2406.10118)
+[**"SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages"**](https://arxiv.org/pdf/2406.10118)
 
 This milestone is a massive leap for AI research in Southeast Asia, and we owe it all to our dedicated 100+ contributors. Your commitment and hard work were pivotal in bringing us to this point. 💪 Also special thanks to AI Singapore who has been very supportive and encouraging for our journey. ❤️
 
