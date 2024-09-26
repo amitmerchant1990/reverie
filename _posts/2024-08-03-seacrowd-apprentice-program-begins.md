@@ -2,7 +2,7 @@
 layout: post
 title: ""
 categories: Events
-excerpt: SEACrowd Apprentice (Pilot) Program starts now! 💪 
+excerpt: The Apprentice (Pilot) Program starts now! 💪 
 ---
 
 SEACrowd Apprentice (Pilot) Program starts now! 💪 
