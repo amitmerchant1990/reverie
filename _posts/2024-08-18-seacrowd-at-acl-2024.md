@@ -2,7 +2,7 @@
 layout: post
 title: ""
 categories: Event
-excerpt: Southeast Asian BoF & meet-up @ ACL 2024!
+excerpt: Southeast Asian BoF 🐦 & meet-up 👋 at ACL 2024!
 ---
 
 Thanks to everyone for the amazing time at ACL 2024!
