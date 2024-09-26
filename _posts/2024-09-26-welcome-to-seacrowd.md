@@ -5,6 +5,8 @@ categories: [Introduction,Project]
 excerpt: We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region. Read more to check out our on-going projects. 🔥
 ---
 
+<img width="100%" alt="SEACrowd Logo" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-email-banner-without-logo.png?raw=true">
+
 We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 
 > See what indigenous and non-indigenous languages are under our study [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
