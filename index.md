@@ -25,7 +25,9 @@ We are a community dedicated to bridging the gap between multilingual AI and Sou
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  Test 2
+  {{ site.baseurl }}
 </div>
 
-Test 2
+
 
