@@ -1,6 +1,5 @@
 ---
-layout: frontpage
-title: Home
+title: About Us
 ---
 
 <img width="100%" alt="SEACrowd Logo" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-email-banner-without-logo.png?raw=true">
