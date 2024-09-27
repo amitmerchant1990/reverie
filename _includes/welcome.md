@@ -8,13 +8,13 @@ We are a community dedicated to bridging the gap between multilingual AI and Sou
 
 <div align="center">
   <div class="btn-group" role="group" aria-label="Button group">
-      <a href="https://discord.gg/XXRHFuvkTA" class="btn btn-primary">
+      <a href="https://discord.gg/XXRHFuvkTA" class="btn btn-primary" target="_blank">
           <i class="fa-brands fa-discord"></i>
       </a>
-      <a href="https://github.com/SEACrowd" class="btn btn-primary">
+      <a href="https://github.com/SEACrowd" class="btn btn-primary" target="_blank">
           <i class="fa-brands fa-github"></i>
       </a>
-      <a href="https://huggingface.co/SEACrowd" class="btn btn-primary">
+      <a href="https://huggingface.co/SEACrowd" class="btn btn-primary" target="_blank">
           <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" style="height: 20px;">
       </a>
   </div>
