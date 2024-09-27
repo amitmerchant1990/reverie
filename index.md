@@ -11,6 +11,25 @@ We are a community dedicated to bridging the gap between multilingual AI and Sou
 
 > See what indigenous and non-indigenous languages are under our study [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
 
+<div align="center">
+  <div class="btn-group" role="group" aria-label="Button group">
+      <a href="#" class="btn btn-primary">
+          <i class="fas fa-info-circle"></i> Learn More
+      </a>
+      <a href="#" class="btn btn-primary">
+          <i class="fab fa-x-twitter"></i> Social Media
+      </a>
+      <a href="#" class="btn btn-primary">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" style="height: 20px; margin-right: 8px;"> HuggingFace
+      </a>
+  </div>
+</div>
+
+<!-- Bootstrap and FontAwesome CDN links -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 ## 🤔 What's Next?
 
 ### 🖼️ SEA Visual Instruction
@@ -50,29 +69,32 @@ Our program addresses these gaps by providing research problems for participants
   {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
+{% if site.total_pages > 1 %}
   <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <!-- Previous Page Link -->
+    {% if site.page > 1 %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', site.page | minus: 1 | replace: '//', '/' }}">&laquo; Prev</a>
     {% else %}
       <span>&laquo; Prev</span>
-    {% endif %}
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
+    {% endif %}    
+    <!-- Page Numbers -->
+    {% for page in (1..site.total_pages) %}
+      {% if page == site.page %}
+        <span class="current-page">{{ page }}</span>
       {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        <a href="{{ site.baseurl }}/">{{ page }}</a>
       {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page | replace: '//', '/' }}">{{ page }}</a>
       {% endif %}
-    {% endfor %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% endfor %}    
+    <!-- Next Page Link -->
+    {% if site.page < site.total_pages %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', site.page | plus: 1 | replace: '//', '/' }}">Next &raquo;</a>
     {% else %}
       <span>Next &raquo;</span>
     {% endif %}
   </div>
-  {% endif %}
+{% endif %}
 
 
 
