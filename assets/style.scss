@@ -224,6 +224,16 @@ p > img {
   margin: 0 auto;
 }
 
+blockquote {
+  margin: 1.8em .8em;
+  /*border-left: 2px solid $gray;*/
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 22px;
+  font-style: italic;
+  background-color: #ede1ff;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -374,16 +384,6 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ede1ff;
-  }
-
   .you-may-like{
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
@@ -464,18 +464,6 @@ body:after {
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
-}
-
-.page {
-  blockquote {
-    margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ede1ff;
-  }
 }
 
 .author_title{
