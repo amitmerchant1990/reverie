@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: frontpage
 title: Home
 ---
 
@@ -58,55 +58,6 @@ Our program addresses these gaps by providing research problems for participants
 <hr/>
 
 # News and Updates
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
-
-{{ site.total_pages }}
-{{ site.page }}
-
-
-{% if site.total_pages > 1 %}
-  <div class="pagination">
-    <!-- Previous Page Link -->
-    {% if site.page > 1 %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', site.page | minus: 1 | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}    
-    <!-- Page Numbers -->
-    {% for page in (1..site.total_pages) %}
-      {% if page == site.page %}
-        <span class="current-page">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ site.baseurl }}/">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', page | replace: '//', '/' }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}    
-    <!-- Next Page Link -->
-    {% if site.page < site.total_pages %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: ':num', site.page | plus: 1 | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-{% endif %}
 
 
 
