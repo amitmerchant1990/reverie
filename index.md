@@ -65,6 +65,11 @@ Our program addresses these gaps by providing research problems for participants
   {% endfor %}
 </div>
 
+
+{{ site.total_pages }}
+{{ site.page }}
+
+
 {% if site.total_pages > 1 %}
   <div class="pagination">
     <!-- Previous Page Link -->
