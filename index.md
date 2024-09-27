@@ -29,7 +29,7 @@ Our program addresses these gaps by providing research problems for participants
 
 <hr/>
 
-## News and Updates
+# News and Updates
 
 <div class="posts">
   {% for post in site.posts %}
