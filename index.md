@@ -45,7 +45,7 @@ SIGSEA aims to change that by promoting research, collaboration, and sharing upd
 
 We're collecting expressions of interest for membership. As a member, you'll receive regular updates on research, events, and opportunities in the region.
 
-Everyone can join (no need for ACL membership). **Sign up today to join SIGSEA via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfNiQ6xSq3yMDMITKbmRvkvjQkznpgO3BFfOHa0957sGnmsbw/viewform)! 🫶**
+Everyone can join (no need for ACL membership). Sign up today to join SIGSEA via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfNiQ6xSq3yMDMITKbmRvkvjQkznpgO3BFfOHa0957sGnmsbw/viewform)! 🫶
 
 ### 🧑‍🎓 SEACrowd Apprentice (Pilot) Program
 
