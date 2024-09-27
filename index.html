@@ -2,7 +2,11 @@
 layout: default
 ---
 
+{% capture welcome_content %}
 {% include welcome.md %}
+{% endcapture %}
+
+{{ welcome_content | markdownify }}
 
 <div class="posts">
   {% for post in paginator.posts %}
