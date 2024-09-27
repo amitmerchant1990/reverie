@@ -4,7 +4,7 @@
 
 We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
 
-> See what indigenous and non-indigenous languages are under our study [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
+> See what [indigenous and non-indigenous languages](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md) are under our study.
 
 <div align="center">
   <div class="btn-group" role="group" aria-label="Button group">
