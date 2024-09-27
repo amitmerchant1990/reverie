@@ -25,7 +25,7 @@ Our program addresses these gaps by providing research problems for participants
 
 ## ✔️ Past Projects
 
-- 11/2023 to 06/2024. [SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024.
+- 11/2023 to 06/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024.
 
 <hr/>
 
