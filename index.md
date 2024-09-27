@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-<div style="border-bottom: 1px solid #eee;">
-
 <img width="100%" alt="SEACrowd Logo" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-email-banner-without-logo.png?raw=true">
 
 We are a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region.
@@ -29,7 +27,7 @@ Our program addresses these gaps by providing research problems for participants
 
 - 11/2023 to 06/2024. [SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024.
 
-</div>
+<hr/>
 
 ## News and Updates
 
