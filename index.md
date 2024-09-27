@@ -25,7 +25,7 @@ We are a community dedicated to bridging the gap between multilingual AI and Sou
   </div>
 </div>
 
-
+<hr/>
 ## 🤔 What's Next?
 
 ### 🖼️ SEA Visual Instruction
@@ -39,6 +39,7 @@ On-going since 08/2024.
 This program targets early-career AI enthusiasts from underserved Southeast Asian communities, who are looking to gain their first substantial research experience. Many face challenges such as limited access to research tools, mentorship, and AI developments.
 
 Our program addresses these gaps by providing research problems for participants to solve in small teams, guided by experienced mentors. Through hands-on projects and learning key concepts, participants work toward writing a publication for top AI conferences like ACL. The program also emphasizes critical thinking, collaboration, and academic writing to prepare participants for success in AI research.
+<hr/>
 
 ## ✔️ Past Projects
 
