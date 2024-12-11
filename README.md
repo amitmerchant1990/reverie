@@ -31,9 +31,12 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
   - [Pagination](#pagination)
   - [RSS](#rss)
   - [Sitemap](#sitemap)
+  - [Troubleshooting](#troubleshooting)
   - [Emailware](#emailware)
   - [The name?](#the-name)
   - [License](#license)
+
+{:toc}
 
 ## Features overview
 
@@ -118,6 +121,16 @@ Reverie comes with a [RSS feed](https://en.wikipedia.org/wiki/RSS) in-built. The
 ## Sitemap
 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap.xml>. You can see the example sitemap feed over [here](https://reverie-jekyll.netlify.app/sitemap.xml).
+
+## Troubleshooting
+
+There might be instances where your site based on Reverie won't have the styling working as expected. 
+
+The common reason for this issue is the incorrect `baseurl` set in the `_config.yml` file. You need to use the `baseurl` according to where you're hosting it.
+
+So, for instance, if you're hosting your site at a Project repository on GitHub pages (http://yourusername.github.io/repository-name) and NOT your user repository (http://yourusername.github.io) then the `baseurl` will be `/repository-name`.
+
+Otherwise the `baseurl` will be `/`.
 
 ## Emailware
 Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this theme or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
